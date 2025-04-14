@@ -1,0 +1,100 @@
+baseURL = 'https://example.org/'
+title = '林书资源导航'
+theme = 'paper'
+copyright = '© 2025, 林书资源导航'
+languageCode = 'zh-CN'
+
+[pagination]
+  pagerSize = 20
+
+#------------------------------------
+# 个人信息 params
+#------------------------------------
+
+[params]
+  # color style
+  color = 'wheat'                           # linen, wheat, gray, light
+
+  # header social icons
+  twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
+  # github = 'YOUR_GITHUB_ID'                 # github.com/YOUR_GITHUB_ID
+  # instagram = 'YOUR_INSTAGRAM_ID'           # instagram.com/YOUR_INSTAGRAM_ID
+  # linkedin = 'YOUR_LINKEDIN_ID'             # linkedin.com/in/YOUR_LINKEDIN_ID
+  # mastodon = 'YOUR_MASTODON_LINK'           # e.g. 'https://mastodon.instance/@xxx'
+  # threads = '@YOUR_THREADS_ID'              # threads.net/@YOUR_THREADS_ID
+  # bluesky = 'YOUR_BLUESKY_ID'               # https://bsky.app/profile/YOUR_BLUESKY_ID
+  rss = true                                # show rss icon
+
+  # home page profile
+  avatar = 'https://telegraph-image-evj.pages.dev/file/AgACAgUAAyEGAASVtTkdAAMVZ_y3cvNgEM3HG53r9mAT_RYwCzEAAuXHMRsHcuhXElXI3VC-B9QBAAMCAAN4AAM2BA.jpg'                 # gravatar email or image url
+  name = '林书'
+  bio = '中文互联网收藏夹'
+
+
+  # misc
+  disableHLJS = true                        # disable highlight.js
+  disablePostNavigation = true              # disable post navigation
+  monoDarkIcon = true                       # show monochrome dark mode icon
+  gravatarCdn = 'GRAVATAR_CDN_LINK'         # e.g. 'https://cdn.v2ex.com/gravatar/'
+  math = true                               # enable KaTeX math typesetting globally
+  localKatex = false                        # use local KaTeX js/css instead of CDN
+  graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
+  favicon = "favicon.ico"                   # customize the default favicon
+  appleTouchIcon = "apple-touch-icon.png"   # customize the default Apple touch icon
+
+  # RTL supprot
+  # direction = "rtl"                         # RTL support for Right-to-left languages
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.x]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+
+
+  # giscus 评论系统
+#[params.giscus]
+#  repo = 'YOUR_GISCUS_REPO'                 # see https://giscus.app for more details
+#  repoId = 'YOUR_GISCUS_REPO_ID'
+#  category = 'YOUR__GISCUS_CATEGORY'
+#  categoryId = 'YOUR_GISCUS_CATEGORY_ID'
+#  mapping = 'pathname'
+#  theme = 'light'
+#  lang = 'zh-CN'
+
+
+# [services]
+#   [services.disqus]
+#     shortname = 'YOUR_DISQUS_SHORTNAME'     # use disqus comments
