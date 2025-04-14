@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://lsresource.pages.dev/'
 title = '林书资源导航'
 theme = 'paper'
 copyright = '© 2025, 林书资源导航'
