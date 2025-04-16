@@ -1,100 +1,46 @@
 baseURL = 'https://lsresource.pages.dev/'
-title = '林书资源导航'
-theme = 'paper'
-copyright = '© 2025, 林书资源导航'
 languageCode = 'zh-CN'
+title = '林书资源导航'
+theme = 'navside'
+publishDir = 'public'
 
-[pagination]
-  pagerSize = 20
+disableKinds = ["taxonomy", "term"] # 忽略告警和不生成 category 和 tag 的页面
+disablePathToLower    = true
+hasCJKLanguage        = true
+enableGitInfo         = true
 
-#------------------------------------
-# 个人信息 params
-#------------------------------------
+
 
 [params]
-  # color style
-  color = 'wheat'                           # linen, wheat, gray, light
+    author        = "林书"
+    submit        = ""                                   # 左侧导航栏的"网站提交"
+    about         = "https://forum.idev.top/p/about"     # 左侧导航栏的"关于导航"页面(./about)    
+    enablePreLoad = true		    		             # 网站完全打开前预加载动画
+    textPreLoad   = "林书资源导航" 		                # 预加载的动画文字, 只有当enablePreLoad=true时生效    
+    expandSidebar = true                                 # 默认展开左侧边导航栏
+    displayMode   = 0                                    # 显示模式，0.日间模式，1.深色(夜间)模式。2.实时模式，３.日间模式，４.夜间模式
+    cardMode      = true 
 
-  # header social icons
-  twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
-  # github = 'YOUR_GITHUB_ID'                 # github.com/YOUR_GITHUB_ID
-  # instagram = 'YOUR_INSTAGRAM_ID'           # instagram.com/YOUR_INSTAGRAM_ID
-  # linkedin = 'YOUR_LINKEDIN_ID'             # linkedin.com/in/YOUR_LINKEDIN_ID
-  # mastodon = 'YOUR_MASTODON_LINK'           # e.g. 'https://mastodon.instance/@xxx'
-  # threads = '@YOUR_THREADS_ID'              # threads.net/@YOUR_THREADS_ID
-  # bluesky = 'YOUR_BLUESKY_ID'               # https://bsky.app/profile/YOUR_BLUESKY_ID
-  rss = true                                # show rss icon
+[params.seo]
+    keywords      = "AI工具导航,资源网站导航,中文互联网资源导航"
+    description   = "林书资源导航 - 收录优质AI自媒体、AI工具、AI提示词、AI平台等资源"
 
-  # home page profile
-  avatar = 'https://telegraph-image-evj.pages.dev/file/AgACAgUAAyEGAASVtTkdAAMVZ_y3cvNgEM3HG53r9mAT_RYwCzEAAuXHMRsHcuhXElXI3VC-B9QBAAMCAAN4AAM2BA.jpg'                 # gravatar email or image url
-  name = '林书'
-  bio = '中文互联网收藏夹'
+[params.images]
+    favicon           = "favicon.ico"
+    logosPath         = "assets/images/logos"			     # 网站每个导航地址logo存放地址
+    defaultLogo       = "assets/images/default.webp"     
+    logoExpandLight   = "assets/images/ns-expand-light.png"
+    logoExpandDark    = "assets/images/ns-expand-dark.png"
+    logoCollapseLight = "assets/images/ns.png"
+    logoCollapseDark  = "assets/images/ns.png"    
 
+[params.analytics]
+    a51laid = "" # 51.LA 网站统计
+    a51lack = "" #
 
-  # misc
-  disableHLJS = true                        # disable highlight.js
-  disablePostNavigation = true              # disable post navigation
-  monoDarkIcon = true                       # show monochrome dark mode icon
-  gravatarCdn = 'GRAVATAR_CDN_LINK'         # e.g. 'https://cdn.v2ex.com/gravatar/'
-  math = true                               # enable KaTeX math typesetting globally
-  localKatex = false                        # use local KaTeX js/css instead of CDN
-  graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
-  favicon = "favicon.ico"                   # customize the default favicon
-  appleTouchIcon = "apple-touch-icon.png"   # customize the default Apple touch icon
+[params.footer]
+    copyright = '© 2025, 林书资源导航'
 
-  # RTL supprot
-  # direction = "rtl"                         # RTL support for Right-to-left languages
+[markup.goldmark.renderer]
+    unsafe = true # 忽略告警
 
-[menu]
-
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 10
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
-    weight = 10
-
-[taxonomies]
-category = "categories"
-tag = "tags"
-series = "series"
-
-[privacy]
-
-  [privacy.vimeo]
-    disabled = false
-    simple = true
-
-  [privacy.x]
-    disabled = false
-    enableDNT = true
-    simple = true
-
-  [privacy.instagram]
-    disabled = false
-    simple = true
-
-  [privacy.youtube]
-    disabled = false
-    privacyEnhanced = true
-
-
-
-  # giscus 评论系统
-#[params.giscus]
-#  repo = 'YOUR_GISCUS_REPO'                 # see https://giscus.app for more details
-#  repoId = 'YOUR_GISCUS_REPO_ID'
-#  category = 'YOUR__GISCUS_CATEGORY'
-#  categoryId = 'YOUR_GISCUS_CATEGORY_ID'
-#  mapping = 'pathname'
-#  theme = 'light'
-#  lang = 'zh-CN'
-
-
-# [services]
-#   [services.disqus]
-#     shortname = 'YOUR_DISQUS_SHORTNAME'     # use disqus comments
