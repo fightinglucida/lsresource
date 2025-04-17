@@ -1,8 +1,8 @@
 ---
-- taxonomy: 杰森
+- taxonomy: 最新上线
   icon: bi bi-star-fill
   list:
-    - term: 社交
+    - term: AI资源
       links:
         - title: 爱开发
           logo: idev.png
@@ -42,6 +42,113 @@
           url: https://www.toutiao.com/c/user/token/MS4wLjABAAAATopQ1LkY3v_vbmTLcW504_Asubeqs24gH-IFJp66CDLoFB2ATjEwBZJhdIsgKEPZ/?
           description: 平平无奇程序员（头条号）
           qrcode: assets/images/toutiao.png
+
+- taxonomy: CG三维
+  icon: bi bi-cpu
+  list:
+  - term: CG爱好者
+    links:
+    - title: CG爱好者
+      url: http://www.cgahz.com
+      description: 影视后期相关资源
+      logo: weixin.png
+    - title: CG99-CG设计网
+      url: https://www.cg99.com
+      description: 专注全球CG设计行业，以CG模型为主的资源下载和分享平台
+      logo: weixin.png
+    - title: 斑斓魔法CG
+      url: https://www.blendermagic.cn
+      description: 专注于Blender的定时开源网站
+      logo: weixin.png
+    - title: CG说
+      url: http://www.cgshuo.com
+      description: 原创CG设计资源、素材交易平台
+      logo: weixin.png
+    - title: ABOUTCG
+      url: https://www.aboutcg.com
+      description: 最新CG行业资讯
+      logo: weixin.png
+    - title: CG模型王
+      url: https://www.cgmxw.com
+      description: 各类CG模型
+      logo: weixin.png
+    - title: CG资源网
+      url: https://www.cgfxw.net
+      description: 各类CG资源
+      logo: weixin.png
+    - title: 中文汉化
+      url: http://h.shanse8.com
+      description: CG 各领域的经典原创汉化作品，有 3D 软件、2D 软件、影视后期、非编等主流软件及其插件的汉化
+      logo: weixin.png
+    - title: 立体派
+      url: http://www.ltpmx.com
+      description: C4D模型
+      logo: weixin.png
+    - title: biubiu游戏美术论坛
+      url: https://www.magicsart.com
+      description: 最专业的游戏特效师，动画师社区
+      logo: weixin.png
+    - title: CG帮
+      url: https://www.cgboo.com
+      description: 3D模型、游戏原画、AE模版资源网
+      logo: weixin.png
+    - title: CGJOY
+      url: https://www.cgjoy.com
+      description: 3D特效师、动画师、模型、ui交流平台
+      logo: weixin.png
+    - title: 模匠网
+      url: https://www.3dsmj.com
+      description: 各类3D模型下载
+      logo: weixin.png
+    - title: 微妙网
+      url: https://www.wmiao.com
+      description: 专业的动画师、特效师、建模师交流网站
+      logo: weixin.png
+    - title: 魔顿
+      url: http://www.modown.cn
+      description: 免费C4D资源下载
+      logo: weixin.png
+    - title: 免费三维模型
+      url: https://free3d.com
+      description: 完全免费的3D模型下载
+      logo: weixin.png
+    - title: 菜鸟C4D
+      url: http://www.c4dcn.com
+      description: C4D学习站
+      logo: weixin.png
+    - title: Sketchfab
+      url: https://sketchfab.com
+      description: 大量的免费三维模型下载站
+      logo: weixin.png
+    - title: R站
+      url: https://www.btbat.com
+      description: 专注三维模型
+      logo: weixin.png
+    - title: iiidea CG
+      url: http://iiidea.cn
+      description: CG资源网
+      logo: weixin.png
+    - title: C4DNB
+      url: http://c4dnb.com
+      description: C4D资源下载网
+      logo: weixin.png
+    - title: 可动程序
+      url: https://cgexe.com
+      description: 可动程序_致力于分享CG资讯
+      logo: weixin.png
+    - title: Blender中国
+      url: https://www.blendercn.org/
+      description: Blender中国社区 – 这里有Blender的最新资讯
+      logo: weixin.png
+    - title: 魔行网
+      url: https://www.moxingg.com/
+      description: 魔行网-免费C4D资源网站，无需会员可下载海量C4D素材
+      logo: weixin.png
+    - title: C4D社区 – 3D动画制作动态设计师交流平台
+      url: https://c4dcg.com/
+      description: C4D社区为您展示优秀的动态视频展示，为优秀的广大3D动画动效设计师提供参考灵感，为3D动画制作行业中国用户提供一个优秀良好的交流互动中心。在这里还可以下载到常用的软件工具以及CG素材。
+      logo: weixin.png
+
 
 - taxonomy: 开发服务
   icon: bi bi-code-square
