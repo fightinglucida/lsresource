@@ -43,10 +43,10 @@
           description: 平平无奇程序员（头条号）
           qrcode: assets/images/toutiao.png
 
-- taxonomy: CG三维
+- taxonomy: 影视后期
   icon: bi bi-cpu
   list:
-  - term: CG爱好者
+  - term: CG动画资源
     links:
     - title: CG爱好者
       url: http://www.cgahz.com
@@ -148,7 +148,116 @@
       url: https://c4dcg.com/
       description: C4D社区为您展示优秀的动态视频展示，为优秀的广大3D动画动效设计师提供参考灵感，为3D动画制作行业中国用户提供一个优秀良好的交流互动中心。在这里还可以下载到常用的软件工具以及CG素材。
       logo: weixin.png
-
+  - term: 剪辑素材
+    links:
+    - title: LOOKAE大众脸
+      url: https://www.lookae.com
+      description: 最好的后期资源站
+      logo: www.lookae.com.ico
+    - title: V后期资源吧
+      url: https://www.vfx123.com
+      description: 以FCPX资源为主
+      logo: www.vfx123.com.ico
+    - title: LOOK资源网
+      url: https://www.lookzy.cn
+      description: 后期素材下载站
+      logo: www.lookzy.cn.ico
+    - title: 韬客AE
+      url: https://www.talkae.com
+      description: 各类插件预设
+      logo: talkae.png
+    - title: gan cool
+      url: https://gan.cool
+      description: 更好更强的Premiere Pro插件
+      logo: image.x3figa5c4cg.png
+    - title: 新CG儿
+      url: https://www.newcger.com
+      description: 老牌网站，CG模板插件资源
+      logo: www.newcger.com.ico
+    - title: 黑鲸网
+      url: https://www.hei-jing.com
+      description: CG资源、AE插件
+      logo: cg66.cn.ico
+    - title: MotionVFX
+      url: https://www.motionvfx.com
+      description: 专注于FCPX、motion效果功能开发的国外网站，顶级的素材效果库
+      logo: www.motionvfx.com.ico
+    - title: 动视素材
+      url: http://www.dongmv.com
+      description: 比较综合的模版素材网站
+      logo: www.dongmv.com.ico
+    - title: 国外素材网
+      url: https://hd1080.pro
+      description: 素材资源站
+      logo: hd1080.pro.ico
+    - title: 包图网
+      url: https://ibaotu.com
+      description: 设计素材，AE模板等
+      logo: ibaotu.com.ico
+    - title: YAKFX影视后期加油站
+      url: http://www.yakfx.com
+      description: 以FCPX插件为主，后期资源下载站
+      logo: www.yakfx.com.ico
+    - title: SOSO后期站
+      url: https://www.sosohuo.com
+      description: LR预设，PS插件，后期资源
+      logo: soso后期.jpg
+    - title: 人人素材
+      url: https://www.rrcg.cn
+      description: 专业CG分享平台
+      logo: www.rrcg.cn.ico
+    - title: 凌晨两点
+      url: https://www.2amok.com
+      description: 视频、模版为主
+      logo: www.2amok.com.ico
+    - title: CG资源站
+      url: http://www.cgzyw.com
+      description: 资源丰富的素材站
+      logo: CG资源.jpg
+    - title: shareAE
+      url: http://www.shareae.cn/
+      description: AE模版资源
+      logo: www.shareae.cn.ico
+    - title: C4DSKY
+      url: https://c4dsky.com
+      description: AE模板，C4D素材应有尽有
+      logo: c4dsky.com.ico
+    - title: CGUFO
+      url: https://www.cgufo.com
+      description: 免费加收费资源
+      logo: www.cgufo.com.ico
+    - title: 灵动网
+      url: https://www.ldvfx.com
+      description: 影视后期加油站
+      logo: www.ldvfx.com.ico
+    - title: 幕后
+      url: https://muhou.net
+      description: 素材资源网
+      logo: 幕后.ico
+    - title: 潮点视频
+      url: https://shipin520.com
+      description: 提供正版可商用的视频素材以及视频模板下载服务的网站，包括大量4K、8K画质的视频，支持在线快速获得商用授权
+      logo: chao.43zb9jbzw4i0.png
+    - title: CG魔工坊
+      url: https://vfx3d.cn/
+      description: CG魔工坊-CG资源宝库
+      logo: 12.ico
+    - title: C4D模型
+      url: https://www.c4d.com/
+      description: C4D模型-动画工程模板下载_免费模型大全、模型下载及中文汉化插件
+      logo: favicon(7).ico
+    - title: 捡屁笑的小站 - 简简单单的分享
+      url: https://jpsmile.com/
+      description: 这是一个分享资源的个人小站,分享视频制作前后期涉及到的工具、软件、视音频素材、教程、插件、脚本、材质等等
+      logo: cropped-LOGO_站点图标-32x32.png
+    - title: CGDownload
+      url: https://cgdownload.ru/
+      description: CGDownload | 计算机图形资源
+      logo: mstile-150x150.png
+    - title: 微设资源库
+      url: https://www.wszyk.cn/
+      description: 专注于海外精品设计资源、各种最新插件，模板、笔刷、样机、素材、教程等资源，提供海外平面资源收集整理。包含PPT、PSD、AI、设计元素，样机文件、UI元素，等等。
+      logo: wszyk_favicon.ico
 
 - taxonomy: 开发服务
   icon: bi bi-code-square
