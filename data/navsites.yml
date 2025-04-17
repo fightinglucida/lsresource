@@ -1,5 +1,5 @@
 ---
-- taxonomy: 最新上线
+- taxonomy: 林书推荐
   icon: bi bi-star-fill
   list:
     - term: AI资源
@@ -43,112 +43,612 @@
           description: 平平无奇程序员（头条号）
           qrcode: assets/images/toutiao.png
 
-- taxonomy: 影视后期
-  icon: bi bi-cpu
+      
+- taxonomy: AI工具
+  icon: bi bi-motherboard
   list:
-  - term: CG动画资源
+  - term: AI图文创作
     links:
-    - title: CG爱好者
-      url: http://www.cgahz.com
-      description: 影视后期相关资源
-      logo: weixin.png
-    - title: CG99-CG设计网
-      url: https://www.cg99.com
-      description: 专注全球CG设计行业，以CG模型为主的资源下载和分享平台
-      logo: weixin.png
-    - title: 斑斓魔法CG
-      url: https://www.blendermagic.cn
-      description: 专注于Blender的定时开源网站
-      logo: weixin.png
-    - title: CG说
-      url: http://www.cgshuo.com
-      description: 原创CG设计资源、素材交易平台
-      logo: weixin.png
-    - title: ABOUTCG
-      url: https://www.aboutcg.com
-      description: 最新CG行业资讯
-      logo: weixin.png
-    - title: CG模型王
-      url: https://www.cgmxw.com
-      description: 各类CG模型
-      logo: weixin.png
-    - title: CG资源网
-      url: https://www.cgfxw.net
-      description: 各类CG资源
-      logo: weixin.png
-    - title: 中文汉化
-      url: http://h.shanse8.com
-      description: CG 各领域的经典原创汉化作品，有 3D 软件、2D 软件、影视后期、非编等主流软件及其插件的汉化
-      logo: weixin.png
-    - title: 立体派
-      url: http://www.ltpmx.com
-      description: C4D模型
-      logo: weixin.png
-    - title: biubiu游戏美术论坛
-      url: https://www.magicsart.com
-      description: 最专业的游戏特效师，动画师社区
-      logo: weixin.png
-    - title: CG帮
-      url: https://www.cgboo.com
-      description: 3D模型、游戏原画、AE模版资源网
-      logo: weixin.png
-    - title: CGJOY
-      url: https://www.cgjoy.com
-      description: 3D特效师、动画师、模型、ui交流平台
-      logo: weixin.png
-    - title: 模匠网
-      url: https://www.3dsmj.com
-      description: 各类3D模型下载
-      logo: weixin.png
-    - title: 微妙网
-      url: https://www.wmiao.com
-      description: 专业的动画师、特效师、建模师交流网站
-      logo: weixin.png
-    - title: 魔顿
-      url: http://www.modown.cn
-      description: 免费C4D资源下载
-      logo: weixin.png
-    - title: 免费三维模型
-      url: https://free3d.com
-      description: 完全免费的3D模型下载
-      logo: weixin.png
-    - title: 菜鸟C4D
-      url: http://www.c4dcn.com
-      description: C4D学习站
-      logo: weixin.png
-    - title: Sketchfab
-      url: https://sketchfab.com
-      description: 大量的免费三维模型下载站
-      logo: weixin.png
-    - title: R站
-      url: https://www.btbat.com
-      description: 专注三维模型
-      logo: weixin.png
-    - title: iiidea CG
-      url: http://iiidea.cn
-      description: CG资源网
-      logo: weixin.png
-    - title: C4DNB
-      url: http://c4dnb.com
-      description: C4D资源下载网
-      logo: weixin.png
-    - title: 可动程序
-      url: https://cgexe.com
-      description: 可动程序_致力于分享CG资讯
-      logo: weixin.png
-    - title: Blender中国
-      url: https://www.blendercn.org/
-      description: Blender中国社区 – 这里有Blender的最新资讯
-      logo: weixin.png
-    - title: 魔行网
-      url: https://www.moxingg.com/
-      description: 魔行网-免费C4D资源网站，无需会员可下载海量C4D素材
-      logo: weixin.png
-    - title: C4D社区 – 3D动画制作动态设计师交流平台
-      url: https://c4dcg.com/
-      description: C4D社区为您展示优秀的动态视频展示，为优秀的广大3D动画动效设计师提供参考灵感，为3D动画制作行业中国用户提供一个优秀良好的交流互动中心。在这里还可以下载到常用的软件工具以及CG素材。
-      logo: weixin.png
-  - term: 剪辑素材
+    - title: coverview
+      url: https://coverview.vercel.app
+      description: 封面制作好帮手，国内请科学访问
+      logo: https://favicon.yandex.net/favicon/coverview.vercel.app
+    - title: Tweetlet
+      url: https://tweetlet.net
+      description: 创造漂亮推文、文本、代码图像
+      logo: https://tweetlet.net/favicon.ico
+    - title: picprose
+      url: https://www.picprose.net/
+      description: 封面制作美化
+      logo: https://favicon.yandex.net/favicon/www.picprose.net
+    - title: ray.so
+      url: https://ray.so
+      description: 创造漂亮的代码图像
+      logo: https://ray.so/favicon.png
+    - title: pika
+      url: https://pika.style
+      description: 快速截图美化
+      logo: https://pika.style/icons/favicon.ico
+    - title: showcode
+      url: https://showcode.app
+      description: 创建漂亮的代码图像，可以导入导出保存工程
+      logo: https://showcode.app/favicon.ico
+    - title: shots.so
+      url: https://shots.so
+      description: 最受欢迎的截图美化，很多博主推主喜欢用的
+      logo: https://jsd.cdn.noisework.cn/gh/rcy1314/my-photo@master/20230516/noiseimage.792b2ace7fc0.png
+    - title: deviceshots
+      url: https://deviceshots.com/app
+      description: 强大的截图美化套壳程序，可以添加文字到画布
+      logo: https://jsd.cdn.noisework.cn/gh/rcy1314/my-photo@master/20230516/noiseimage.65tqqk61pk40.png
+    - title: 讯排设计
+      url: https://design.palxp.cn/
+      description: 一个漂亮且功能强大的在线海报图片设计器
+      logo: https://design.palxp.cn/favicon.svg
+    - title: picyard
+      url: https://www.picyard.in
+      description: 提供截图套壳，推文图设计，youtube截图等
+      logo: https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/uPic/1715088710502.png
+    - title: ushare
+      url: https://www.ushare.fun
+      description: 创造漂亮的代码图像
+      logo: https://favicon.yandex.net/favicon/www.ushare.fun
+    - title: Canva可画
+      url: https://www.canva.cn/
+      description: Canva可画专业设计
+      logo: https://www.noisedh.cn/assets/images/logos/Canva.ico
+    - title: 搞定设计
+      url: https://www.gaoding.com/
+      description: 轻松制作海报
+      logo: https://cdn.dancf.com/fe-assets/20230811/logo/favicon@w64.ico
+    - title: 图怪兽
+      url: https://818ps.com/
+      description: 在线作图神器
+      logo: https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/uPic/1715089468754.png
+    - title: bratgeneratorBrat Generator
+      url: https://www.bratgenerator.xyz
+      description: 生成brat 专辑风格海报
+      logo: https://www.bratgenerator.xyz/favicon.ico
+    - title: bratgenerator
+      url: https://bratgenerator.me
+      description: 生成专辑风格海报
+      logo: https://bratgenerator.me/favicon.ico
+    - title: Mini-Cover
+      url: https://cover.ruom.top/
+      description: Mini-Cover：简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面
+      logo: https://cover.ruom.top/favicon.svg
+    - title: postergenerator
+      url: https://www.postergenerator.online/zh
+      description: 您的首选在线海报制作器和生成器！使用 Poster Generator 轻松创建令人惊叹的定制海报——无论个人还是商业用途均可免费使用。现在就开始吧！
+      logo: https://www.postergenerator.online/favicon.ico
+    - title: Text Behind Image
+      url: https://textbehindimage.rexanwong.xyz/
+      description: 在图像设计背后创建文本
+      logo: https://textbehindimage.rexanwong.xyz/favicon.ico
+    - title: 简单设计
+      url: https://jiandan.link/
+      description: EasyDesign-免费在线设计工具图片处理工具
+      logo: https://jiandan.link/statics/office_logo_lv.svg
+    - title: 流光卡片—让分享更优雅，最好看具创意的文字卡片工具，文字转图片，小红书图文神器
+      url: https://fireflycard.shushiai.com/
+      description: 致力于提供一种全新的文字转图像体验。让你分享的文字，书摘，推文，帖子，歌词，朋友圈语录变得更优雅有吸引力，成为视觉与思想的完美融合。最好用的web
+        图文神器，小红书图文必备
+      logo: https://fireflycard.shushiai.com/favicon.png
+    - title: GeekCard-分享文字更美
+      url: https://geekcard.app/
+      description: Geek Card - 让分享看起来更好、更优雅。一种用于增强共享内容的可读性和吸引力的工具。
+      logo: https://geekcard.app/vite.svg
+    - title: ToneLift
+      url: https://tonelifts.com/
+      description: ToneLift 是一个 AI 驱动的图文创作平台，帮助你轻松创作精美的图文卡片，让每一次分享都充满温度。
+      logo: https://tonelifts.com/logo-new/icon.svg
+    - title: 轻快标图
+      url: https://www.markerapp.site/
+      description: 轻快标图——提供丰富的标注工具，实现轻量、便捷、美观的图片标注体验。一键导出高清图片，适用于网页、浏览器插件及APP。立即免费试用！
+      logo: https://favicon.yandex.net/favicon/www.markerapp.site
+    - title: SHOT SLEEK
+      url: https://pretty-snap.iwhy.dev/
+      description: 快速轻松地让您的屏幕截图看起来很棒。
+      logo: https://pretty-snap.iwhy.dev/favicon.ico
+    - title: Beautify Screenshots
+      url: https://postspark.app/
+      description: 使用可自定义的背景、浏览器框架、纵横比、边框等为社交媒体快速创建令人惊叹的屏幕截图。只需点击几下即可增强您的帖子！
+      logo: https://postspark.app/favicon.ico
+    - title: chalk.ist
+      url: https://chalk.ist/
+      description: 将代码转换为精美的图像
+      logo: https://chalk.ist/favicon.ico
+    - title: Photor
+      url: https://www.photor.fun/
+      description: Photor 是一款使用简单但功能强大的截图工具。摆脱单调的截图体验，即刻使用，开始创建漂亮且富有创意的截图吧。
+      logo: https://www.photor.fun/favicon.ico
+    - title: IMaker
+      url: https://img-maker.vercel.app/
+      description: 一款用来设计封面的工具,需要科学
+      logo: https://favicon.yandex.net/favicon/img-maker.vercel.app
+    - title: Cover Paint
+      url: https://coverpaint.xiaole.site/zh
+      description: 在几秒钟内创建封面图像 - 非常简单
+      logo: https://favicon.yandex.net/favicon/coverpaint.xiaole.site
+    - title: AI Cover
+      url: https://aicover.design
+      description: AI 红包封面生成器
+      logo: https://aicover.design/favicon.ico
+    - title: 壁纸样机生成器
+      url: https://www.taojuju.com/
+      description: 淘趣工坊，是一个免费的在线壁纸样机生成器，使用壁纸样机生成器快速生成 iPhone、iPad、Mac 锁屏和桌面壁纸样机图，一键下载高清图，提高效率。
+      logo: https://www.taojuju.com/favicon.ico
+    - title: 弯曲文本
+      url: https://curvedtext.co/zh
+      description: 轻松在线创建弯曲文本，使用免费的弯曲文本生成器来装饰您的作品，让您的内容脱颖而出！
+      logo: https://curvedtext.co/favicon.ico
+    - title: 手写体文稿生成器
+      url: https://vtool.pro/handwriting/index.html
+      description: 手写体文稿生成器是一款免费工具，在线手写模拟器，一键生成手写字体文稿。可将文本转换为手写体，并下载为图片或 PDF 格式。还支持多页。如果你有较长的文本，想将多页转换为手写体并下载为单个
+        PDF 文件，也可以使用它。
+      logo: https://favicon.yandex.net/favicon/vtool.pro
+    - title: picseal.zhiweio.me
+      url: https://picseal.zhiweio.me/
+      description: 照片风格水印照片
+      logo: github.jpg
+    - title: 在线图片水印工具
+      url: https://watermark.cdtools.click/
+      description: 免费的离线图片水印工具，支持批量添加文字水印，保护照片隐私安全。无需上传，本地处理，适用于证件、文档等敏感图片。Free offline
+        watermark tool for photos and documents, supports batch processing with text
+        watermarks, ensures privacy and security.
+      logo: https://watermark.cdtools.click/favicon.svg
+    - title: ShotEasy
+      url: https://screenshot.shoteasy.fun/
+      description: 截图美化-Screenshot Beautifier Online 工具有助于美化具有良好背景和 Macbook Pro 或
+        Iphone 15 Pro 框架的截图
+      logo: https://screenshot.shoteasy.fun/assets/favicon-Bv5yausS.svg
+    - title: 小红书封面图生成工具
+      url: https://xiaohongshu.ink/
+      description: 轻松创建精美的小红书封面图，支持富文本、多图拆分、自定义背景和实时预览
+      logo: https://s2.loli.net/2025/03/10/H2r8u51VztLjhoW.png
+    - title: Cover Page
+      url: https://www.coverpage.one/
+      description: 免费在线封面图片制作工具，支持图片封面、纯色封面和渐变封面，轻松制作社交媒体、博客、演示文稿等多种场景的精美封面
+      logo: https://www.coverpage.one/favicon.ico
+    - title: 封面图生成器 | 河豚
+      url: https://chendx97.github.io/create-cover-image/
+      description: 一个快速生成封面图的工具，支持多种模板，可灵活自定义。
+      logo: https://chendx97.github.io/create-cover-image/favicon.ico
+    - title: Cover Craft
+      url: https://guizimo.github.io/cover-craft/
+      description: 简单易用的封面图片生成工具，为你的文章、视频、社交媒体创作提供专业的封面设计
+      logo: https://favicon.yandex.net/favicon/guizimo.github.io
+    - title: 小红书图文卡片生成器
+      url: https://weierboge.github.io/Redbookcard/
+      description: 小红书图文卡片生成器
+      logo: https://weierboge.github.io/Redbookcard/favicon.ico
+    - title: CodeSnap
+      url: https://codesnap.byteperks.com/
+      description: 轻松创建、分享和管理漂亮的代码图像、链接和可缩放的SVG。自动检测40多种语言，并提供丰富的主题和字体。提升您的代码，激发协作，以前所未有的方式分享！
+      logo: https://cdn.byteperks.com/assets/img/codesnaplogo.png
+    - title: Screenshoty
+      url: https://screenshoty.me/
+      description: Screenshoty 是一个旨在轻松生成精美屏幕截图的应用程序。
+      logo: https://screenshoty.me/icon.png
+    - title: 链图
+      url: https://qr.windliang.wang/
+      description: 一个简单易用的工具，可以将任何网页链接转换成包含二维码、网站标题和简介的精美图片。特别适合微信公众号运营者在文章中插入外部链接。
+      logo: https://qr.windliang.wang/icon.svg
+    - title: 小红书创作助手
+      url: https://xhs.diyun.site/
+      description: 小红书创作助手
+      logo: https://files.diyun.site/blog/2024/07/7fae6d19f5561324c078bebcfe19cbff.webp
+    - title: 渐变背景生成器
+      url: https://bg.diyun.site/
+      description: 免费在线渐变背景生成器，轻松创建和下载漂亮的渐变背景图片。支持自定义颜色、角度和尺寸，可导出多种格式。
+      logo: https://files.diyun.site/blog/2024/07/7fae6d19f5561324c078bebcfe19cbff.webp
+  - term: AI剪辑工具
+    links:
+    - title: 闪剪
+      url: https://my.shanjian.tv
+      description: 直播切片、图文快剪
+      logo: https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/20221023/%e9%97%aa%e5%89%aa.3rci9x94b100.png
+    - title: 腾讯云创
+      url: https://app.v.tencent.com
+      description: 直播转推，直播转博，视频素材库、文件分享、直播剪辑、素材直播
+      logo: https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/20221023/%e8%85%be%e8%ae%af%e4%ba%91%e5%88%9b.3of5fx42ewu0.png
+    - title: 来画
+      url: https://www.laihua.com
+      description: 虚拟直播人、智能AI动画、在线白板
+      logo: https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/20221023/%e6%9d%a5%e7%94%bb.1podo3gzpo80.png
+    - title: 阿里云剪辑
+      url: https://ice.console.aliyun.com/production/editing/list/videoEditing
+      description: 智能媒体服务，按照剪辑合成的成片时长计费
+      logo: https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/20221023/%e9%98%bf%e9%87%8c%e4%ba%91.vopzkvefvxc.png
+    - title: 一帧秒创
+      url: https://aigc.yizhentv.com
+      description: 文案生成自动匹配画面视频、文章链接生成视频、字幕大师【youtube】
+      logo: https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/20221023/image.2ojzqiqniog0.png
+    - title: 票圈
+      url: https://www.piaoquantv.com
+      description: 文案转视频【支持公众号】输入文案手动选择素材生成ai配音视频
+      logo: https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/20221023/%e7%a5%a8.3b828t45d9s0.png
+    - title: 集阅
+      url: https://v.neobai.com
+      description: AI视频分割、媒体素材池【支持私有、公有频道化分享】
+      logo: https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/20221023/%e9%9b%86%e9%98%85.61ywp5gn1fg0.png
+    - title: 美摄
+      url: https://editor.meishesdk.com
+      description: 虚拟主播、直播切片、AI录制、智能剪辑
+      logo: https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/20221023/%e7%be%8e.1ql2ief0l0kg.png
+    - title: 阅流
+      url: https://www.yueliu.cn
+      description: 在线审片、软硬件直播推流、文件拷贝
+      logo: https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/20221023/%e9%98%85%e6%b5%81.612ey2e2keg0.png
+    - title: 哔哩哔哩云剪辑
+      url: https://member.bilibili.com/studio/bs-editor/projects
+      description: 哔哩哔哩云剪辑
+      logo: 哔哩哔哩.jpg
+    - title: 抖音云剪辑
+      url: https://creator.douyin.com/creator-micro/content/material/manage
+      description: 创作者服务中找到视频剪辑
+      logo: https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/20221023/douyin.7525lz2a37w0.png
+    - title: 快手云剪辑
+      url: https://onvideo.kuaishou.com
+      description: 快手云剪辑
+      logo: https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/20221023/uTools_1666533287118.2mreesces4g0.png
+    - title: 微博云剪
+      url: https://jian.weibo.com
+      description: 微博云剪
+      logo: https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/20221023/weibo.349kimgevbg0.png
+    - title: clipchamp
+      url: https://clipchamp.com/zh-hans/
+      description: clipchamp云剪
+      logo: https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/20221023/icon-144x144.5ngk1jwlvd80.png
+    - title: 喜玛拉雅云剪辑
+      url: https://www.ximalaya.com/audioedit
+      description: 纯音频在线剪辑
+      logo: https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/20221023/%e5%96%9c%e7%8e%9b%e6%8b%89%e9%9b%85.14308a69izgg.png
+    - title: 分秒帧
+      url: https://app.mediatrack.cn
+      description: 在线协作审片平台
+      logo: https://www.noisedh.cn/assets/images/logos/%e5%88%86%e7%a7%92%e5%b8%a7.jpg
+    - title: 剪映网页版
+      url: https://www.capcut.cn/editor
+      description: 剪映网页版
+      logo: https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/20221030/xxx.4upsqwo26ae0.png
+    - title: 一起剪
+      url: http://www.yiqijian.com
+      description: 一起剪是一款强大的免费在线视频剪辑工具，通过人工智能自动生成脚本、配音剪辑、图文成片、视频采集等功能，实现视频云端自动合成
+      logo: https://www.noisedh.cn/assets/images/logos/%e4%b8%80%e8%b5%b7%e5%89%aa.jpg
+    - title: 剪映国际网页版
+      url: https://www.capcut.com/editor
+      description: 剪映国际网页版
+      logo: https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/20221030/xxx.4upsqwo26ae0.png
+    - title: 鬼手剪辑
+      url: https://jollytoday.com/
+      description: 鬼手剪辑能高效实现视频去字幕、视频翻译和视频混剪等，帮助电商客户、MCN机构和影视剪辑人员制作精彩的视频。支持十几种语言的互译，短视频全自动剪辑，支持API调用，一键打造本土化视频内容
+      logo: https://www.noisedh.cn/assets/images/logos/%e9%ac%bc%e6%89%8b%e5%89%aa%e8%be%91.ico
+    - title: 批量视频分段
+      url: https://github.com/cmdch2017/-python-
+      description: 批量视频分段
+      logo: github.jpg
+    - title: 快速创建剪映草稿
+      url: https://github.com/xiaoyiv/JianYingProDraft
+      description: 快速创建剪映草稿
+      logo: github.jpg
+    - title: 剪映导出助手
+      url: https://github.com/jiaojiaodubai/sort-jianying-draft
+      description: 剪映导出助手
+      logo: github.jpg
+    - title: autocut
+      url: https://autocut.video/
+      description: 自动剪辑神器
+      logo: https://favicon.yandex.net/favicon/autocut.video
+    - title: 剪映一键关键帧
+      url: https://keyframeai.top
+      description: 一键设定剪映视频关键帧，轻松添加转场动画。
+      logo: https://keyframeai.top/favicon.ico
+    - title: 大拍档剪辑助手
+      url: https://spdpd.net/
+      description: 大拍档剪辑助手
+      logo: https://spdpd.net/favicon.ico
+    - title: 视频翻译配音
+      url: https://pyvideotrans.com/
+      description: 一键实现语音识别->字幕翻译->配音 = 带字幕和配音的新视频
+      logo: https://pyvideotrans.com/favicon.ico
+    - title: Jumper - Jump to the best parts of editing
+      url: https://getjumper.io/
+      description: Jumper 是一款视频编辑功能强大的工具，可让您以前所未有的方式快速浏览视频内容。
+      logo: https://getjumper.io/favicon.png
+    - title: Tailor
+      url: https://github.com/FutureUniant/Tailor
+      description: 视频智能裁剪、视频生成和视频优化的视频剪辑工具
+      logo: github.jpg
+    - title: 卡卡字幕助手
+      url: https://github.com/WEIFENG2333/VideoCaptioner
+      description: 基于 LLM 的智能字幕助手，无需GPU一键高质量字幕视频合成
+      logo: github.jpg
+    - title: NarratoAI
+      url: https://github.com/linyqh/NarratoAI
+      description: 利用AI大模型，一键解说并剪辑视频
+      logo: github.jpg
+    - title: 达芬奇AI中文字幕生成插件
+      url: https://github.com/minghe36/vinci-subtitle-man
+      description: 达芬奇剪辑软件AI 自动生成字幕工具
+      logo: github.jpg
+    - title: DaVinci Resolve 生成AI 驱动的字幕
+      url: https://tom-moroney.com/auto-subs/
+      description: 达芬奇剪辑软件AI 自动生成字幕工具
+      logo: https://tom-moroney.com/auto-subs/favicon.ico
+    - title: 短剧自动化剪辑
+      url: https://github.com/Anning01/playlet-clip
+      description: 短剧自动化剪辑
+      logo: github.jpg
+    - title: AutoCut
+      url: https://github.com/mli/autocut
+      description: 通过字幕来剪切视频
+      logo: github.jpg
+    - title: 使用moviepy对视频去重剪辑
+      url: https://github.com/heifengli001/video-de-clip-moviepy
+      description: 使用moviepy对视频去重剪辑
+      logo: github.jpg
+    - title: AI一键批量生成短视频
+      url: https://github.com/ddean2009/MoneyPrinterPlus
+      description: 使用moviepy对视频去重剪辑
+      logo: github.jpg
+    - title: Kurisu
+      url: https://github.com/MCDFsteve/Kurisu
+      description: 描述来剪辑及转换文件格式的程序
+      logo: github.jpg
+    - title: CreatorBox
+      url: https://github.com/xiesx123/CreatorBox
+      description: 轻量、灵活、易上手的创作者工具箱，构建全自动化视频剪辑/混剪流水线
+      logo: github.jpg
+    - title: Mew Cut
+      url: https://mewcut.com/zh-CN
+      description: 轻松处理字幕，优化工作流程
+      logo: https://mewcut.com/logo.png
+    - title: Video Search
+      url: https://apps.apple.com/cn/app/video-search-%E6%9C%AC%E5%9C%B0%E8%A7%86%E9%A2%91%E6%90%9C%E7%B4%A2/id6670521808?mt=12
+      description: 视频文字搜索是一款强大的视频内容检索工具，专为需要快速定位视频中特定内容的用户设计。无需联网，借助苹果原生能力纯本地实现，大小仅
+        2.36 MB。无论您是学生、研究人员、内容创作者还是专业人士，本应用都能大大提高您的工作效率。主要功能：1. 智能文字识别： - 自动识别视频画面中的文字内容
+      logo: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/27/69/8727691b-6902-104c-d2b3-ae271e4c12f8/AppIcon-0-0-85-220-0-4-0-2x.png/460x0w.webp
+    - title: SubtitleOCR
+      url: https://github.com/nhjydywd/SubtitleOCR
+      description: 快如闪电的硬字幕提取工具。仅需苹果M1芯片或英伟达3060显卡即可达到10倍速提取
+      logo: github.jpg
+    - title: BiliNote
+      url: https://www.bilinote.app/
+      description: 强大的AI视频笔记神器
+      logo: https://www.bilinote.app/icon.svg
+    - title: CreatorBox
+      url: https://xiesx123.github.io/CreatorBox/
+      description: 🚀🎬灵活、高效、可扩展，专属视频剪辑配音工具箱，释放创作潜力
+      logo: https://xiesx123.github.io/CreatorBox/favicon.ico
+  - term: AI配音工具
+    links:
+    - title: 智影
+      url: https://zenvideo.qq.com/
+      description: 在线智能视频创作平台-免费
+      logo: 智影.ico
+    - title: 文字转语音&偷懒工具
+      url: https://toolight.cn/media/reading
+      description: 免费文字转语音&偷懒工具
+      logo: 偷懒工具.png
+    - title: 讯飞配音
+      url: http://peiyin.xunfei.cn
+      description: 讯飞一站式配音平台
+      logo: 讯飞配音.ico
+    - title: 牛片网配音服务
+      url: https://www.6pian.cn/peiyin.html
+      description: 牛片网配音服务平台
+      logo: 牛.ico
+    - title: 闪电配音
+      url: https://www.soundems.com/
+      description: 闪电配音服务平台
+      logo: 闪电配音.ico
+    - title: 好声库
+      url: http://www.haoshengku.com/
+      description: 好声库付费配音平台
+      logo: 好声库.ico
+    - title: 配音圈
+      url: https://www.peiyinquan.com/
+      description: 配音圈付费需求平台
+      logo: 配音圈.ico
+    - title: 在线AI转换
+      url: https://www.zaixianai.cn
+      description: 语音合成，语音转文字
+      logo: AI转换.ico
+    - title: 微软官方语音合成入口
+      url: https://azure.microsoft.com/zh-cn/products/cognitive-services/text-to-speech/#features
+      description: 微软官方文本转语音入口
+      logo: Microsoft.ico
+    - title: Microsoft™ 文字转语音下载器
+      url: https://chrome.google.com/webstore/detail/microsoft-text-to-speech/dplnecggiofdkdcagdkjebneaonfhbbb
+      description: 为官方转语音页面添加下载按钮
+      logo: Microsofttts.jpg
+    - title: 云语音合成助手
+      url: https://tts.yycc.dev
+      description: 跨平台基于云平台的语音合成 API 的文字转语音助手。支持 windows、macOS、Linux。github:https://github.com/funnyzak/tts-now
+      logo: hechengzhushou.png
+    - title: TTS-Vue
+      url: https://loker-page.lgwawork.com/home.html
+      description: 微软语音合成工具，使用 Electron + Vue + ElementPlus + Vite 构建
+      logo: loker.ico
+    - title: edge-TTS-record
+      url: https://github.com/LuckyHookin/edge-TTS-record
+      description: 一个可以录制 Microsoft Edge 浏览器的语音合成（TTS）语音并输出为 .wav 音频的（windows平台）工具。
+      logo: github.jpg
+    - title: 小鲤鱼微软azure文本转语音
+      url: https://github.com/pashangshangpo/xmly-tts
+      description: 多系统支持，支持 Windows、Mac 系统，https://cowtransfer.com/s/644dcc27967e44
+        提取码 43xoyp
+      logo: github.jpg
+    - title: 知意配音
+      url: https://peiyin.wozhiyi.com
+      description: 知意配音是专业的AI文字转语音配音平台，支持短视频配音、有声书制作、影视解说、课件配音、广告配音、促销叫卖等各类配音场景需求
+      logo: https://www.noisedh.cn/assets/images/logos/%e7%9f%a5%e6%84%8f%e9%85%8d%e9%9f%b3.ico
+    - title: ttsmaker
+      url: https://ttsmaker.cn
+      description: 在线免费文字转语音
+      logo: https://www.noisedh.cn/assets/images/logos/ttsm.png
+    - title: TTS - 文本转语音
+      url: https://www.text-to-speech.cn
+      description: TTS - 文本转语音
+      logo: https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/uPic/1715074881169.png
+    - title: 原神在线TTS
+      url: https://tools.miku.ac/anime_tts/
+      description: 原神在线TTS
+      logo: https://www.gradio.app/favicon.png
+    - title: TTS-Online
+      url: https://www.ttson.cn/
+      description: TTS-Online | 多种声音与二次元语音
+      logo: https://www.ttson.cn/favicon.ico
+    - title: elevenlabs
+      url: https://elevenlabs.io
+      description: 在线AI文本转语音
+      logo: https://elevenlabs.io/favicon.ico
+    - title: Luvvoive
+      url: https://luvvoice.com/
+      description: 免费的文本转语音工具，无需登录，没有字数限制，支持70多种语言，200多种声音
+      logo: https://favicon.yandex.net/favicon/luvvoice.com
+    - title: edgetts
+      url: https://edgetts.noisework.cn
+      description: 免费的文本转语音工具，提供语音合成服务
+      logo: https://edgetts.noisework.cn/static/icon.png
+    - title: Fish Audio
+      url: https://fish.audio/zh-CN/discovery/
+      description: 功能强大、快速且可定制的文本转语音解决方案。AI 语音基础设施的超低延迟、快速语音克隆和统一费率定价。
+      logo: https://favicon.yandex.net/favicon/fish.audio
+    - title: Fish Speech
+      url: https://speech.fish.audio/zh/
+      description: 部署文档-输入 10 到 30 秒的声音样本即可生成高质量的 TTS
+      logo: https://favicon.yandex.net/favicon/speech.fish.audio
+    - title: ChatTTS-Deployment
+      url: https://github.com/yuanquderzi/ChatTTS-Deployment-using-FastAPI-and-Streamlit
+      description: 使用 FastAPI 和 Streamlit 本地部署 ChatTTS 文本转语音模型，并通过 Docker Compose
+        进行容器化部署
+      logo: github.jpg
+    - title: ChatTTS
+      url: https://chattts.com/zh
+      description: 用于对话场景的文本转语音模型，经过优化，适用于自然、对话式文本转语音
+      logo: https://chattts.com/favicon.ico
+    - title: Dub Genius
+      url: https://github.com/2DIPW/dub_genius
+      description: 基于 GPT-SoVITS 的视频剪辑快捷配音工具
+      logo: github.jpg
+    - title: VITS变声
+      url: https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
+      description: 一个基于VITS的简单易用的变声框架
+      logo: github.jpg
+    - title: Free Text To Speech Online with Lifelike AI Voices | ElevenLabs
+      url: https://elevenlabs.io/text-to-speech
+      description: Transform text into lifelike speech with ElevenLabs’ text to speech.
+        ElevenLabs ultra-realistic text-to-speech supports 30+ languages.
+      logo: https://elevenlabs.io/favicon.ico
+    - title: 大饼AI变声
+      url: https://dubbing.tech
+      description: 大饼AI变声，WIndows&Mac免费下载，有态度、有感情的AI变声器，IP音效、御姐萝莉，正太萌妹，千百种丰富音色免费试用，一键安装轻松上手，支持全平台游戏、直播、软件内使用
+      logo: https://dubbing.tech/favicon.ico
+    - title: Reecho睿声
+      url: https://www.reecho.ai
+      description: Reecho睿声是一款专注于5秒瞬时语音克隆和超拟真语音合成的创新产品，由自研尖端Reecho文生语音大模型驱动，可深入理解文本，瞬时克隆任意声音，并实现与真人无异的超拟真语音合成效果。
+      logo: https://favicon.yandex.net/favicon/www.reecho.ai
+    - title: 魔音工坊
+      url: https://www.moyin.com
+      description: 魔音工坊是一款可以在线将文字转成语音的智能配音产品。提供不同性别、不同口音的真人声音，在你输入文字后直接配音。你可快速对短视频等需要配音的内容进行配音。是一款功能强大AI语音合成神器。
+      logo: https://favicon.yandex.net/favicon/www.moyin.com
+    - title: 呱呱有声制作平台
+      url: https://www.gstudios.com.cn
+      description: 呱呱有声制作平台
+      logo: https://www.gstudios.com.cn/favicon.ico
+    - title: AI语音转换器 | LALAL.AI
+      url: https://www.lalal.ai/zh-hans/voice-changer/
+      description: 变声器使用人工智能算法来修改人的声音。它可以改变声音的音调、音色和其他特征，使其听起来像其他歌手的声音.
+      logo: https://s.lalal.ai/icons/favicon-32x32.png
+    - title: Voicv - 克隆你的声音
+      url: https://voicv.com/zh
+      description: Voicv 是一个尖端的语音克隆平台，可以在几分钟内将你的声音转化为数字资产，支持多种语言和零样本学习。
+      logo: https://favicon.yandex.net/favicon/voicv.com
+    - title: Fineshare
+      url: https://www.fineshare.com/cn/
+      description: AI变声器、TTS和语音生成器创建栩栩如生的语音。支持149种语言和口音，提供1,500种语音选择。
+      logo: https://www.fineshare.com/images/favicon.ico
+    - title: 在线配音工具
+      url: https://d1tools.com/tools/ai-tts/
+      description: 一款免费的文本转语音工具，提供语音合成服务，支持多种语言，包括中文(包括普通话、粤语、辽宁方言、陕西方言)、英语、日语、韩语、法语、德语、西班牙语、阿拉伯语等
+        74 种语言，以及总共 318 种语音风格。
+      logo: https://d1tools.com/favicon.ico
+    - title: Ciallo TTS
+      url: https://tts.ciallo.de/
+      description: CialloTTS是一款免费的在线文本转语音工具，开源：https://github.com/bestZwei/ciallo-tts
+        支持多种声音选择，可调节语速和语调，提供即时试听和下载功能。快速将文字转换成自然流畅的语音
+      logo: https://tts.ciallo.de/image/TTS.png
+    - title: 自部署文本转语音API
+      url: https://github.com/wxxxcxx/ms-ra-forwarder
+      description: 免费的在线文本转语音API
+      logo: github.jpg
+    - title: Easy Voice Toolkit
+      url: https://github.com/Spr-Aachen/Easy-Voice-Toolkit
+      description: 可本地部署的AI语音工具箱
+      logo: github.jpg
+    - title: Applio
+      url: https://applio.org
+      description: Applio 是一款应用程序，它允许我们使用 AI 创建自己的声音或使用现有声音。该程序可用于将其安装在您的 PC 上
+      logo: https://applio.org/favicon.ico
+    - title: Aivis project
+      url: https://aivis-project.com/
+      description: Aivis 项目旨在让每个人都能轻松使用情感丰富的语音合成技术。使用 AivisSpeech，您可以用引人入胜的声音表达您的想法，无论是阅读故事还是阅读新闻文章。
+        为什么不一起探索语音合成的新可能性呢？
+      logo: https://aivis-project.com/favicon.ico
+    - title: tts.femoon
+      url: https://tts.femoon.top/cn
+      description: 在线配音工具
+      logo: https://tts.femoon.top/favicon-32x32.png
+    - title: 'Kokoro TTS: Advanced Text-to-Speech AI with Best Efficiency'
+      url: https://kokorotts.net/
+      description: 发现Kokoro TTS，这是开创性的AI驱动的文本转语音模型，仅具有82M参数。以无与伦比的效率实现高质量的语音合成。
+      logo: https://kokorotts.net/favicon.ico
+    - title: AnyVoice - 超真实AI语音生成器
+      url: https://anyvoice.net/zh
+      description: 使用AnyVoice创建您的AI声音克隆。快速、准确、易用。
+      logo: https://anyvoice.net/favicon/favicon-32x32.png
+    - title: Sesame AI - 高级人工智能语音模型，打造自然语音合成
+      url: https://aisesame.org/zh
+      description: 通过Sesame AI的尖端语音合成技术，转变您的内容。创造具有高级情感智能和多语言支持的自然、富有表现力的语音。
+      logo: https://aisesame.org/favicon.ico
+    - title: Ciallo TTS
+      url: https://tts.ciallo.de/
+      description: Ciallo TTS 是一款免费的在线文本转语音工具，支持多种声音选择，可调节语速和语调，提供即时试听和下载功能。快速将文字转换成自然流畅的语音。Ciallo
+        TTS是免费的文本转语音工具，提供语音合成服务，支持多种语言，包括英语、法语、德语、西班牙语、阿拉伯语、中文、日语、朝鲜语、粤语、越南语等，以及多种语音风格，提供丰富的讲述人
+      logo: https://tts.ciallo.de/image/TTS.png
+    - title: AI speaker
+      url: https://ai-speaker.net/
+      description: AI speaker 是一款免费的文本转语音工具，支持100多种语言和600多种AI声音,支持MP3格式下载音频文件。
+      logo: https://ai-speaker.net/public/images/favicon.ico
+    - title: VoiceCanvas
+      url: https://github.com/ItusiAI/Open-VoiceCanvas
+      description: 支持自部署的文本转语音系统，支持声音克隆，支持50+语言，支持选择音色，代码100%开源
+      logo: github.jpg
+  - term: AI字幕工具
+    links:
+    - title: 突字幕
+      url: https://2zimu.com
+      description: 上传视频得到字幕
+      logo: 突.ico
+    - title: 字幕酱
+      url: https://www.zimujiang.com/
+      description: 在线字幕生成工具
+      logo: 字幕酱.ico
+    - title: 云猫转码
+      url: https://yunmaovideo.com/
+      description: 智能字幕，语音合成工具箱
+      logo: 云猫转码.ico
+    - title: 字幕组机翻小助手
+      url: https://github.com/1c7/Translate-Subtitle-File
+      description: 支持 Windows + macOS【功能1：翻译字幕文件】 .srt .ass .vtt 【功能2：语音转文字】
+      logo: github.jpg
+    
+- taxonomy: 剪辑素材
+  icon: bi bi-film
+  list:
+  - term: 视频素材
     links:
     - title: LOOKAE大众脸
       url: https://www.lookae.com
@@ -258,6 +758,264 @@
       url: https://www.wszyk.cn/
       description: 专注于海外精品设计资源、各种最新插件，模板、笔刷、样机、素材、教程等资源，提供海外平面资源收集整理。包含PPT、PSD、AI、设计元素，样机文件、UI元素，等等。
       logo: wszyk_favicon.ico
+  - term: 音乐素材
+    links:
+    - title: Nsf小站
+      url: http://nsf.nesbbs.com
+      description: 8Bit音乐站
+      logo: https://www.noisedh.cn/assets/images/logos/nsf.ico
+    - title: igoutu
+      url: https://igoutu.cn/music
+      description: 无版权音乐站
+      logo: https://www.noisedh.cn/assets/images/logos/igoutu.png
+    - title: lxmusic
+      url: https://lxmusic.toside.cn/
+      description: 一个免费&开源的音乐查找工具
+      logo: https://www.noisedh.cn/assets/images/logos/lxmusic.ico
+    - title: 歌词滚动姬
+      url: https://lrc-maker.github.io/
+      description: 在线制作滚动歌词
+      logo: https://www.noisedh.cn/assets/images/logos/%e6%ad%8c%e8%af%8d%e6%bb%9a%e5%8a%a8%e5%a7%ac.png
+    - title: 团子AI
+      url: https://dango.ai/
+      description: 智能提取音频去人声
+      logo: https://www.noisedh.cn/assets/images/logos/%e5%9b%a2%e5%ad%90AI.ico
+    - title: 我的云音乐
+      url: http://music.ytxmgy.com/
+      description: 在线音乐
+      logo: https://www.noisedh.cn/assets/images/logos/musicplay.ico
+    - title: 下歌吧
+      url: https://music.y444.cn
+      description: 下歌吧
+      logo: https://www.noisedh.cn/assets/images/logos/%e4%b8%8b%e6%ad%8c.ico
+    - title: 淘声网
+      url: https://www.tosound.com/
+      description: 免费音效素材
+      logo: https://www.noisedh.cn/assets/images/logos/%e6%b7%98%e5%a3%b0%e7%bd%91.ico
+    - title: bensound
+      url: https://www.bensound.com/
+      description: 无版权音乐站
+      logo: https://www.noisedh.cn/assets/images/logos/bensound.png
+    - title: 100audio
+      url: https://100audio.com/
+      description: 版权音乐站
+      logo: https://www.noisedh.cn/assets/images/logos/100audio.ico
+    - title: 小梦的LAUNCHPAD社区
+      url: https://launchpadxm.com/
+      description: LAUNCHPAD学习社区
+      logo: https://www.noisedh.cn/assets/images/logos/launchpadxm.ico
+    - title: abletive电子音乐社区
+      url: http://www.abletive.com/
+      description: abletive电子音乐社区
+      logo: https://www.noisedh.cn/assets/images/logos/abletive.ico
+    - title: 热门TikTok歌曲
+      url: https://tokboard.com
+      description: 一周热门TikTok歌曲
+      logo: https://www.noisedh.cn/assets/images/logos/rementiktok.png
+    - title: midishow
+      url: https://www.midishow.com
+      description: 查找MIDI音乐
+      logo: https://www.noisedh.cn/assets/images/logos/midishow.png
+    - title: ishkur
+      url: http://music.ishkur.com
+      description: 电子音乐流派分类点播
+      logo: https://www.noisedh.cn/assets/images/logos/ishkur.ico
+    - title: learningmusic
+      url: https://learningmusic.ableton.com/zh-Hans/
+      description: 音乐创造学习
+      logo: https://www.noisedh.cn/assets/images/logos/learningmusic.ico
+    - title: khinsider
+      url: https://downloads.khinsider.com
+      description: 游戏音乐大全
+      logo: https://www.noisedh.cn/assets/images/logos/khinsider.ico
+    - title: Beatbump
+      url: https://beatbump.io
+      description: 令人惊艳的开源第三方YouTube 音乐，你可在Github中找到其他实例，其中使用的API为第三方镜像youtube，但同样不支持大陆地区直接访问
+      logo: https://www.noisedh.cn/assets/images/logos/Beatbump.ico
+    - title: FindSounds
+      url: https://www.findsounds.com/typesChinese.html
+      description: 在网络上发现音效，搜索网络声音
+      logo: https://www.findsounds.com/favicon.ico
+    - title: MyFreeMP3
+      url: https://tools.liumingye.cn/music/#/
+      description: 音频下载变得更加容易、快速和免费。使用我们的服务搜索您想要下载的声音。您的第一次下载仅需2次点击！
+      logo: https://tools.liumingye.cn/favicon.ico
+    - title: chosic
+      url: https://www.chosic.com/
+      description: chosic发现新音乐
+      logo: https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/uPic/chosic-logo-img.png
+    - title: 歌曲宝
+      url: https://www.gequbao.com/
+      description: 下载音乐歌曲宝
+      logo: https://www.gequbao.com/favicon.ico
+    - title: Uppbeat
+      url: https://uppbeat.io/music/mood/hype
+      description: 下载最好的免版税炒作音乐用于YouTube、Twitch、Instagram、TikTok、播客等。 Uppbeat是创作者的音乐平台
+      logo: https://cdn.uppbeat.io/images/logo/apple-touch-icon.png
+    - title: 全网音乐免费
+      url: https://music.txqq.pro/
+      description: 全网音乐免费下载工具
+      logo: https://www.noisedh.cn/assets/images/logos/%e5%85%a8%e7%bd%91%e9%9f%b3%e4%b9%90.ico
+    - title: lofi音乐
+      url: https://lofillama.com/
+      description: lofi音乐
+      logo: https://lofillama.com/favicon.8b189d32.png
+    - title: 程序员音乐
+      url: https://musicforprogramming.net/
+      description: 程序员音乐
+      logo: https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/uPic/1715249194115.png
+    - title: 蒸汽波音乐
+      url: https://plaza.one/
+      description: 蒸汽波音乐
+      logo: https://plaza.one/icons/favicon.ico?v=2208042
+    - title: 二进制音乐
+      url: https://binarypiano.com/
+      description: 二进制音乐
+      logo: https://jsd.cdn.noisework.cn/gh/rcy1314/tuchuang@main/uPic/1715249477185.png
+    - title: lofi白噪音
+      url: https://lofi.co/
+      description: lofi白噪音
+      logo: https://lofi.co/favicon.ico
+    - title: NCS
+      url: https://ncs.io/
+      description: NCS 是一个拥有数百万人收听的电子音乐厂牌，为创作者免费提供音乐。
+      logo: https://ncs.io/favicon.png?_m=1597301782
+    - title: fiftysounds
+      url: https://www.fiftysounds.com/zh/
+      description: 无版权音乐，免费商用。您可以轻松地利用您的视频在YouTube以及您最喜欢的社交媒体上盈利。享受数百个音效，样本和独家音轨。
+        我们创造了一系列主题，涵盖广泛的音乐风格。 获得完美的音轨如今更为容易!
+      logo: https://www.fiftysounds.com/images/gallery/misc/favicon-fiftysounds.ico
+    - title: 音效怪
+      url: https://www.yxguai.com
+      description: 音效怪-影视音效大全下载 - (无版权声音分享|音效素材库)
+      logo: http://yxguai.com/wp-content/uploads/2024/04/12100452381.png
+    - title: MP3TAG
+      url: https://mp3tag.suno-top.com/zh-CN/
+      description: 免费在线编辑ID3信息网站，同时可以下载suno和udio的歌曲。
+      logo: https://favicon.yandex.net/favicon/mp3tag.suno-top.com
+    - title: StockTune
+      url: https://stocktune.com/
+      description: 使用 StockTune 的免费音乐库移动您的观众。下载免费歌曲供商业和个人使用。无需署名。在StockTune探索免费库存音乐：质量和多样性！
+      logo: https://stocktune.com/favicon-32x32.png?v=3
+    - title: dl-sounds免版税音乐
+      url: https://www.dl-sounds.com/
+      description: 下载高级免版税音乐以增强您的创意项目。浏览我们的资料库，寻找专为满足您的所有需求而量身定制的独特、高质量的曲目。
+      logo: https://www.dl-sounds.com/wp-content/uploads/2019/05/cropped-trans-headphones-2-32x32.png
+    - title: 云音乐player.focalors.ltd
+      url: https://player.focalors.ltd/#/
+      description: 由IamFurina部署的一个简约的在线音乐播放器，具有音乐搜索、播放、每日推荐、私人FM、歌词显示、歌曲评论、网易云登录与云盘等功能,
+        而且新增了解灰功能, 接触无法播放的灰色歌曲或者VIP歌曲
+      logo: https://player.focalors.ltd/imgs/icons/favicon-32x32.png
+    - title: T-STUDIO
+      url: https://tnosite.com/zh/contents-2/
+      description: T-STUDIO是来自日本的免费音乐音効图片网站。你可以免费使用本网站素材。
+      logo: https://tnosite.com/wp-content/uploads/2022/10/cropped-%E3%83%AD%E3%82%B4-32x32.png
+    - title: 音乐榜 - 免费无损音乐MP3、FLAC、WAV在线播放下载网站
+      url: https://www.mp3b.com/
+      description: 音乐榜 - 在线音乐搜索，可以在线免费下载全网MP3付费歌曲、流行音乐、经典老歌等。曲库完整，更新迅速，试听流畅，支持高品质|无损音质
+      logo: https://www.mp3b.com/logo.png
+  - term: 三维素材
+    links:
+    - title: CG爱好者
+      url: http://www.cgahz.com
+      description: 影视后期相关资源
+      logo: weixin.png
+    - title: CG99-CG设计网
+      url: https://www.cg99.com
+      description: 专注全球CG设计行业，以CG模型为主的资源下载和分享平台
+      logo: weixin.png
+    - title: 斑斓魔法CG
+      url: https://www.blendermagic.cn
+      description: 专注于Blender的定时开源网站
+      logo: weixin.png
+    - title: CG说
+      url: http://www.cgshuo.com
+      description: 原创CG设计资源、素材交易平台
+      logo: weixin.png
+    - title: ABOUTCG
+      url: https://www.aboutcg.com
+      description: 最新CG行业资讯
+      logo: weixin.png
+    - title: CG模型王
+      url: https://www.cgmxw.com
+      description: 各类CG模型
+      logo: weixin.png
+    - title: CG资源网
+      url: https://www.cgfxw.net
+      description: 各类CG资源
+      logo: weixin.png
+    - title: 中文汉化
+      url: http://h.shanse8.com
+      description: CG 各领域的经典原创汉化作品，有 3D 软件、2D 软件、影视后期、非编等主流软件及其插件的汉化
+      logo: weixin.png
+    - title: 立体派
+      url: http://www.ltpmx.com
+      description: C4D模型
+      logo: weixin.png
+    - title: biubiu游戏美术论坛
+      url: https://www.magicsart.com
+      description: 最专业的游戏特效师，动画师社区
+      logo: weixin.png
+    - title: CG帮
+      url: https://www.cgboo.com
+      description: 3D模型、游戏原画、AE模版资源网
+      logo: weixin.png
+    - title: CGJOY
+      url: https://www.cgjoy.com
+      description: 3D特效师、动画师、模型、ui交流平台
+      logo: weixin.png
+    - title: 模匠网
+      url: https://www.3dsmj.com
+      description: 各类3D模型下载
+      logo: weixin.png
+    - title: 微妙网
+      url: https://www.wmiao.com
+      description: 专业的动画师、特效师、建模师交流网站
+      logo: weixin.png
+    - title: 魔顿
+      url: http://www.modown.cn
+      description: 免费C4D资源下载
+      logo: weixin.png
+    - title: 免费三维模型
+      url: https://free3d.com
+      description: 完全免费的3D模型下载
+      logo: weixin.png
+    - title: 菜鸟C4D
+      url: http://www.c4dcn.com
+      description: C4D学习站
+      logo: weixin.png
+    - title: Sketchfab
+      url: https://sketchfab.com
+      description: 大量的免费三维模型下载站
+      logo: weixin.png
+    - title: R站
+      url: https://www.btbat.com
+      description: 专注三维模型
+      logo: weixin.png
+    - title: iiidea CG
+      url: http://iiidea.cn
+      description: CG资源网
+      logo: weixin.png
+    - title: C4DNB
+      url: http://c4dnb.com
+      description: C4D资源下载网
+      logo: weixin.png
+    - title: 可动程序
+      url: https://cgexe.com
+      description: 可动程序_致力于分享CG资讯
+      logo: weixin.png
+    - title: Blender中国
+      url: https://www.blendercn.org/
+      description: Blender中国社区 – 这里有Blender的最新资讯
+      logo: weixin.png
+    - title: 魔行网
+      url: https://www.moxingg.com/
+      description: 魔行网-免费C4D资源网站，无需会员可下载海量C4D素材
+      logo: weixin.png
+    - title: C4D社区 – 3D动画制作动态设计师交流平台
+      url: https://c4dcg.com/
+      description: C4D社区为您展示优秀的动态视频展示，为优秀的广大3D动画动效设计师提供参考灵感，为3D动画制作行业中国用户提供一个优秀良好的交流互动中心。在这里还可以下载到常用的软件工具以及CG素材。
+      logo: weixin.png
 
 - taxonomy: 开发服务
   icon: bi bi-code-square
@@ -414,3 +1172,436 @@
           favicon:
           url: https://jsfiddle.net/
           description: 前端代码在线编辑器
+
+
+- taxonomy: 创意灵感
+  icon: bi bi-lightbulb
+  list:
+  - term: 无版权图库
+    links:
+    - title: piqsels
+      url: https://www.piqsels.com/zh
+      description: 一个老牌的素材站了，piqsels也提供数量众多的矢量图、插画、照片等无版权素材
+      logo: https://www.noisedh.cn/assets/images/logos/www.piqsels.com.ico
+    - title: cc0
+      url: https://cc0.cn
+      description: 免费可商用图库
+      logo: https://www.noisedh.cn/assets/images/logos/cc0.cn.ico
+    - title: lustrations
+      url: https://lukaszadam.com/illustrations
+      description: 免费可商用插画和图标
+      logo: https://www.noisedh.cn/assets/images/logos/lukaszadam.com.ico
+    - title: Big Heads
+      url: https://bigheads.io
+      description: 免费可商用头像组合库
+      logo: https://www.noisedh.cn/assets/images/logos/bigheads.io.ico
+    - title: Sketchvalley
+      url: https://sketchvalley.com
+      description: 免费矢量手绘插画资源
+      logo: https://www.noisedh.cn/assets/images/logos/sketchvalley.com.ico
+    - title: pixabay
+      url: https://pixabay.com
+      description: 高质量无版权图库
+      logo: https://www.noisedh.cn/assets/images/logos/pixabay.com.ico
+    - title: stocksnap.io
+      url: https://stocksnap.io
+      description: 漂亮的免费库存照片，每周增加数百张高分辨率图像，不受版权限制
+      logo: https://www.noisedh.cn/assets/images/logos/stocksnap.io.ico
+    - title: Visualhunt
+      url: https://visualhunt.com
+      description: 超13万张无版权图片图库，可免费商用
+      logo: https://www.noisedh.cn/assets/images/logos/visualhunt.com.ico
+    - title: Gratisography
+      url: https://gratisography.com
+      description: 一个脑洞大开的设计师创立的个人网站，几乎都是自己摄影作品
+      logo: https://www.noisedh.cn/assets/images/logos/gratisography.com.ico
+    - title: freeimages
+      url: https://www.freeimages.com/cn
+      description: 界面清爽，图片质量不错，速度可以，值得推荐
+      logo: https://www.noisedh.cn/assets/images/logos/www.piqsels.com.ico
+    - title: picjumbo
+      url: https://picjumbo.com
+      description: 一每天提供优质免费的照片！完全免费的照片为你的商业及个人的工作
+      logo: https://www.noisedh.cn/assets/images/logos/picjumbo.com.ico
+    - title: lifeofpix
+      url: https://www.lifeofpix.com
+      description: 这个图库中的图片多为欧洲景观，只支持英文搜图
+      logo: https://www.noisedh.cn/assets/images/logos/www.lifeofpix.com.ico
+    - title: unsplash
+      url: https://unsplash.com
+      description: 坚持每天分享高清的摄影图片的站点，每天更新一张高质量的图片素材
+      logo: https://www.noisedh.cn/assets/images/logos/unsplash.com.ico
+    - title: colorhub
+      url: https://colorhub.me
+      description: 高清无版权图库
+      logo: https://www.noisedh.cn/assets/images/logos/colorhub.me.ico
+    - title: 高图网
+      url: http://www.gaoimg.com
+      description: 高清无版权图库
+      logo: https://www.noisedh.cn/assets/images/logos/www.gaoimg.com.ico
+    - title: ssyer
+      url: https://www.ssyer.com
+      description: 无版权可商用图库
+      logo: https://www.noisedh.cn/assets/images/logos/www.ssyer.com.ico
+    - title: burst
+      url: https://burst.shopify.com
+      description: 无版权可商用图库
+      logo: https://www.noisedh.cn/assets/images/logos/burst.png
+    - title: 免抠图片网
+      url: https://miankoutupian.com
+      description: 免抠图片网，透明素材
+      logo: https://assets.soutushenqi.com/common/mktp_logo.ico
+    - title: FreePngZone
+      url: https://freepngzone.com/index.html
+      description: 一个广泛的免费 PNG 图像库，这些图像可不受限制地用于商业用途。下载无限量的具有透明背景的高质量 PNG 文件 - 无需注册。您的免版税
+        PNG 图像的终极资源！
+      logo: https://freepngzone.com/favicon.ico
+  - term: 无版权视频
+    links:
+    - title: Pixabay
+      url: https://pixabay.com/zh/videos/
+      description: 一个老牌的素材站了，Pixabay 也提供数量众多的矢量图、插画、照片等无版权素材
+      logo: https://www.noisedh.cn/assets/images/logos/wZMwUs.png
+    - title: pexels
+      url: https://videos.pexels.com
+      description: Pexels 是集大成的素材站，无版权的图片和视频它都有，还集成了别的站点的资源，种类和数量都很可观。
+      logo: https://www.noisedh.cn/assets/images/logos/videos.pexels.com.ico
+    - title: OpenFootage
+      url: https://www.openfootage.net
+      description: OpenFootage在其网站上提供了很好的自然，延时和抽象视频选择。可以免费下载这些视频的低分辨率版本
+      logo: https://www.noisedh.cn/assets/images/logos/www.openfootage.net.ico
+    - title: Movie Tools
+      url: http://www.movietools.info
+      description: 在MovieTools，可以下载免费的循环和背景，用于自己的非商业视频
+      logo: https://www.noisedh.cn/assets/images/logos/www.movietools.info.ico
+    - title: Pond5 Free Video Footage
+      url: https://www.pond5.com/stock-footage/
+      description: Pond5对他们的大部分镜头收费，但他们也提供免费的旧镜头。
+      logo: https://www.noisedh.cn/assets/images/logos/www.pond5.com.ico
+    - title: Mitch Martinez
+      url: http://mitchmartinez.com/free-4k-red-epic-stock-footage
+      description: 如果正在搜索4K素材，请查看此站点。
+      logo: https://www.noisedh.cn/assets/images/logos/mitchmartinez.com.ico
+    - title: Beachfront B-Roll
+      url: http://www.beachfrontbroll.com
+      description: Beachfront B-Roll是一个视频博客，提供高清素材和动画背景。
+      logo: https://www.noisedh.cn/assets/images/logos/www.beachfrontbroll.com.ico
+    - title: SplitShire
+      url: https://www.splitshire.com
+      description: SplitShire是网页设计师Daniel Nanescu的心血结晶，他想与全世界分享他的免费图片和视频集
+      logo: https://www.noisedh.cn/assets/images/logos/www.splitshire.com.ico
+    - title: coverr
+      url: http://www.coverr.co
+      description: Coverr网站就是纯粹为我们提供免费视频下载的站点，网站为我们做了详细的视频分类，每周一会更新7个视频
+      logo: https://www.noisedh.cn/assets/images/logos/www.coverr.co.ico
+    - title: Free HD Stock Footage on Vimeo
+      url: https://vimeo.com/groups/freehd/
+      description: 这个Vimeo组有258个免费视频可供选择，全部由Vimeo用户Phil Fried创建
+      logo: https://www.noisedh.cn/assets/images/logos/vimeo.com.ico
+    - title: Production Crate
+      url: https://www.productioncrate.com
+      description: Production Crate将大量资源 - 如素材，特效，模板和音频 - 放在触手可及的位置。它可以免费使用
+      logo: https://www.noisedh.cn/assets/images/logos/www.productioncrate.com.ico
+    - title: OrangeHD
+      url: http://orangehd.com
+      description: 如果正在寻找高清素材或任何类型的自然视频，Orange HD值得一游
+      logo: https://www.noisedh.cn/assets/images/logos/orangehd.com.ico
+    - title: Splasheo
+      url: http://www.splasheo.com/video-boosters
+      description: 免费加收费资源
+      logo: https://www.noisedh.cn/assets/images/logos/www.splasheo.com.ico
+    - title: Motion Elements
+      url: http://www.motionelements.com/free/stock-footage
+      description: MotionElements目前提供超过3000个免费视频，他们每周都会发布新视频
+      logo: https://www.noisedh.cn/assets/images/logos/www.motionelements.com.ico
+    - title: Mazwai
+      url: http://mazwai.com
+      description: Mazwai站点为我们提供了大量的免费视频素材供我们下载使用
+      logo: https://www.noisedh.cn/assets/images/logos/mazwai.com.ico
+    - title: Wave.video
+      url: https://www.animatron.com/wave
+      description: 在线视频制作商Wave.video的用户可以访问内置的200多万个免费照片和视频库
+      logo: https://www.noisedh.cn/assets/images/logos/www.animatron.com.ico
+    - title: Ignite Motion
+      url: http://www.ignitemotion.com
+      description: 需要视频背景？Ignite Motion让您满意。他们欣赏 - 但不要求 - 使用他们剪辑的人的信用。
+      logo: https://www.noisedh.cn/assets/images/logos/Ignitemotion.png
+    - title: Bottled Video
+      url: https://bottledvideo.com
+      description: Bottled Video提供免费的640×480视频剪辑，可以购买的HD和4K素材。
+      logo: https://www.noisedh.cn/assets/images/logos/bottledvideo.com.ico
+    - title: Vidsplay
+      url: https://www.vidsplay.com/
+      description: Vidsplay允许按类别或关键字搜索其视频集
+      logo: https://www.noisedh.cn/assets/images/logos/www.vidsplay.com.ico
+    - title: MotionPlaces
+      url: https://www.motionplaces.com
+      description: MotionPlaces是免费素材的另一个重要来源
+      logo: https://www.noisedh.cn/assets/images/logos/www.motionplaces.com.ico
+    - title: CuteStockFootage
+      url: https://www.cutestockfootage.com
+      description: 除了免费视频，CuteStockFootage还在其菜单的“免费资源”选项卡下提供各种其他好东西
+      logo: https://www.noisedh.cn/assets/images/logos/www.cutestockfootage.com.ico
+    - title: Videezy
+      url: https://www.videezy.com
+      description: Videezy网站同样也是一个纯粹的视频提供站点，我们可以进行关键字搜索，按照时间顺序查看
+      logo: https://www.noisedh.cn/assets/images/logos/www.videezy.com.ico
+    - title: Videvo
+      url: https://www.videvo.net
+      description: Videvo提供大量素材和动态图像可供选择
+      logo: https://www.noisedh.cn/assets/images/logos/www.videvo.net.ico
+    - title: vecteezy
+      url: https://www.vecteezy.com/free-videos
+      description: vecteezy.com提供大量免费视频素材和动态图像可供选择
+      logo: https://www.noisedh.cn/assets/images/logos/vecteezy.png
+  - term: 专业摄影素材
+    links:
+    - title: 摄影世界
+      url: https://www.photoworld.com.cn
+      description: 有温度的专业影像媒体
+      logo: https://s2.loli.net/2024/11/20/cMWrxutF8fVN7XT.png
+    - title: 拍立享摄影师接单大厅
+      url: https://www.pailixiang.com/demand.html
+      description: 拍立享摄影师接单大厅
+      logo: https://www.pailixiang.com/favicon.ico
+    - title: 中国摄影家协会网
+      url: https://www.cpanet.org.cn
+      description: 中国摄影家协会网
+      logo: https://www.cpanet.org.cn/uploads/201608/23/1471932316657245.ico
+    - title: 索尼中国
+      url: https://www.sony.com.cn/
+      description: SonyChinaCorporatePortal首页-索尼（中国）有限公司企业官网
+      logo: https://www.sony.com.cn/favicon.ico
+    - title: 尼康影像与摄影大赛
+      url: https://photocontest.nikon.com.cn/cn/
+      description: 尼康影像与摄影大赛
+      logo: https://photocontest.nikon.com.cn/favicon.ico
+    - title: 新摄影
+      url: https://www.nphoto.net
+      description: 新摄影 - 摄影门户网站 nPhoto.net
+      logo: https://favicon.yandex.net/favicon/www.nphoto.net
+    - title: 摄影杂志
+      url: https://i50mm.com/
+      description: 摄影杂志
+      logo: https://s2.loli.net/2024/11/20/plQmJugz72ZAiGT.png
+    - title: MyWed摄影师社区
+      url: https://mywed.com/zh/
+      description: 包含全世界超过45 000名最优秀的专业婚礼摄影师名录。选择和预约最优秀的一名婚礼摄影专业人员。
+      logo: https://favicon.yandex.net/favicon/mywed.com
+    - title: 图虫
+      url: https://tuchong.com/community
+      description: 优质摄影师交流社区
+      logo: https://static.tuchong.com/images/favicon.ico
+    - title: FIBA 摄影大赛
+      url: https://photocontest.fiba.basketball/zh/
+      description: FIBA 摄影大赛
+      logo: https://photocontest.fiba.basketball/favicon-32x32.png
+    - title: 《中国摄影家》杂志社官网
+      url: https://www.chinaphoto.net.cn/
+      description: 《中国摄影家》杂志社官网
+      logo: https://s2.loli.net/2024/11/20/pyuBE3IDlsdAJ4f.png
+    - title: 中国摄影在线
+      url: https://www.cphoto.net/
+      description: 中国摄影在线提供摄影师、摄影爱好者交流经验的地方，最新摄影比赛征稿通知，国际比赛参赛方式，摄影相关资讯，摄影大师作品发布，图书画册资讯
+      logo: https://www.cphoto.net/favicon.ico
+    - title: 蜂鸟网
+      url: https://www.fengniao.com/
+      description: 蜂鸟网,专业摄影门户网站,学习摄影技巧、分享摄影图片,这里有极具个性的摄影作品,全新数码相机、镜头等摄影器材的行情评测；涉及生活摄影、旅游摄影、风光摄影等主题
+      logo: https://www.fengniao.com/favicon.ico
+    - title: 颇可网
+      url: https://www.poco.cn/
+      description: 颇可网 - 领先的时尚摄影平台，摄影视频，摄影爱好者分享作品和技巧首选，个人空间
+      logo: https://www.poco.cn/favicon.ico
+    - title: Lomography
+      url: https://www.lomography.com/
+      description: 在 Lomography，我们非常热爱创意摄影。加入我们的社区，分享您的照片并阅读最新的摄影技巧和功能。
+      logo: https://cdn.www.lomography.com/assets/frontend/favicon-7638b05458fabb97dff3411ee2d575b430305e86386c2c6348faaa8882933f0d.ico
+    - title: The Eye of Photography - Photography Art news and events
+      url: https://loeildelaphotographie.com/en/
+      description: 您的摄影艺术日报杂志。独立观察世界摄影事件、摄影师及其作品。独特的照片档案收藏。
+      logo: https://loeildelaphotographie.com/webapp/android-icon-192x192.png?v=1516045391
+    - title: 500px摄影社区
+      url: https://500px.com.cn
+      description: 500px摄影社区-与全球摄影师交流分享
+      logo: https://favicon.yandex.net/favicon/500px.com.cn
+    - title: 咔咔约拍
+      url: https://www.kakayuepai.com
+      description: 咔咔约拍汇聚优质时尚摄影师、摄像师、模特、COSER、化妆师、艺人，是国内专业的摄影约拍、发通告、网拍、商家发起需求的网络在线平台。
+      logo: https://www.kakayuepai.com/i/logo.png
+    - title: 麻豆约拍
+      url: https://www.mdyuepai.com
+      description: 模特约拍—模特与摄影师知名约拍平台，是中国找模特、找主播、找演员、找摄影师的约拍网，发布约拍动态、发布摄影作品的模特约拍网
+      logo: https://images.madouyuepai.com/static/common/img/favicon.ico
+    - title: piclmpact-自部署的摄影作品站
+      url: https://ziyume.com/docs/pic
+      description: PicImpact 是一个支持自部署的摄影师专用的摄影作品展示网站，基于 Next.js + Hono.js 开发。
+      logo: https://favicon.yandex.net/favicon/ziyume.com
+    - title: exif-gallery-nuxt
+      url: https://github.com/wiidede/exif-gallery-nuxt
+      description: 集 AI 智能处理、浏览器图片压缩等功能于一体的全栈相册解决方案
+      logo: github.jpg
+    - title: 菲林霖 - 一个纯粹的摄影博客。
+      url: https://filmlin.com/
+      description: 一个纯粹的摄影博客，致力于分享一切关于摄影相关的知识与技巧，涵盖数码摄影与胶片摄影，提供相关的摄影资讯、摄影技巧、相机测评、摄影作品、摄影软件、大赛推荐，偶尔夹杂一些博主的摄影作品分享。
+      logo: https://favicon.yandex.net/favicon/filmlin.com
+    
+    
+
+    - title: 大疆无人机官网
+      url: https://www.dji.com/cn
+      description: 大疆无人机官网
+      logo: https://www.noisedh.cn/assets/images/logos/d9dbbvkdjhk.png
+  
+
+    - title: 无人机实名登记步骤
+      url: https://support.dji.com/help/content?customId=zh-cn03400006730&spaceId=34&re=CN&lang=zh-CN
+      description: 了解如何通过 UOM app 和 UOM 官网进行实名登记，登记时需要填写的信息，如何进行注销登记，以及抢注申诉需要准备的材料，请参考本篇内容获取帮助
+      logo: https://repair.djicdn.com/static/modal/favicon.ico
+  
+
+    - title: UOM APP
+      url: https://uom.caac.gov.cn/
+      description: 民用无人机航空器管理平台
+      logo: https://uom.caac.gov.cn/login/img/portal-logo.675a28a6.png
+  
+
+    - title: 起航无人机行业资质服务平台
+      url: https://www.qingzhicheng.com/
+      description: 无人机资质证书,无人机运营许可证,无人机运营合格证,无人机驾驶,aopa无人机驾驶证,alpa无人机驾驶证,asfc无人机证书含金量,无人机企业甲级资质办理等。
+      logo: https://favicon.yandex.net/favicon/www.qingzhicheng.com
+  
+  - term: 无人机航拍
+    links:
+    - title: Dronelife - 无人机行业新闻的可靠来源 --- Dronelife - The Trusted Source for Drone
+        Industry News
+      url: https://dronelife.com/
+      description: 商用无人机市场新闻
+      logo: https://dronelife.com/wp-content/uploads/2018/06/cropped-dronelife-icon-500x500-45x45.png
+    - title: 航拍保
+      url: https://www.dronebao.com/
+      description: 航拍保的无人机保险覆盖全面：人机砸到人、无人机炸机、无人机禁飞、平安 无人机保险 、悬挂设备等财产损失、第三者责任、飞手责任、飞手个人意外皆可承保。
+      logo: https://www.dronebao.com/favicon.ico
+    - title: 航拍网
+      url: https://www.hangpai.org/
+      description: 航拍网-科技,低空,文旅,数码,无人机,航拍,旅行,摄影,评测;汇集优秀航拍摄影科技数码创作者及作品,科技数码产品资讯 ,评测;提供低空经济所涉及无人驾驶,数字低空,绿色能源全生态链服务解决方案
+      logo: https://www.hangpai.org/favicon.ico
+    - title: iFlight翼飞官方商城
+      url: https://www.iflight.cn/
+      description: iFlight翼飞智能科技，以创新精神引领FPV穿越机领域，打造高品质的穿越机第一视角飞行影像、竞技及娱乐体验平台。我们专注于设计、研发、生产至销售的全链条，致力于为用户提供卓越的飞行享受。
+      logo: https://www.iflight.cn/image/catalog/favicon.png
+    - title: 装机百科
+      url: http://wiki.fpvbang.com/
+      description: 了解穿越机的一切 | 装机百科
+      logo: https://favicon.yandex.net/favicon/wiki.fpvbang.com
+    - title: 无人机助手 - 天气，风速和禁飞区
+      url: https://apps.apple.com/cn/app/%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%8A%A9%E6%89%8B-%E5%A4%A9%E6%B0%94-%E9%A3%8E%E9%80%9F%E5%92%8C%E7%A6%81%E9%A3%9E%E5%8C%BA/id992303145
+      description: 一款ios软件，帮助了解无人机飞行时天气，风速和禁飞区
+      logo: https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/3e/f2/ee3ef26b-337f-be68-2e68-816f9faa5c40/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/460x0w.webp
+    - title: 航拍中国第三季
+      url: https://jishi.cctv.com/special/hpzg/
+      description: 大型系列纪录片《航拍中国第三季》
+      logo: https://jishi.cctv.com/favicon.ico
+    - title: 飞行者联盟-无人机论坛
+      url: https://uav.chinaflier.com/
+      description: 无人机论坛为飞行者联盟旗下无人机和航模交流社区，中文低空经济、无人机、eVTOL、飞行汽车和航模技术交流引领者。致力于整合各类无人机航模软硬件产业链，集结广大无人机航模爱好者、开发者共同打造绿色无人机航模生态圈!
+      logo: https://uav.chinaflier.com/favicon.ico
+    - title: 中国无人机网
+      url: https://www.uavcn.net/
+      description: 无人机全产业链服务平台
+      logo: https://www.uavcn.net/favicon-32x32.png
+  - term: 创意视频
+    links:
+    - title: 开眼视频
+      url: https://www.kaiyanapp.com
+      description: 每日精选创意视频
+      logo: https://www.noisedh.cn/assets/images/logos/www.kaiyanapp.com.ico
+    - title: 天空之城
+      url: https://www.skypixel.com
+      description: 世界各地的航拍摄影师、拍手叫绝的航拍作品与独具价值的航拍攻略
+      logo: 天空之城.jpg
+    - title: 新片场
+      url: https://www.xinpianchang.com
+      description: 质量上乘的视频大开眼界
+      logo: 新片场.jpg
+    - title: 艾墨镇
+      url: https://www.aimozhen.com
+      description: 分享创意视频，展示独立影像
+      logo: https://www.noisedh.cn/assets/images/logos/www.aimozhen.com.ico
+    - title: NOWNESS
+      url: https://www.nowness.cn
+      description: 全球创意生活短片
+      logo: https://www.noisedh.cn/assets/images/logos/www.nowness.cn.ico
+    - title: TVCBOOK
+      url: https://www.tvcbook.com
+      description: 精选广告创意视频
+      logo: https://www.noisedh.cn/assets/images/logos/www.tvcbook.com.ico
+    - title: Vimeo
+      url: https://vimeo.com
+      description: Vimeo全球创意视频，国内需科学
+      logo: https://www.noisedh.cn/assets/images/logos/vimeo.com.ico
+    - title: TOPYS灵感视频
+      url: https://www.topys.cn
+      description: TOPYS灵感视频
+      logo: https://www.noisedh.cn/assets/images/logos/www.topys.cn.ico
+    - title: MANA
+      url: https://manamana.net
+      description: 全球新媒体艺术平台
+      logo: https://www.noisedh.cn/assets/images/logos/MANA.png
+    - title: 合拍网
+      url: https://hepai.video/video/
+      description: 合拍网优秀案例
+      logo: https://www.noisedh.cn/assets/images/logos/hepai.png
+    - title: 网络广告人社区
+      url: https://iwebad.com
+      description: 分享国内创意广告及优秀案例
+      logo: https://www.noisedh.cn/assets/images/logos/6film71t7r80.png
+    - title: 牛片网
+      url: https://www.6pian.cn/jx.html
+      description: 牛片网案例作品库
+      logo: https://www.noisedh.cn/assets/images/logos/%e7%89%9b%e7%89%87%e7%bd%91.png
+    - title: Eagle资源社区
+      url: https://community-cn.eagle.cool
+      description: 设计师灵感交流地
+      logo: https://www.noisedh.cn/assets/images/logos/eagle%e7%a4%be%e5%8c%ba.png
+    - title: freepik
+      url: https://www.freepik.com/
+      description: 数百万个免费图形资源。✓ 照片 ✓ AI 图像 ✓ 矢量 ✓ 图标 ✓ 模板 ✓ 视频。了解我们的实时 AI 艺术生成器。
+      logo: https://fps.cdnpk.net/favicons/favicon.ico
+    - title: YARN
+      url: https://getyarn.io/
+      description: YARN-剪辑片段搜索
+      logo: https://favicon.yandex.net/favicon/getyarn.io
+    - title: AHAtime灵感时刻
+      url: https://www.ahatime.net/
+      description: AHAtime灵感时刻（ahatime.net）汇聚国内外数百万艺术家，A站（Artstation），是艺术家作品分享、发布及交流和变现的重要平台，我们为百万创意职业者提供优质的灵感创作土壤，并插画、原画、动画、建模等艺术家提供顶级项目资源及大厂岗位，汇聚百万创意职业人、全球项目方，让创意更加纯粹、创作更加愉快、变现更加轻松，找CG模型、插画、原画、动画、正版授权就到AHAtime灵感时刻！
+      logo: https://www.ahatime.net/favicon.ico
+  - term: 网站模版
+    links:
+    - title: SaaS UI - 文档或设计系统的免费插图 - 插图
+      url: https://illustrations.saas-ui.dev/
+      description: UI设计200+
+      logo: https://illustrations.saas-ui.dev/favicon/favicon-32x32.png
+    - title: getnextjs
+      url: https://getnextjsthemes.com/
+      description: 166 + 免费和高级Next.Js主题/模板
+      logo: https://getnextjsthemes.com/favicon.ico
+    - title: Web Design Inspiration
+      url: https://webdesigninspiration.io/
+      description: 网页设计灵感：精选的网站和网站部分集合。
+      logo: https://webdesigninspiration.io/favicon.ico
+    - title: Headless Site
+      url: https://www.headlesssite.com/
+      description: 探索表现最佳的 Headless 网站，这些网站在速度、设计和创新方面树立了新标准。发现领先的电子商务、React JS 和投资组合项目。
+      logo: https://favicon.yandex.net/favicon/www.headlesssite.com
+    - title: A1 · Website design inspiration for designers, developers and creatives
+      url: https://www.a1.gallery/
+      description: 在万维网上找到的最佳网站的集合。所有设计师、开发人员和创意人员的设计灵感。
+      logo: https://cdn.prod.website-files.com/65a42762661153944abe7a54/677d319b4ec3658adea40e82_a1-favicon-2025.png
+    - title: DevMeetsDev
+      url: https://devmeetsdevs.com/
+      description: 精选的分类UI网站为你的项目提供灵感
+      logo: https://devmeetsdevs.com/wp-content/uploads/2025/03/dmd-favicon-150x150.png
+    - title: Dezi - 设计灵感中心
+      url: https://dezi.gallery/
+      description: 探索我们精选的顶级设计灵感、工具和资源集合，这些灵感来自设计师，为设计师服务。您值得信赖的来源，每周更新。
+      logo: https://dezi.gallery/favicon.svg
