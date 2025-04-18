@@ -18,7 +18,7 @@
           qrcode:    
       
 - taxonomy: AI内容创作
-  icon: bi bi-motherboard
+  icon: bi bi-images
   list:
   - term: AI图像设计
     links:
@@ -677,10 +677,38 @@
         url: https://github.com/ihmily/StreamCap
         description: 多平台直播流自动录制工具 · 基于FFmpeg · 支持监控/定时/转码
         logo: default.webp
+      - title: dreamtalk
+        url: https://dreamtalk-project.github.io/
+        description: AI生成数字人像视频
+        logo: favicon5.png
+      - title: VirtualWife
+        url: https://github.com/yakami129/VirtualWife
+        description: 你可以像朋友一样和她相识，作者希望虚拟数字人融入人类生活，作为恋爱导师，心理咨询师，解决人类的情感需求
+        logo: favicon5.png
+      - title: NextHuman
+        url: https://nexthuman.cn/wiki/home
+        description: 消费级3D超写实数字人创作与应用引擎
+        logo: favicon5.png
+      - title: D-ID Studio
+        url: https://studio.d-id.com/
+        description: 仅使用带有AI驱动的文本或音频的静止图像创建专业视频。
+        logo: favicon5.png
+      - title: neiro ai
+        url: https://neiro.ai/
+        description: 无需任何编码技能即可利用生成式 AI。140+种语言，10+种声音，无限可能。
+        logo: favicon5.png
+      - title: kreadoai
+        url: https://www.kreadoai.com/
+        description: AIGC数字营销创作平台
+        logo: favicon5.png
+      - title: AIGCPanel | 开源AI数字人系统
+        url: https://aigcpanel.com/
+        description: AigcPanel是一个可以在本地轻松使用AI模型的面板工具，支持模型安装、模型启动、模型调用等一站式便捷体验，让工作更高效！
+        logo: favicon5.png
 - taxonomy: AI应用推荐
-  icon: bi bi-lightbulb
+  icon: bi bi-robot
   list:
-  - term: AI·产品
+  - term: AI独立应用
     links:
     - title: Gnomic智能体平台
       url: https://www.gnomic.cn/agentCenter/index
@@ -935,7 +963,7 @@
       description: 使用ZeroGPT AI内容检测器检测AI生成的内容。检查来自ChatGPT、GPT4、Gemini和Claude的文本。✓无限次检查
         ✓100%免费 ✓无需注册
       logo: favicon5.png
-  - term: AI·绘画
+  - term: AI绘画应用
     links:
     - title: stability
       url: https://stability.ai
@@ -1269,7 +1297,7 @@
       url: https://ai-doll.co/
       description: 体验最新的娃娃AI趋势免费AI卡通形象生成器。利用先进的AI技术，将您的创意转化为令人惊叹的数字卡通形象。轻松创建独特、个性化的AI卡通形象化身。
       logo: favicon5.png
-  - term: AI·问答
+  - term: AI聊天应用
     links:
     - title: ChatGPT
       url: https://chat.openai.com
@@ -1311,7 +1339,7 @@
       url: https://www.deepseekv3.net/zh/
       description: DeepSeek 在线。DeepSeek V3 现在可在线免费试用，无需注册。体验 671B 参数的最强大 AI 模型。免费用于商业用途，开源，且访问无限制。
       logo: favicon5.png
-  - term: AI·视频
+  - term: AI视频应用
     links:
     - title: Disco Diffusion
       url: https://colab.research.google.com/github/Sxela/DiscoDiffusion-Warp/blob/main/Disco_Diffusion_v5_2_Warp.ipynb
@@ -1592,7 +1620,7 @@
       url: https://pippit.capcut.com/
       description: 轻松生成视频、图片、广告和数字人，一键发布、追踪表现、批量创作，尽在一站式 AI 内容创作平台。
       logo: favicon5.png
-  - term: AI·图设
+  - term: AI图片应用
     links:
     - title: Hugging Face
       url: https://huggingface.co/spaces/akhaliq/AnimeGANv2
@@ -1772,7 +1800,7 @@
       url: https://chat4o.ai/cn/
       description: Chat 4O：免费在线AI工具，集图像生成器和O1智能助手于一体。为编程、科学等领域提供强大的问题解决能力。
       logo: favicon5.png
-  - term: AI·音乐
+  - term: AI音乐应用
     links:
     - title: Soundraw
       url: https://soundraw.io
@@ -1909,7 +1937,10 @@
       description: 免费的独奏 Ai 音乐工具来创建您的 ai 歌曲。为您的自由式音乐 AI 创作提供智能 Ai 旋律，与 suno ai 音乐和
         udio ai 音乐相同
       logo: favicon5.png
-  - term: AI·PPT
+- taxonomy: AI办公助手
+  icon: bi bi-building-check
+  list:  
+  - term: AI制作PPT
     links:
     - title: 博思AIPPT
       url: https://pptgo.cn
@@ -1988,7 +2019,7 @@
       url: https://plusai.com
       description: 停止以旧方式进行演示。免费试用 Plus AI 演示文稿制作工具，在几分钟内制作 PowerPoint 和 Google 幻灯片演示文稿。
       logo: favicon5.png
-  - term: AI·3D
+  - term: AI制作3D
     links:
     - title: artflow.ai
       url: https://app.artflow.ai/
@@ -2022,7 +2053,7 @@
       url: https://aiactionfiguregenerator.cc/
       description: 使用先进的 AI 生成器从您的照片中创建个性化的可动人偶。将自己变成具有逼真包装和配件的收藏式玩具。
       logo: favicon5.png
-  - term: AI·搜索
+  - term: AI智能搜索
     links:
     - title: isou
       url: https://isou.chat/
@@ -2104,7 +2135,7 @@
       url: https://searchany.org/zh
       description: SearchAny 是一个免费的 AI 搜索引擎，使用高级 RAG 矢量搜索来获得准确、可信的答案，并通过交互式 AI 助手聊天提供全面的用户支持。
       logo: favicon5.png
-  - term: AI·写作
+  - term: AI写作助手
     links:
     - title: Effidit
       url: https://effidit.qq.com
@@ -2258,7 +2289,10 @@
       url: https://aitohumanize.com/zh/stealth-writer
       description: AIToHumanize可以帮助您绕过市场上一些最受欢迎的AI 检测器，包括GPTZero和Originality.ai等广泛使用的工具。AIToHumanize工作原理是重写您的内容，并在过程中对其进行“人性化”,让您轻松绕过AI检测
       logo: favicon5.png
-  - term: AI·模型+平台
+- taxonomy: AI大模型
+  icon: bi bi-pie-chart-fill
+  list: 
+  - term: AI大模型
     links:
     - title: 趋动云社区
       url: https://open.virtaicloud.com/web/home
@@ -2462,263 +2496,8 @@
       description: Kie.ai 提供实惠稳定的 AI 接口，支持文本、音乐和视频生成。支持高并发、实时流式输出及完整的 API 文档，让您轻松将先进的
         AI 能力集成到您的项目中。
       logo: favicon5.png
-  - term: AI·代码
-    links:
-    - title: Copilot
-      url: https://github.com/features/copilot/
-      description: 由Github和OpenAI联合开发的模型框架，收费
-      logo: favicon5.png
-    - title: Tabnine
-      url: https://www.tabnine.com
-      description: 面向软件开发人员的 AI 助手，免费 + 收费
-      logo: favicon5.png
-    - title: Mutable AI
-      url: https://mutable.ai
-      description: 具有 AI 自动完成功能的原型。利用 AI 转换为生产质量代码，免费
-      logo: favicon5.png
-    - title: cheat.sh
-      url: https://github.com/chubin/cheat.sh#visual-studio-code
-      description: 有一个方便的命令行客户端，这是非常有利和有用的，尽管不是强制性的。cht.sh可以直接从代码编辑器使用，无需打开浏览器，免费
-      logo: favicon5.png
-    - title: CodeGeeX
-      url: https://codegeex.cn/zh-CN
-      description: 清华大学知识工程实验室开源，免费
-      logo: favicon5.png
-    - title: CodeWhisperer
-      url: https://aws.amazon.com/cn/codewhisperer/
-      description: 需要加入waitlist Amazon发布的对标Copilot竞品
-      logo: favicon5.png
-    - title: Keploy
-      url: https://www.keploy.io/
-      description: Keploy 是一个开源的基于 AI 的测试生成平台，可创建测试用例和数据模拟/存根，在 90 分钟内实现 2% 的代码覆盖率。把它想象成用于测试的ChatGPT
-      logo: favicon5.png
-    - title: Cursor
-      url: https://www.cursor.com
-      description: Cursor 旨在让您非常高效，是使用 AI 进行编码的最佳方式
-      logo: favicon5.png
-    - title: PageGen-AI 页面生成器
-      url: https://pagegen.ai/
-      description: 使用 Claude AI 一键从文本、屏幕截图、图像、文件和模板生成网页
-      logo: favicon5.png
-    - title: Tempo Labs
-      url: https://www.tempolabs.ai/?ref=producthunt
-      description: 在 Tempo Labs 探索 AI 驱动的工具，轻松提示、开发和设计代码。与高级解决方案无缝协作，实现更快、更智能的 Web
-        开发。
-      logo: favicon5.png
-    - title: bolt.new
-      url: https://bolt.new/
-      description: 提示、运行、编辑和部署网络应用程序
-      logo: favicon5.png
-    - title: Project IDX
-      url: https://idx.dev/
-      description: Project IDX-你的在线AI代码工作区
-      logo: favicon5.png
-    - title: Pieces for Developers — Long term memory for developer workflows
-      url: https://pieces.app/
-      description: Pieces 是您的 AI 伴侣，可捕获从浏览器到 IDE 和协作工具的实时上下文、管理代码段并支持多个 LLM。
-      logo: favicon5.png
-    - title: Trae
-      url: https://www.trae.ai/
-      description: Trae 是一个自适应的 AI IDE，它会改变你的工作方式，与你协作以更快地运行。
-      logo: favicon5.png
-    - title: Websparks
-      url: https://websparks.ai/
-      description: Websparks 是一个 AI 驱动的全栈软件工程师代理，可将您的想法变为现实。
-      logo: favicon5.png
-    - title: Guii.AI
-      url: https://guii.ai/
-      description: 这是另一种让您的梦想成真或在原型设计过程中获得灵感的创新方式。
-      logo: favicon5.png
-    - title: codefromimage
-      url: https://codefromimage.com/
-      description: 一款前端代码生成工具，专为设计师和开发者打造。通过我们的一键上传与转换功能，您可以轻松将设计截图转换为实际可用的前端代码。支持多种图片格式和多样化代码输出
-      logo: favicon5.png
-    - title: We0
-      url: https://we0.ai/
-      description: 使用现代框架（包括 Vue、React、Next.js、Python、Java 和微信小程序（如 cursor、bolt.bew、windsurf）创建和部署
-        AI 驱动的应用程序...
-      logo: favicon5.png
-    - title: Copy Web
-      url: https://copyweb.ai/
-      description: CopyWeb 可帮助您仅使用屏幕截图或 URL 立即复制任何网站设计。一键将灵感变为现实。
-      logo: favicon5.png
-    - title: Webcrumbs
-      url: https://www.webcrumbs.ai/
-      description: 将您的前端游戏提升到一个新的水平。使用 AI 驱动的工具和可视化编辑器，在几秒钟内创建、优化和完善组件，同时保持设计简洁一致。
-      logo: favicon5.png
-    - title: Tabby - Opensource, self-hosted AI coding assistant
-      url: https://www.tabbyml.com/
-      description: Tabby 是一个开源的 AI 编码助手，使开发人员能够更快、更智能地编码。发现 GitHub Copilot 的独立替代方案，专为您的开发需求量身定制。
-      logo: favicon5.png
-    - title: Flexpilot IDE
-      url: https://flexpilot.ai/
-      description: 一个开源、免费、AI 原生、隐私优先的 IDE，从 VS Code 分叉而来，可以灵活地为您选择的 LLM 使用自己的密钥。
-      logo: favicon5.png
-    - title: Memex
-      url: https://memex.tech/
-      description: 使用 AI 构建任何内容 - 从 Web 应用程序到 3D 设计。Memex 通过自然语言将您的想法变为现实。
-      logo: favicon5.png
-    - title: WebbsAI
-      url: https://www.webbsai.com/
-      description: 在 30 秒内生成网站。生成美观、响应迅速的网站的单一提示。我们的 AI 原生平台让每个人都能设计登录页面
-      logo: favicon5.png
-    - title: MGX
-      url: https://mgx.dev/
-      description: MGX - 您的 24/7 AI 团队 |梦想， 聊天， 创造
-      logo: favicon5.png
-    - title: GitSeek | 从任意仓库复制所需代码，赋能AI开发
-      url: https://gitseek.dev/zh
-      description: GitSeek 帮你快速获取所需的完整代码，复制到 Claude 深度解读实现逻辑，或粘贴至 Cursor 实现相似功能开发。配备项目可视化和架构洞察能力。
-      logo: favicon5.png
-    - title: Copy Web
-      url: https://copywebui.com/
-      description: CopyWeb UI 是一款利用人工智能技术，将网页设计或现有网页内容快速转化为可编辑的代码。无论是通过截图、URL 还是 Figma
-        设计，CopyWeb UI 都能高效生成响应式 HTML/CSS 代码，并支持导出为 React、Vue 等主流前端框架代码，极大地提升了开发效率
-      logo: favicon5.png
-    - title: CloneUI - 从设计到代码
-      url: https://cloneui.org/
-      description: 将屏幕截图或 URL 转换为 React、HTML 或 Vue 代码，并增强您的开发工作流程。
-      logo: favicon5.png
-    - title: Fynix
-      url: https://www.fynix.ai/
-      description: Fynix 通过实时 AI 辅助、自动化代码审查以及用于文档、图表创建和系统可靠性的工具来加速您的软件开发。
-      logo: favicon5.png
-    - title: Flex App
-      url: https://flexapp.ai/
-      description: 在几分钟而不是几个月内将您的想法转化为功能齐全的移动应用程序。加入我们的候补名单，抢先体验我们的 AI 驱动的应用程序构建器。
-      logo: favicon5.png
-    - title: Mentor AI
-      url: https://mentor.irere.dev/
-      description: 任何代码库上的 AI Code Mentor
-      logo: favicon5.png
-    - title: CloneUI
-      url: https://cloneui.org/
-      description: 'CloneUI: 快速复制网站 UI。将屏幕截图或 URL 转换为 React、HTML 或 Vue 代码，并增强您的开发工作流程。'
-      logo: favicon5.png
-    - title: Readdy
-      url: https://readdy.ai/
-      description: 通过与AI交谈来构建您的梦想网站 - 无需拖放。当您满意时，立即发布，或导出为干净代码或Figma文件。非常适合设计资源有限的小团队或寻求更快交付的代理机构。
-      logo: favicon5.png
-  - term: AI·数字人
-    links:
-    - title: dreamtalk
-      url: https://dreamtalk-project.github.io/
-      description: AI生成数字人像视频
-      logo: favicon5.png
-    - title: VirtualWife
-      url: https://github.com/yakami129/VirtualWife
-      description: 你可以像朋友一样和她相识，作者希望虚拟数字人融入人类生活，作为恋爱导师，心理咨询师，解决人类的情感需求
-      logo: favicon5.png
-    - title: NextHuman
-      url: https://nexthuman.cn/wiki/home
-      description: 消费级3D超写实数字人创作与应用引擎
-      logo: favicon5.png
-    - title: D-ID Studio
-      url: https://studio.d-id.com/
-      description: 仅使用带有AI驱动的文本或音频的静止图像创建专业视频。
-      logo: favicon5.png
-    - title: neiro ai
-      url: https://neiro.ai/
-      description: 无需任何编码技能即可利用生成式 AI。140+种语言，10+种声音，无限可能。
-      logo: favicon5.png
-    - title: kreadoai
-      url: https://www.kreadoai.com/
-      description: AIGC数字营销创作平台
-      logo: favicon5.png
-    - title: AIGCPanel | 开源AI数字人系统
-      url: https://aigcpanel.com/
-      description: AigcPanel是一个可以在本地轻松使用AI模型的面板工具，支持模型安装、模型启动、模型调用等一站式便捷体验，让工作更高效！
-      logo: favicon5.png
-  - term: AI·代理·工作流
-    links:
-    - title: AutoGen
-      url: https://microsoft.github.io/autogen/
-      description: Enabling Next-Gen LLM Applications via Multi-Agent Conversation
-        Framework
-      logo: favicon5.png
-    - title: Botpress
-      url: https://botpress.com/
-      description: 使用 Botpress 构建强大的 AI 代理。由最新的 LLM 提供支持的直观构建体验。免费开始使用。
-      logo: favicon5.png
-    - title: BulkGPT
-      url: https://www.bulkgpt.ai/
-      description: DIY 无代码批量 AI 工作流创建工具，结合互联网的力量，以极快的速度批量处理 ChatGPT 请求。
-      logo: favicon5.png
-    - title: Nekton
-      url: https://nekton.ai/
-      description: Automate your day-to-day tasks with AI
-      logo: favicon5.png
-    - title: Craftgen
-      url: https://craftgen.ai/
-      description: 敏捷工程师的终极游乐场。制定多模型 AI 工作流程，并在自动驾驶仪上设置您的内容生成。
-      logo: favicon5.png
-    - title: 向量脉络
-      url: https://vectorvein.ai/zh
-      description: 向量脉络是 AI 工作流驱动的智能体平台，让您的工作更加轻松，更加高效。
-      logo: favicon5.png
-    - title: Steel
-      url: https://steel.dev/
-      description: Steel 是专为 AI 代理构建的开源浏览器 API。
-      logo: favicon5.png
-    - title: Tiledesk
-      url: https://tiledesk.com/
-      description: 使用跨渠道的 AI 代理自动化工作流程、运营和客户服务。提高效率。免费开始。
-      logo: favicon5.png
-    - title: Langflow | Low-code AI builder for agentic and RAG applications
-      url: https://www.langflow.org/
-      description: Langflow 是一款面向开发人员的低代码工具，可以更轻松地构建可以使用任何 API、模型或数据库的强大 AI 代理和工作流
-      logo: favicon5.png
-    - title: OOMOL
-      url: https://oomol.com/zh-CN/
-      description: Oomol Studio 通过直观的视觉交互轻松连接代码片段和 API 服务，帮助用户缩短从想法到产品的距离
-      logo: favicon5.png
-    - title: AI Native 创作引擎 · Refly
-      url: https://refly.ai/
-      description: Refly是一个自由形式的画布创作平台，该平台由多线程对话、知识整合、上下文记忆、智能搜索和所见即所得的人工智能编辑器共同驱动，可以将想法轻松转化为优质内容。
-      logo: favicon5.png
-    - title: Manus
-      url: https://manus.im/
-      description: Manus 是一个通用人工智能代理，能够将你的想法转化为行动。它在工作和生活中的各种任务中表现出色，在你休息时完成所有事情。
-      logo: favicon5.png
-    - title: Manus AI
-      url: https://www.manusai.info/
-      description: Manus AI Agent 通过独立思考和系统规划解决复杂任务。体验 AI 辅助的未来。
-      logo: favicon5.png
-    - title: Automated AI Voice Agent Testing
-      url: https://www.nbulatest.ai/
-      description: 通过即时测试、实时监控和性能分析，转变您的AI语音代理。在几天内满怀信心地启动值得信赖的对话式 AI。
-      logo: favicon5.png
-    - title: Free QWQ - 免费分布式 AI 算力平台
-      url: https://qwq.aigpu.cn/
-      description: 基于分布式家用电脑的 3090、3080、4090 显卡算力，提供完全免费、无限制的 AI 服务。支持免费使用 QwQ 32B
-        大语言模型。
-      logo: favicon5.png
-    - title: APIPark
-      url: https://apipark.com/zh/home-zh-cn
-      description: APIPark 是一款开源免费的一站式 AI 网关与 API 开放平台，致力于助力企业更加轻松地管理、整合并部署 AI 服务以及
-        API 的开放共享，让企业高效安全畅享 AI 时代！
-      logo: favicon5.png
-    - title: FlowAI
-      url: https://flowai.cc/
-      description: FlowAI 是一个强大的AI工作流构建平台，无需编程经验即可创建自动化工作流。支持多种大语言模型，提供直观的界面和丰富的功能，帮助您轻松实现工作流程自动化。
-      logo: favicon5.png
-    - title: TractoAI
-      url: https://tracto.ai/
-      description: 面向 AI 研究人员和工程师的无服务器云，可将原始数据转换为AI数据集，训练并运行大规模推理
-      logo: favicon5.png
-    - title: Refly
-      url: https://refly.ai/
-      description: Refly 是一个由多线程对话、知识整合、上下文记忆、智能搜索和所见即所得 AI 编辑器驱动的自由式画布创作平台，可以轻松地将想法转化为优质内容。
-      logo: favicon5.png
-    - title: Manus AI：通用 AI 代理 --- Manus AI：General AI Agent
-      url: https://manus.so/
-      description: Manus 是一个通用的 AI 代理，可将您的想法转化为行动。它擅长工作和生活中的各种任务，在休息时完成所有事情。
-      logo: favicon5.png
-    - title: CocoIndex
-      url: https://cocoindex.io/
-      description: 可理解、可扩展、可维护的云原生基础设施，用于为语义搜索/RAG 准备数据，具有世系和可观察性。
-      logo: favicon5.png
-  - term: AI·知识库·产品
+  
+  - term: AI知识库
     links:
     - title: ChatDOC
       url: https://chatdoc.com
@@ -2777,7 +2556,7 @@
       url: https://nullityai.com/
       description: 从您的文档、音频、PDF 和网站创建内部和可共享空间。只需 1 分钟即可构建您自己的搜索引擎。
       logo: favicon5.png
-  - term: AI·知识库·文档
+  - term: AI学习文档
     links:
     - title: Windsurf AI Directory
       url: https://www.windsurf.directory
@@ -2951,7 +2730,7 @@
       url: https://rncg5jvpme.feishu.cn/wiki/U9rYwRHQoil6vBkitY8cbh5tnL9
       description: 人人都能学会的 AI 教程》资源合集 - 飞书云文档
       logo: favicon5.png
-  - term: AI·工具集
+  - term: AI导航站
     links:
     - title: futuretools
       url: https://www.futuretools.io
@@ -3171,1012 +2950,235 @@
       url: https://www.dmxapi.com/register?aff=uNQr
       description: 低价模型中转API站
       logo: favicon5.png
-- taxonomy: 代码托管
-  icon: bi bi-code-square
-  list:
-    - term: 代码托管
-      links:
-        - title: ◈GitHub
-          logo: github.png
-          favicon:
-          url: https://github.com
-          description: 全球最大的代码托管平台
-        - title: ◈GitCode
-          logo: gitcode.png
-          favicon:
-          url: https://gitcode.com
-          description: （国内）代码托管平台
-        - title: ◈Framagit
-          logo: framagit.svg
-          favicon: https://framagit.org/uploads/-/system/appearance/header_logo/1/logo.svg
-          url: https://framagit.org
-          description: 基于 GitLab，代码托管平台，支持 Pages。
-        - title: ◈Codeberg
-          logo: codeberg.png
-          favicon:
-          url: https://codeberg.org
-          description: 基于 Gitea，代码托管平台，支持 Pages。
-        - title: 阿里云效 Codeup
-          logo: codeup.svg
-          favicon:
-          url: https://codeup.aliyun.com
-          description: （国内）阿里云效代码托管平台，支持 DevOPS。
-        - title: Gitee
-          logo: gitee.png
-          favicon:
-          url: https://gitee.com
-          description: （国内）代码托管平台
-        - title: GitLab
-          logo: gitlab.png
-          favicon:
-          url: https://gitlab.com
-          description: （可自建）代码托管平台
-        - title: Coding
-          logo: coding.png
-          favicon:
-          url: https://coding.net
-          description: （国内）代码托管平台
-        - title: AtomGit
-          logo: atomgit.png
-          favicon:
-          url: https://atomgit.com
-          description: （国内）开放原子开源基金会提供的代码托管平台
-        - title: 
-          logo:
-          favicon:
-          url: https://forum.idev.top/d/208
-          description: ⇒更多代码托管服务平台
-    - term: 网站部署      
-      links:
-        - title: Vercel
-          logo: vercel.png
-          favicon:
-          url: https://vercel.com/
-          description: 静态网站托管服务平台
-        - title: Netlify
-          logo: netlify.png
-          favicon:
-          url: https://www.netlify.com/
-          description: 静态网站托管服务平台
-        - title: Fleek
-          logo: fleek.png    
-          favicon:
-          url: https://fleek.xyz/
-          description: 静态网站托管服务平台  
-        - title: Surge
-          logo: surge.svg
-          favicon: https://surge.sh/images/logos/svg/surge-logo.svg
-          url: https://surge.sh/
-          description: 静态网站托管服务平台
-        - title: Fermyon
-          logo: fermyon.png
-          favicon:
-          url: https://fermyon.com/
-          description: WebAssembly 服务托管平台
-    - term: IDE与编辑器
-      links:
-        - title: VSCode
-          logo: vscode.png
-          favicon:
-          url: https://code.visualstudio.com/
-          description: 微软开发的免费、开源的代码编辑器
-        - title: JetBrains iDEA
-          logo: idea.png
-          favicon:
-          url: https://www.jetbrains.com/idea/
-          description: JetBrains 开发的免费、开源的代码编辑器
-        - title: Zed
-          logo: zed.png
-          favicon:
-          url: https://zed.dev/
-          description: 下一代高性能代码编辑器
-        - title: Neovim
-          logo: neovim.png
-          favicon:
-          url: https://neovim.io/
-          description: 一个高速、功能强大的文本编辑器
-        - title: Sublime Text
-          logo: sublimetext.png
-          favicon:
-          url: https://www.sublimetext.com/
-          description: 一个功能强大的代码编辑器
-    - term: 在线开发
-      links:
-        - title: Cloud Shell
-          logo: cloudshell.png
-          favicon: https://www.gstatic.com/cloudssh/images/favicon-192-5bf59255b7c44caaae3120868153fed9.png
-          url: https://shell.cloud.google.com/
-          description: Google Cloud Shell 云端开发环境
-        - title: GitHub Dev
-          logo: github.png
-          favicon:
-          url: https://github.dev/
-          description: GitHub 云端开发者平台
-    - term: 服务部署
-      links:
-        - title: Firebase
-          logo: firebase.png
-          favicon:
-          url: https://firebase.google.com/
-          description: 静态网站托管服务平台
-        - title: ImageKit
-          logo: imagekit.png
-          favicon:
-          url: https://imagekit.io/
-          description: 图片和媒体托管服务平台
-    - term: 在线编辑
-      links:
-        - title: CodeSandBox
-          logo: codesandbox.png
-          favicon:
-          url: https://codesandbox.io/
-          description: 快速Web开发的在线编辑器
-        - title: StackBlitz
-          logo: stackblitz.png
-          favicon:
-          url: https://stackblitz.com/
-          description: Web开发者的在线IDE
-        - title: CodePen
-          logo: codepen.png
-          favicon:
-          url: https://codepen.io/
-          description: 面向前端设计师和开发人员的在线开发环境
-        - title: JSFiddle
-          logo: jsfiddle.png
-          favicon:
-          url: https://jsfiddle.net/
-          description: 前端代码在线编辑器
-- taxonomy: 编程社区
-  icon: bi bi-lightbulb
-  list:
-  - term: 编程开发社区
+
+- taxonomy: AI编程工具
+  icon: bi bi-pci-card-network
+  list: 
+  - term: AI编程工具
     links:
-    - title: 精易社区
-      url: https://bbs.125.la
-      description: 易语言资源论坛
+    - title: Copilot
+      url: https://github.com/features/copilot/
+      description: 由Github和OpenAI联合开发的模型框架，收费
       logo: favicon5.png
-    - title: Ruby China
-      url: https://ruby-china.org
-      description: 专业开发者码农社区
+    - title: Tabnine
+      url: https://www.tabnine.com
+      description: 面向软件开发人员的 AI 助手，免费 + 收费
       logo: favicon5.png
-    - title: 真全栈程序员
-      url: https://www.fstcode.com
-      description: IT技术交流论坛
+    - title: Mutable AI
+      url: https://mutable.ai
+      description: 具有 AI 自动完成功能的原型。利用 AI 转换为生产质量代码，免费
       logo: favicon5.png
-    - title: 程序员源码论坛
-      url: http://www.cx1314.cn
-      description: IT技术交流论坛
+    - title: cheat.sh
+      url: https://github.com/chubin/cheat.sh#visual-studio-code
+      description: 有一个方便的命令行客户端，这是非常有利和有用的，尽管不是强制性的。cht.sh可以直接从代码编辑器使用，无需打开浏览器，免费
       logo: favicon5.png
-    - title: 不错吧源码论坛
-      url: http://bbs.bcb5.com
-      description: 源码论坛
+    - title: CodeGeeX
+      url: https://codegeex.cn/zh-CN
+      description: 清华大学知识工程实验室开源，免费
       logo: favicon5.png
-    - title: Emacs China
-      url: https://emacs-china.org
-      description: 开发者技术类论坛
+    - title: CodeWhisperer
+      url: https://aws.amazon.com/cn/codewhisperer/
+      description: 需要加入waitlist Amazon发布的对标Copilot竞品
       logo: favicon5.png
-    - title: 恩山无线论坛
-      url: https://www.right.com.cn
-      description: 软路由
+    - title: Keploy
+      url: https://www.keploy.io/
+      description: Keploy 是一个开源的基于 AI 的测试生成平台，可创建测试用例和数据模拟/存根，在 90 分钟内实现 2% 的代码覆盖率。把它想象成用于测试的ChatGPT
       logo: favicon5.png
-    - title: AIQ
-      url: https://www.6aiq.com
-      description: 人工智能技术社区
+    - title: Cursor
+      url: https://www.cursor.com
+      description: Cursor 旨在让您非常高效，是使用 AI 进行编码的最佳方式
       logo: favicon5.png
-    - title: 一牛网论坛
-      url: https://bbs.16rd.com
-      description: 综合技术芯片类论坛
+    - title: PageGen-AI 页面生成器
+      url: https://pagegen.ai/
+      description: 使用 Claude AI 一键从文本、屏幕截图、图像、文件和模板生成网页
       logo: favicon5.png
-    - title: 摸鱼派
-      url: https://fishpi.cn
-      description: 一个属于程序员的摸鱼社区
+    - title: Tempo Labs
+      url: https://www.tempolabs.ai/?ref=producthunt
+      description: 在 Tempo Labs 探索 AI 驱动的工具，轻松提示、开发和设计代码。与高级解决方案无缝协作，实现更快、更智能的 Web
+        开发。
       logo: favicon5.png
-    - title: 先知社区
-      url: https://xz.aliyun.com
-      description: 网络安全类论坛
+    - title: bolt.new
+      url: https://bolt.new/
+      description: 提示、运行、编辑和部署网络应用程序
       logo: favicon5.png
-    - title: 工控论坛
-      url: http://bbs.gkong.com
-      description: 工控技术自动化
+    - title: Project IDX
+      url: https://idx.dev/
+      description: Project IDX-你的在线AI代码工作区
       logo: favicon5.png
-    - title: 独立开发者社区
-      url: https://w2solo.com
-      description: 独立开发者社区
+    - title: Pieces for Developers — Long term memory for developer workflows
+      url: https://pieces.app/
+      description: Pieces 是您的 AI 伴侣，可捕获从浏览器到 IDE 和协作工具的实时上下文、管理代码段并支持多个 LLM。
       logo: favicon5.png
-    - title: 安全论坛
-      url: http://bbs.anquan.com.cn
-      description: 安全文化交流
+    - title: Trae
+      url: https://www.trae.ai/
+      description: Trae 是一个自适应的 AI IDE，它会改变你的工作方式，与你协作以更快地运行。
       logo: favicon5.png
-    - title: KubeSphere 开源社区
-      url: https://kubesphere.com.cn/forum
-      description: 专业开发者码农社区
+    - title: Websparks
+      url: https://websparks.ai/
+      description: Websparks 是一个 AI 驱动的全栈软件工程师代理，可将您的想法变为现实。
       logo: favicon5.png
-    - title: 微软极客社区
-      url: https://bbs.pcbeta.com
-      description: 综合类系统OS技术社区
+    - title: Guii.AI
+      url: https://guii.ai/
+      description: 这是另一种让您的梦想成真或在原型设计过程中获得灵感的创新方式。
       logo: favicon5.png
-    - title: Reddit
-      url: https://www.reddit.com
-      description: 全球技术交流论坛
+    - title: codefromimage
+      url: https://codefromimage.com/
+      description: 一款前端代码生成工具，专为设计师和开发者打造。通过我们的一键上传与转换功能，您可以轻松将设计截图转换为实际可用的前端代码。支持多种图片格式和多样化代码输出
       logo: favicon5.png
-    - title: 世界中文黑客论坛
-      url: https://www.cnhackteam.org
-      description: 黑客攻防
+    - title: We0
+      url: https://we0.ai/
+      description: 使用现代框架（包括 Vue、React、Next.js、Python、Java 和微信小程序（如 cursor、bolt.bew、windsurf）创建和部署
+        AI 驱动的应用程序...
       logo: favicon5.png
-    - title: DMZ社区
-      url: http://www.dmzshequ.com
-      description: it类资源论坛
+    - title: Copy Web
+      url: https://copyweb.ai/
+      description: CopyWeb 可帮助您仅使用屏幕截图或 URL 立即复制任何网站设计。一键将灵感变为现实。
       logo: favicon5.png
-    - title: faga论坛
-      url: http://www.fpgaw.com
-      description: faga技术、人工智能
+    - title: Webcrumbs
+      url: https://www.webcrumbs.ai/
+      description: 将您的前端游戏提升到一个新的水平。使用 AI 驱动的工具和可视化编辑器，在几秒钟内创建、优化和完善组件，同时保持设计简洁一致。
       logo: favicon5.png
-    - title: chinaunix
-      url: http://bbs.chinaunix.net
-      description: 编程技术为主，有一定年份了
+    - title: Tabby - Opensource, self-hosted AI coding assistant
+      url: https://www.tabbyml.com/
+      description: Tabby 是一个开源的 AI 编码助手，使开发人员能够更快、更智能地编码。发现 GitHub Copilot 的独立替代方案，专为您的开发需求量身定制。
       logo: favicon5.png
-    - title: geekhub
-      url: https://geekhub.com
-      description: 极客玩家社区
+    - title: Flexpilot IDE
+      url: https://flexpilot.ai/
+      description: 一个开源、免费、AI 原生、隐私优先的 IDE，从 VS Code 分叉而来，可以灵活地为您选择的 LLM 使用自己的密钥。
       logo: favicon5.png
-    - title: 苹果团
-      url: https://appletuan.com/
-      description: 苹果团 | 购买苹果产品的完美之地
+    - title: Memex
+      url: https://memex.tech/
+      description: 使用 AI 构建任何内容 - 从 Web 应用程序到 3D 设计。Memex 通过自然语言将您的想法变为现实。
       logo: favicon5.png
-    - title: 4414论坛
-      url: https://www.4414.cn
-      description: 站长交流社区
+    - title: WebbsAI
+      url: https://www.webbsai.com/
+      description: 在 30 秒内生成网站。生成美观、响应迅速的网站的单一提示。我们的 AI 原生平台让每个人都能设计登录页面
       logo: favicon5.png
-    - title: CSDN
-      url: https://www.csdn.net
-      description: 专业开发者社区
+    - title: MGX
+      url: https://mgx.dev/
+      description: MGX - 您的 24/7 AI 团队 |梦想， 聊天， 创造
       logo: favicon5.png
-    - title: 吾爱程序猿
-      url: https://www.52programer.com
-      description: IT技术交流论坛
+    - title: GitSeek | 从任意仓库复制所需代码，赋能AI开发
+      url: https://gitseek.dev/zh
+      description: GitSeek 帮你快速获取所需的完整代码，复制到 Claude 深度解读实现逻辑，或粘贴至 Cursor 实现相似功能开发。配备项目可视化和架构洞察能力。
       logo: favicon5.png
-    - title: 落伍者交流社区
-      url: https://www.im286.net
-      description: 站长交流社区
+    - title: Copy Web
+      url: https://copywebui.com/
+      description: CopyWeb UI 是一款利用人工智能技术，将网页设计或现有网页内容快速转化为可编辑的代码。无论是通过截图、URL 还是 Figma
+        设计，CopyWeb UI 都能高效生成响应式 HTML/CSS 代码，并支持导出为 React、Vue 等主流前端框架代码，极大地提升了开发效率
       logo: favicon5.png
-    - title: DEV
-      url: https://dev.to
-      description: DEV社区是一个由861，701名优秀开发人员组成的社区
+    - title: CloneUI - 从设计到代码
+      url: https://cloneui.org/
+      description: 将屏幕截图或 URL 转换为 React、HTML 或 Vue 代码，并增强您的开发工作流程。
       logo: favicon5.png
-    - title: 1024只猴子
-      url: https://1024.com
-      description: 专业开发者码农社区
+    - title: Fynix
+      url: https://www.fynix.ai/
+      description: Fynix 通过实时 AI 辅助、自动化代码审查以及用于文档、图表创建和系统可靠性的工具来加速您的软件开发。
       logo: favicon5.png
-    - title: 站长门户圈
-      url: https://bbs.downzz.com
-      description: 站长交流社区
+    - title: Flex App
+      url: https://flexapp.ai/
+      description: 在几分钟而不是几个月内将您的想法转化为功能齐全的移动应用程序。加入我们的候补名单，抢先体验我们的 AI 驱动的应用程序构建器。
       logo: favicon5.png
-    - title: 全球主机交流
-      url: https://hostloc.com
-      description: 服务器等综合类
+    - title: Mentor AI
+      url: https://mentor.irere.dev/
+      description: 任何代码库上的 AI Code Mentor
       logo: favicon5.png
-    - title: 野火论坛
-      url: https://firebbs.cn
-      description: STM32开发资料
+    - title: CloneUI
+      url: https://cloneui.org/
+      description: 'CloneUI: 快速复制网站 UI。将屏幕截图或 URL 转换为 React、HTML 或 Vue 代码，并增强您的开发工作流程。'
       logo: favicon5.png
-    - title: V2EX
-      url: https://www.v2ex.com
-      description: 专业开发者社区
+    - title: Readdy
+      url: https://readdy.ai/
+      description: 通过与AI交谈来构建您的梦想网站 - 无需拖放。当您满意时，立即发布，或导出为干净代码或Figma文件。非常适合设计资源有限的小团队或寻求更快交付的代理机构。
       logo: favicon5.png
-    - title: 开源中国
-      url: https://www.oschina.net
-      description: 专业开发者码农社区
-      logo: favicon5.png
-    - title: 电鸭社区
-      url: https://eleduck.com
-      description: 远程工作者的家园
-      logo: favicon5.png
-    - title: ITPUB论坛
-      url: http://www.itpub.net/forum-44-1.html
-      description: IT技术交流论坛
-      logo: favicon5.png
-    - title: ITgood论坛
-      url: http://www.itgood.vip
-      description: IT技术交流论坛
-      logo: favicon5.png
-    - title: 黑客派
-      url: https://ld246.com
-      description: 从小众走向大众的技术社区
-      logo: favicon5.png
-    - title: CocoaChina
-      url: https://emacs-china.org
-      description: 开发者技术类论坛
-      logo: favicon5.png
-    - title: 独立黑客社区
-      url: https://www.indiehackers.com/
-      description: 开发者技术类社区
-      logo: favicon5.png
-    - title: wvbCommunity
-      url: https://community.wvbtech.com/
-      description: 编程类技术社区
-      logo: favicon5.png
-    - title: 程序员论坛
-      url: https://learnku.com
-      description: 编程论坛
-      logo: favicon5.png
-    - title: 智源社区
-      url: https://hub.baai.ac.cn
-      description: ai智能社区
-      logo: favicon5.png
-    - title: Rebase
-      url: https://rebase.network
-      description: Rebase 是由中国的 Web3.0 开发者们在业余时间凭热爱建立的开发者社区。 Rebase 是一个极客组织，致力于帮助极客更好地利用科技创新，推动社会变革
-      logo: favicon5.png
-    - title: 创乐坊
-      url: https://creator.indieclub.net
-      description: flarum社区
-      logo: favicon5.png
-    - title: flarumtr
-      url: https://flarumtr.com
-      description: flarumtr
-      logo: favicon5.png
-    - title: segmentFault思否
-      url: https://segmentfault.com
-      description: 综合类交流论坛
-      logo: favicon5.png
-    - title: NOTEWEB
-      url: https://www.noteweb.top
-      description: xiuno IT交流论坛
-      logo: favicon5.png
-    - title: 搬砖技术社区
-      url: https://0xffff.one
-      description: 搬砖技术社区
-      logo: favicon5.png
-    - title: 大牛论坛
-      url: https://www.daniu520.com
-      description: 综合类技术论坛
-      logo: favicon5.png
-    - title: 小木虫
-      url: http://muchong.com/bbs
-      description: 综合类交流论坛
-      logo: favicon5.png
-    - title: xiuno开源程序交流论坛
-      url: https://xiunobbs.cn
-      description: xiuno开源程序交流论坛
-      logo: favicon5.png
-    - title: FLY社区
-      url: http://www.0xy.cn
-      description: ''
-      logo: favicon5.png
-    - title: 看雪论坛
-      url: https://www.kanxue.com
-      description: 技术交流论坛
-      logo: favicon5.png
-    - title: 瑞客论坛
-      url: https://www.ruike1.com
-      description: 综合类技术论坛
-      logo: favicon5.png
-    - title: 虫部落
-      url: https://www.chongbuluo.com
-      description: 综合类收录社区
-      logo: favicon5.png
-    - title: 吾爱破解论坛
-      url: https://www.52pojie.cn
-      description: 老牌的站点,很强
-      logo: favicon5.png
-    - title: 搜索客，搜索人自己的社区
-      url: https://elasticsearch.cn/
-      description: 搜索客，搜索人自己的社区，国内最大的围绕搜索相关技术的垂直社区。
-      logo: favicon5.png
-    - title: PKMer_PKMer
-      url: https://pkmer.cn/#home
-      description: pkmer.cn——Pkmer，打造东半球强大的知识管理社区！提供包括Obsidian，Zotero在内的知识管理工具、技巧和经验分享，文档完全开源免费，助您创造更高效、更智慧的知识管理体系。
-      logo: favicon5.png
-  - term: 手机软件社区
+  - term: AI智能体
     links:
-    - title: 猪猪猫论坛
-      url: http://www.jujumaow.com/
-      description: 系统软件下载论坛
-      logo: favicon5.png
-    - title: 单片机论坛
-      url: http://www.mcuzx.net
-      description: 单片机学习交流
-      logo: favicon5.png
-    - title: abbs论坛
-      url: http://www.abbs.com.cn/bbs
-      description: 建筑师社区
-      logo: favicon5.png
-    - title: 木蚂蚁论坛
-      url: http://bbs.mumayi.com
-      description: 手机玩家、安卓软件
-      logo: favicon5.png
-    - title: 爱好论坛
-      url: https://www.aihao.cc
-      description: WIN系统密匙不断更
-      logo: favicon5.png
-    - title: XDA论坛
-      url: https://forum.xda-developers.com
-      description: 国外手机系统软论坛
-      logo: favicon5.png
-    - title: 闪电联盟
-      url: http://bbs.sdbeta.com
-      description: 破解软件类论坛
-      logo: favicon5.png
-    - title: DEEPIN论坛
-      url: https://bbs.deepin.org
-      description: 深度官方社区
-      logo: favicon5.png
-    - title: 家电论坛
-      url: http://bbs.cheaa.com
-      description: 包括电视机等各种数码
-      logo: favicon5.png
-    - title: chiphell
-      url: https://www.chiphell.com/forum.php
-      description: 电脑类分享社区
-      logo: favicon5.png
-    - title: 八神智能天下
-      url: http://zntx.cc
-      description: 一个破解软件（游戏）的社区，注册不需要邀请码
-      logo: favicon5.png
-    - title: excelhome
-      url: https://club.excelhome.net
-      description: 专业的Excel学习论坛
-      logo: favicon5.png
-    - title: 流星社区
-      url: http://bbs.liuxingw.com
-      description: 安卓类综合门户
-      logo: favicon5.png
-    - title: 萝卜头论坛
-      url: https://bbs.luobotou.org
-      description: 软件IT论坛
-      logo: favicon5.png
-    - title: 51testing论坛
-      url: http://bbs.51testing.com/forum.php
-      description: 专业软件测试论坛
-      logo: favicon5.png
-    - title: 苹果站长论坛
-      url: https://www.bbspg.com
-      description: 苹果CMS站长论坛
-      logo: favicon5.png
-    - title: 21IC技术开发论坛
-      url: https://bbs.21ic.com
-      description: 推荐板块：技术资源专区
-      logo: favicon5.png
-    - title: 油猴中文网
-      url: https://bbs.tampermonkey.net.cn
-      description: 油猴脚本
-      logo: favicon5.png
-    - title: 电子发烧友论坛
-      url: https://bbs.elecfans.com
-      description: HarmonyOS技术社区
-      logo: favicon5.png
-    - title: 卡饭论坛
-      url: https://bbs.kafan.cn
-      description: 杀毒软件
-      logo: favicon5.png
-    - title: hassbian
-      url: https://bbs.hassbian.com
-      description: 智能家居技术论坛
-      logo: favicon5.png
-    - title: GPS之家
-      url: http://bbs.gpsuu.com
-      description: 导航GPS交流
-      logo: favicon5.png
-    - title: ubuntu论坛
-      url: https://forum.ubuntu.org.cn
-      description: ubuntu系统的一切
-      logo: favicon5.png
-    - title: 智能电视论坛
-      url: https://www.znds.com
-      description: 智能电视
-      logo: favicon5.png
-    - title: 万维论坛
-      url: https://www.rom100.com
-      description: 手机刷机固件大全
-      logo: favicon5.png
-    - title: ZOL论坛
-      url: https://bbs.zol.com.cn
-      description: 中关村在线论坛
-      logo: favicon5.png
-    - title: 外网论坛
-      url: https://www.tvsbook.com/forums/android-tv-app.3
-      description: Android电视应用程序
-      logo: favicon5.png
-    - title: 无线论坛
-      url: https://www.anywlan.com
-      description: 专业wlan无线网络论坛
-      logo: favicon5.png
-  - term: 网盘资源合集
-    links:
-    - title: BT种子论坛
-      url: https://pt.btschool.club/torrents.php
-      description: BT种子资源
-      logo: favicon5.png
-    - title: 姿势论坛
-      url: https://bbs.zsxwz.com
-      description: 姿势论坛
-      logo: favicon5.png
-    - title: 天翼小站
-      url: https://jinglei.eu.org
-      description: 天翼及阿里云盘资源
-      logo: favicon5.png
-    - title: 雷鲸小站
-      url: https://www.leijing.xyz
-      description: 云盘资源站
-      logo: favicon5.png
-    - title: 112网盘社区
-      url: http://www.112pan.com
-      description: 网盘综合类类资源论坛
-      logo: favicon5.png
-    - title: 云盘资源分享论坛
-      url: https://drivebbs.com
-      description: 云盘资源分享交流
-      logo: favicon5.png
-    - title: 百度网盘论坛
-      url: http://www.baoshu8.com
-      description: 百度类资源社区
-      logo: favicon5.png
-    - title: VIP分享网论坛
-      url: https://bbs.vipfenxiang.com
-      description: VIP分享账号论坛
-      logo: favicon5.png
-    - title: 我的小站
-      url: https://pan666.net
-      description: 以阿里云盘资源为主的论坛
-      logo: favicon5.png
-    - title: 网盘分享吧
-      url: https://www.wpfx8.com
-      description: 网盘资源论坛
-      logo: favicon5.png
-    - title: 好家当
-      url: https://www.hjdang.com
-      description: 好家当是一个网友分享阿里云盘，夸克网盘资源的社区。网友发帖十分活跃，资源很新
-      logo: favicon5.png
-  - term: 影视资源合集
-    links:
-    - title: 百度云电影论坛
-      url: http://www.chchzh.com
-      description: 百度盘影视类资源论坛
-      logo: favicon5.png
-    - title: 资源号
-      url: http://www.ziyuanhao.com/index.php
-      description: 影视资源为主
-      logo: favicon5.png
-    - title: hd高清乐园
-      url: https://www.hdsay.net
-      description: 影视资源论坛
-      logo: favicon5.png
-    - title: HIFI音乐论坛
-      url: https://sacdr.net/forum.php
-      description: HIFI音乐交流论坛
-      logo: favicon5.png
-    - title: 西西论坛
-      url: https://www.zhanxixi.com
-      description: 百度盘影视类资源论坛
-      logo: favicon5.png
-    - title: 飘雪动漫社
-      url: https://www.deainx.me
-      description: 动漫资源论坛
-      logo: favicon5.png
-    - title: hktvwind
-      url: http://www.hktvwind.com
-      description: 影视资源论坛
-      logo: favicon5.png
-    - title: 百度盘影视类资源论坛
-      url: https://8yunpan.com
-      description: 百度盘影视类资源论坛
-      logo: favicon5.png
-    - title: 牛皮兔
-      url: http://www.niupitu.com
-      description: 影视资源论坛
-      logo: favicon5.png
-    - title: HiFiNi
-      url: https://www.hifini.com
-      description: HiFiNi 是一个由音乐爱好者维护的分享平台, 旨在解决问题互帮互助
-      logo: favicon5.png
-    - title: BT电影天堂
-      url: https://www.ck180.net
-      description: 一个背时鬼的看电影首选小网站
-      logo: favicon5.png
-    - title: 优优MP4
-      url: https://www.uump4.net
-      description: 影视资源论坛
-      logo: favicon5.png
-    - title: 点拨论坛
-      url: https://www.dianbo.org
-      description: 视频、光盘、技术类老牌
-      logo: favicon5.png
-    - title: G2怀旧论坛
-      url: https://www.g2hj.com
-      description: 影视资源论坛
-      logo: favicon5.png
-    - title: 音响DIY
-      url: http://bbs.hifidiy.net
-      description: 功放音响玩家论坛
-      logo: favicon5.png
-    - title: CD包音乐网
-      url: https://www.cdbao.net
-      description: 无损音乐、刻录光盘
-      logo: favicon5.png
-    - title: 三国情论坛
-      url: https://www.975w.com
-      description: 综合影视、游戏资源论坛
-      logo: favicon5.png
-    - title: 音频应用
-      url: https://www.audiobar.cn/
-      description: 音频应用,音频应用论坛,midi,录音,音频,音乐制作,recording,audio,vst,乐器,吉他,话筒,耳机,声卡
-      logo: favicon5.png
-  - term: 摄影交流社区
-    links:
-    - title: 新摄影
-      url: http://forums.nphoto.net
-      description: 摄影技术综合论坛
-      logo: favicon5.png
-    - title: CG分享网
-      url: https://www.cgfxw.com
-      description: CG类资源
-      logo: favicon5.png
-    - title: 三维3D技术论坛
-      url: http://www.narkii.com/club
-      description: 三维3D技术论坛
-      logo: favicon5.png
-    - title: 色影无忌论坛
-      url: https://forum.xitek.com
-      description: 摄影类资源论坛
-      logo: favicon5.png
-    - title: 有氧周末
-      url: http://zhoumovip.cn
-      description: 摄影类资源论坛
-      logo: favicon5.png
-    - title: PS教程论坛
-      url: http://bbs.16xx8.com
-      description: 以PS教程为主
-      logo: favicon5.png
-    - title: 飞天资源论坛
-      url: https://feitianwu7.com/forum.php
-      description: PS论坛
-      logo: favicon5.png
-    - title: 摄设论坛
-      url: https://sszylt.com/forum.php
-      description: 摄影资源论坛
-      logo: favicon5.png
-  - term: 游戏攻略社区
-    links:
-    - title: 久爱论坛
-      url: https://www.jizy8.com
-      description: 游戏辅助类论坛
-      logo: favicon5.png
-    - title: 破走论坛
-      url: https://www.pozou.com
-      description: 游戏辅助类论坛
-      logo: favicon5.png
-    - title: 游民星空论坛
-      url: http://bbs.gamersky.com
-      description: 游民星空PC游戏论坛
-      logo: favicon5.png
-    - title: 玖大猫论坛
-      url: http://www.9damaogame.net
-      description: 原3DM论坛版主因为个别原因再建的游戏论坛网站
-      logo: favicon5.png
-    - title: A9VG
-      url: https://bbs.a9vg.com
-      description: 游戏论坛社区
-      logo: favicon5.png
-    - title: keter
-      url: https://bbs.keter.pub
-      description: 游戏社区
-      logo: favicon5.png
-    - title: 电玩DIY论坛
-      url: http://vgdiy.com/bbs/forum.php
-      description: 电玩DIY论坛
-      logo: favicon5.png
-    - title: Marioforever
-      url: https://www.marioforever.net/
-      description: 马里奥爱好者社区
-      logo: favicon5.png
-    - title: 哈设游戏小论坛
-      url: http://hasheji.cn/forum.php
-      description: 哈设游戏世界社区
-      logo: favicon5.png
-  - term: 知识考证社区
-    links:
-    - title: 幕布精选社区
-      url: https://mubu.com/explore
-      description: 知识分享交流
-      logo: favicon5.png
-    - title: 医学论坛网
-      url: http://www.cmt.com.cn
-      description: 医学类论坛
-      logo: favicon5.png
-    - title: 教育盘论坛
-      url: https://jiaoyupan.com
-      description: 综合类教育考试交流论坛
-      logo: favicon5.png
-    - title: 吾爱知道
-      url: http://www.qkoufu.com
-      description: 问答社区
-      logo: favicon5.png
-    - title: 答疑啦
-      url: https://www.dayila.net
-      description: 考试类资源社区
-      logo: favicon5.png
-    - title: 考研帮论坛区
-      url: http://bbs.kaoyan.com
-      description: 考研为主
-      logo: favicon5.png
-    - title: 医学资料吧
-      url: https://www.yxzlb.com
-      description: 医学类论坛
-      logo: favicon5.png
-    - title: 英语听力论坛
-      url: http://bbs.tingroom.com
-      description: 英语听力论坛
-      logo: favicon5.png
-    - title: FREE考研论坛
-      url: http://bbs.freekaoyan.com/forum.php
-      description: 考研论坛
-      logo: favicon5.png
-    - title: 学法网论坛
-      url: http://bbs.xuefa.com
-      description: 有一些法律相关资料
-      logo: favicon5.png
-    - title: 王道论坛
-      url: http://www.cskaoyan.com
-      description: 计算机、考研、大学
-      logo: favicon5.png
-    - title: 法硕联盟论坛
-      url: http://www.fashuounion.com
-      description: 法律硕士联盟
-      logo: favicon5.png
-    - title: 5imx
-      url: http://bbs.5imx.com
-      description: 遥控模型和无人机玩家
-      logo: favicon5.png
-    - title: 醉里挑原创
-      url: http://www.9000xp.com
-      description: 文学类综合论坛
-      logo: favicon5.png
-    - title: 钢笔论坛
-      url: http://www.penbbs.com
-      description: 书写DIY爱好者
-      logo: favicon5.png
-  - term: 综合交流社区
-    links:
-    - title: 失业者联盟
-      url: http://losergogogo.com
-      description: 职场人和职场故事
-      logo: favicon5.png
-    - title: 收音机论坛
-      url: http://bbs.tecsun.com.cn
-      description: FM交流
-      logo: favicon5.png
-    - title: 豆瓣小组
-      url: https://www.douban.com/group/explore
-      description: 豆瓣官方社区
-      logo: favicon5.png
-    - title: 非人类论坛
-      url: https://loc.cc
-      description: 域名爱好者的论坛
-      logo: favicon5.png
-    - title: 跨国采购网论坛
-      url: http://bbs.globalimporter.net
-      description: 外贸论坛
-      logo: favicon5.png
-    - title: 屌丝论坛
-      url: https://assbbs.com
-      description: 比较杂乱，域名服务器
-      logo: favicon5.png
-    - title: 牛客网讨论区
-      url: https://www.nowcoder.com/discuss
-      description: 求职者交流
-      logo: favicon5.png
-    - title: 南+ South Plus
-      url: https://www.spring-plus.net
-      description: 老司机交流
-      logo: favicon5.png
-    - title: 穷游论坛
-      url: https://bbs.qyer.com
-      description: 穷游者的论坛
-      logo: favicon5.png
-    - title: AMZ123
-      url: https://www.amz123.com/forum-8.htm
-      description: 亚马逊跨境交流
-      logo: favicon5.png
-    - title: 摩托吧
-      url: http://bbs.moto8.com
-      description: 摩托骑士交流
-      logo: favicon5.png
-    - title: 虾哥论坛
-      url: https://xiage.yy.com
-      description: YY语音旗下的
-      logo: favicon5.png
-    - title: 北大未名BBS
-      url: https://bbs.pku.edu.cn
-      description: 北京大学校园论坛
-      logo: favicon5.png
-    - title: 人民强国论坛
-      url: http://bbs1.people.com.cn/board/1.html
-      description: 强国论坛
-      logo: favicon5.png
-    - title: 虎扑社区
-      url: https://bbs.hupu.com
-      description: NBA体坛
-      logo: favicon5.png
-    - title: 统计之都论坛
-      url: https://d.cosx.org
-      description: 探讨统计学和数据科学的平台
-      logo: favicon5.png
-- taxonomy: 独立开发
-  icon: bi bi-lightbulb
-  list:
-  - term: 云端部署
-    links:
-    - title: vercel
-      url: https://vercel.com
-      description: vercel
-      logo: favicon5.png
-    - title: Netlify
-      url: https://app.netlify.com
-      description: Netlify
-      logo: favicon5.png
-    - title: Gatsbyjs
-      url: https://www.gatsbyjs.com
-      description: Gatsbyjs
-      logo: favicon5.png
-    - title: Github
-      url: https://github.com
-      description: github
-      logo: favicon5.png
-    - title: Railway
-      url: https://railway.app
-      description: railway
-      logo: favicon5.png
-    - title: cloudflare
-      url: https://dash.cloudflare.com
-      description: cloudflare
-      logo: favicon5.png
-    - title: Gitpod
-      url: https://gitpod.io
-      description: gitpod
-      logo: favicon5.png
-    - title: Electron
-      url: https://www.electronjs.org
-      description: electron
-      logo: favicon5.png
-    - title: Codesandbox
-      url: https://codesandbox.io
-      description: 沙盒
-      logo: favicon5.png
-    - title: Dcloud
-      url: https://dcloud.io
-      description: 程序开发
-      logo: favicon5.png
-    - title: supabase
-      url: https://supabase.com
-      description: 使用Postgres数据库，身份验证，即时API，实时订阅和存储开始您的项目
-      logo: favicon5.png
-    - title: Replit
-      url: https://replit.com
-      description: replit
-      logo: favicon5.png
-    - title: Render
-      url: https://dashboard.render.com
-      description: Render
-      logo: favicon5.png
-    - title: stackblitz
-      url: https://stackblitz.com
-      description: stackblitz
-      logo: favicon5.png
-    - title: codepen
-      url: https://codepen.io/
-      description: 在线代码编辑，案例社区交流
-      logo: favicon5.png
-    - title: 4everland
-      url: https://www.4everland.org/
-      description: web3的云计算平台
-      logo: favicon5.png
-    - title: gitcode
-      url: https://gitcode.net/
-      description: 国内代码仓库平台
-      logo: favicon5.png
-    - title: Peasy
-      url: https://p-easy.net/
-      description: 可视化静态网址在线制作
-      logo: favicon5.png
-    - title: Team code
-      url: https://www.teamcode.com
-      description: 云端协作开发平台
-      logo: favicon5.png
-    - title: Deno Deploy
-      url: https://deno.com
-      description: Deno Deploy 是一个分布式系统，允许你运行 JavaScript， TypeScript 和 WebAssembly
-        ，其边缘化与 V8 运行时集成
-      logo: favicon5.png
-    - title: zeabur
-      url: https://dash.zeabur.com
-      description: 无论用什么语音都可以支持你部署服务的平台
-      logo: favicon5.png
-    - title: Zion无代码
-      url: https://www.functorz.com/?channel=noise
-      description: Zion无代码开发工具，无需一行代码，实现小程序/Web开发，从设计到上线完全自动化，赋予你全流程开发能力！
-      logo: favicon5.png
-    - title: Static.app
-      url: https://static.app/
-      description: 静态网站托管 -All-in-one solution to host static websites online. Free,
-        fast, and simple static website hosting. Publish your static webpage with
-        just one click.
-      logo: favicon5.png
-    - title: Undb | 开源自托管无代码数据库
-      url: https://undb.io/
-      description: 开源Airtable替代品和后端即服务
-      logo: favicon5.png
-    - title: Create a Website for Free. Tilda Website Builder
-      url: https://tilda.cc/
-      description: 使用 Tilda 直观的网站构建器创建网站、在线商店、登录页面。从数百个预先设计的模板构建您的网站并立即发布。无需代码。
-      logo: favicon5.png
-    - title: Kamal
-      url: https://kamal-deploy.org/
-      description: Kamal — 在任何位置部署 Web 应用程序
-      logo: favicon5.png
-    - title: UptimeBeats
-      url: https://uptimebeats.com/
-      description: 实时监控以获得最佳性能，确保 24/7 全天候正常运行时间，提升用户体验，并最大限度地提高您的在线形象
-      logo: favicon5.png
-    - title: Hatchet
-      url: https://hatchet.run/
-      description: Hatchet 是一个分布式、容错任务队列，它取代了传统的消息代理和发布/订阅系统，旨在解决并发性、公平性和持久性等问题
-      logo: favicon5.png
-    - title: SST
-      url: https://sst.dev/
-      description: 一个框架，可让您轻松地在自己的基础设施上构建现代全栈应用程序。
-      logo: favicon5.png
-    - title: JS.ORG - JavaScript 组织
-      url: https://js.org
-      description: GitHub 页面获取您自己的免费 JS.ORG 子域
-      logo: favicon5.png
-    - title: Builder.io： 可视化开发平台
-      url: https://www.builder.io/
-      description: Builder 是唯一提供 AI 驱动的设计到代码工具、可视化编辑器和企业 CMS 的可视化开发平台。
-      logo: favicon5.png
-    - title: Dokploy
-      url: https://dokploy.com/zh-Hans
-      description: 使用 Dokplio 简化您的部署流程。使用 Docker 和 Traefik 轻松管理任何 VPS 上的应用程序和数据库，以提高性能和安全性。
-      logo: favicon5.png
-    - title: 帽子云
-      url: https://www.maoziyun.com/
-      description: 帽子云是一款集成化的静态网站部署平台，作为 Github Pages / Cloudflare Pages 的替代方案
-      logo: favicon5.png
-    - title: Tips.io
-      url: https://tips.io/
-      description: 一个适合Tailwind和AI爱好者的网站建设者。构建简单的 Tailwind 网站，超级简单的干净 HTML。
-      logo: favicon5.png
-    - title: OneClick
-      url: https://oneclick.sh/zh-cn
-      description: 在几秒钟内部署您的下一个全栈应用，全球访问无阻。基于 Cloudflare 领先的云托管技术，始终保持技术领先优势。
-      logo: favicon5.png
-    - title: Fleek
-      url: https://fleek.xyz/
-      description: 在 Fleek 的平台上创建、部署和管理您的 Web 应用程序
-      logo: favicon5.png
-    - title: Coolify
-      url: https://fleek.xyz/
-      description: 一个开源且可自我托管的Heroku / Netlify / Vercel替代品
-      logo: favicon5.png
-    - title: jsrepo
-      url: https://jsrepo.dev/
-      description: 编写代码，将其构建到注册表中，然后通过 CLI 分发
-      logo: favicon5.png
-    - title: Leapcell
-      url: https://leapcell.io/
-      description: 轻松构建、部署和扩展您的应用程序。体验无服务器 Web 托管、无服务器 Redis、异步任务和强大的可观察性 - 所有这些都在一个无缝平台中。
-      logo: favicon5.png
-    - title: Bati
-      url: https://batijs.dev/
-      description: 下一代脚手架。开始使用功能齐全的应用程序，并选择您想要的任何工具。
-      logo: favicon5.png
-    - title: EdgeOne Pages
-      url: https://edgeone.ai/zh/products/pages
-      description: EdgeOne Pages使您能够快速创建和启动精美的网站，利用边缘技术实现最佳性能。
-      logo: favicon5.png
-    - title: Supawald
-      url: https://supawald.com/
-      description: Supawald 是一个文件管理系统，它将 Supabase Storage 转换成一个功能齐全的内容管理系统。它专为需要以简单方式管理
-        Next.js 应用程序、博客或使用 Supabase Storage 的任何项目的开发者设计
+    - title: AutoGen
+      url: https://microsoft.github.io/autogen/
+      description: Enabling Next-Gen LLM Applications via Multi-Agent Conversation
+        Framework
+      logo: favicon5.png
+    - title: Botpress
+      url: https://botpress.com/
+      description: 使用 Botpress 构建强大的 AI 代理。由最新的 LLM 提供支持的直观构建体验。免费开始使用。
+      logo: favicon5.png
+    - title: BulkGPT
+      url: https://www.bulkgpt.ai/
+      description: DIY 无代码批量 AI 工作流创建工具，结合互联网的力量，以极快的速度批量处理 ChatGPT 请求。
+      logo: favicon5.png
+    - title: Nekton
+      url: https://nekton.ai/
+      description: Automate your day-to-day tasks with AI
+      logo: favicon5.png
+    - title: Craftgen
+      url: https://craftgen.ai/
+      description: 敏捷工程师的终极游乐场。制定多模型 AI 工作流程，并在自动驾驶仪上设置您的内容生成。
+      logo: favicon5.png
+    - title: 向量脉络
+      url: https://vectorvein.ai/zh
+      description: 向量脉络是 AI 工作流驱动的智能体平台，让您的工作更加轻松，更加高效。
+      logo: favicon5.png
+    - title: Steel
+      url: https://steel.dev/
+      description: Steel 是专为 AI 代理构建的开源浏览器 API。
+      logo: favicon5.png
+    - title: Tiledesk
+      url: https://tiledesk.com/
+      description: 使用跨渠道的 AI 代理自动化工作流程、运营和客户服务。提高效率。免费开始。
+      logo: favicon5.png
+    - title: Langflow | Low-code AI builder for agentic and RAG applications
+      url: https://www.langflow.org/
+      description: Langflow 是一款面向开发人员的低代码工具，可以更轻松地构建可以使用任何 API、模型或数据库的强大 AI 代理和工作流
+      logo: favicon5.png
+    - title: OOMOL
+      url: https://oomol.com/zh-CN/
+      description: Oomol Studio 通过直观的视觉交互轻松连接代码片段和 API 服务，帮助用户缩短从想法到产品的距离
+      logo: favicon5.png
+    - title: AI Native 创作引擎 · Refly
+      url: https://refly.ai/
+      description: Refly是一个自由形式的画布创作平台，该平台由多线程对话、知识整合、上下文记忆、智能搜索和所见即所得的人工智能编辑器共同驱动，可以将想法轻松转化为优质内容。
+      logo: favicon5.png
+    - title: Manus
+      url: https://manus.im/
+      description: Manus 是一个通用人工智能代理，能够将你的想法转化为行动。它在工作和生活中的各种任务中表现出色，在你休息时完成所有事情。
+      logo: favicon5.png
+    - title: Manus AI
+      url: https://www.manusai.info/
+      description: Manus AI Agent 通过独立思考和系统规划解决复杂任务。体验 AI 辅助的未来。
+      logo: favicon5.png
+    - title: Automated AI Voice Agent Testing
+      url: https://www.nbulatest.ai/
+      description: 通过即时测试、实时监控和性能分析，转变您的AI语音代理。在几天内满怀信心地启动值得信赖的对话式 AI。
+      logo: favicon5.png
+    - title: Free QWQ - 免费分布式 AI 算力平台
+      url: https://qwq.aigpu.cn/
+      description: 基于分布式家用电脑的 3090、3080、4090 显卡算力，提供完全免费、无限制的 AI 服务。支持免费使用 QwQ 32B
+        大语言模型。
+      logo: favicon5.png
+    - title: APIPark
+      url: https://apipark.com/zh/home-zh-cn
+      description: APIPark 是一款开源免费的一站式 AI 网关与 API 开放平台，致力于助力企业更加轻松地管理、整合并部署 AI 服务以及
+        API 的开放共享，让企业高效安全畅享 AI 时代！
+      logo: favicon5.png
+    - title: FlowAI
+      url: https://flowai.cc/
+      description: FlowAI 是一个强大的AI工作流构建平台，无需编程经验即可创建自动化工作流。支持多种大语言模型，提供直观的界面和丰富的功能，帮助您轻松实现工作流程自动化。
+      logo: favicon5.png
+    - title: TractoAI
+      url: https://tracto.ai/
+      description: 面向 AI 研究人员和工程师的无服务器云，可将原始数据转换为AI数据集，训练并运行大规模推理
+      logo: favicon5.png
+    - title: Refly
+      url: https://refly.ai/
+      description: Refly 是一个由多线程对话、知识整合、上下文记忆、智能搜索和所见即所得 AI 编辑器驱动的自由式画布创作平台，可以轻松地将想法转化为优质内容。
+      logo: favicon5.png
+    - title: Manus AI：通用 AI 代理 --- Manus AI：General AI Agent
+      url: https://manus.so/
+      description: Manus 是一个通用的 AI 代理，可将您的想法转化为行动。它擅长工作和生活中的各种任务，在休息时完成所有事情。
+      logo: favicon5.png
+    - title: CocoIndex
+      url: https://cocoindex.io/
+      description: 可理解、可扩展、可维护的云原生基础设施，用于为语义搜索/RAG 准备数据，具有世系和可观察性。
       logo: favicon5.png
   - term: 原型设计
     links:
@@ -5002,8 +4004,984 @@
       url: https://edgeone.ai/
       description: 腾讯 EdgeOne 是亚洲领先的 CDN，它使用腾讯的高级边缘节点为加速、安全、无服务器和视频提供卓越的边缘解决方案。
       logo: favicon5.png
-- taxonomy: 网站构建
-  icon: bi bi-lightbulb
+
+- taxonomy: 代码托管
+  icon: bi bi-code-square
+  list:
+    - term: 代码托管
+      links:
+        - title: ◈GitHub
+          logo: github.png
+          favicon:
+          url: https://github.com
+          description: 全球最大的代码托管平台
+        - title: ◈GitCode
+          logo: gitcode.png
+          favicon:
+          url: https://gitcode.com
+          description: （国内）代码托管平台
+        - title: ◈Framagit
+          logo: framagit.svg
+          favicon: https://framagit.org/uploads/-/system/appearance/header_logo/1/logo.svg
+          url: https://framagit.org
+          description: 基于 GitLab，代码托管平台，支持 Pages。
+        - title: ◈Codeberg
+          logo: codeberg.png
+          favicon:
+          url: https://codeberg.org
+          description: 基于 Gitea，代码托管平台，支持 Pages。
+        - title: 阿里云效 Codeup
+          logo: codeup.svg
+          favicon:
+          url: https://codeup.aliyun.com
+          description: （国内）阿里云效代码托管平台，支持 DevOPS。
+        - title: Gitee
+          logo: gitee.png
+          favicon:
+          url: https://gitee.com
+          description: （国内）代码托管平台
+        - title: GitLab
+          logo: gitlab.png
+          favicon:
+          url: https://gitlab.com
+          description: （可自建）代码托管平台
+        - title: Coding
+          logo: coding.png
+          favicon:
+          url: https://coding.net
+          description: （国内）代码托管平台
+        - title: AtomGit
+          logo: atomgit.png
+          favicon:
+          url: https://atomgit.com
+          description: （国内）开放原子开源基金会提供的代码托管平台
+        - title: 
+          logo:
+          favicon:
+          url: https://forum.idev.top/d/208
+          description: ⇒更多代码托管服务平台
+    - term: 网站部署      
+      links:
+      - title: vercel
+        url: https://vercel.com
+        description: vercel
+        logo: favicon5.png
+      - title: Netlify
+        url: https://app.netlify.com
+        description: Netlify
+        logo: favicon5.png
+      - title: Gatsbyjs
+        url: https://www.gatsbyjs.com
+        description: Gatsbyjs
+        logo: favicon5.png
+      - title: Github
+        url: https://github.com
+        description: github
+        logo: favicon5.png
+      - title: Railway
+        url: https://railway.app
+        description: railway
+        logo: favicon5.png
+      - title: cloudflare
+        url: https://dash.cloudflare.com
+        description: cloudflare
+        logo: favicon5.png
+      - title: Gitpod
+        url: https://gitpod.io
+        description: gitpod
+        logo: favicon5.png
+      - title: Electron
+        url: https://www.electronjs.org
+        description: electron
+        logo: favicon5.png
+      - title: Codesandbox
+        url: https://codesandbox.io
+        description: 沙盒
+        logo: favicon5.png
+      - title: Dcloud
+        url: https://dcloud.io
+        description: 程序开发
+        logo: favicon5.png
+      - title: supabase
+        url: https://supabase.com
+        description: 使用Postgres数据库，身份验证，即时API，实时订阅和存储开始您的项目
+        logo: favicon5.png
+      - title: Replit
+        url: https://replit.com
+        description: replit
+        logo: favicon5.png
+      - title: Render
+        url: https://dashboard.render.com
+        description: Render
+        logo: favicon5.png
+      - title: stackblitz
+        url: https://stackblitz.com
+        description: stackblitz
+        logo: favicon5.png
+      - title: codepen
+        url: https://codepen.io/
+        description: 在线代码编辑，案例社区交流
+        logo: favicon5.png
+      - title: 4everland
+        url: https://www.4everland.org/
+        description: web3的云计算平台
+        logo: favicon5.png
+      - title: gitcode
+        url: https://gitcode.net/
+        description: 国内代码仓库平台
+        logo: favicon5.png
+      - title: Peasy
+        url: https://p-easy.net/
+        description: 可视化静态网址在线制作
+        logo: favicon5.png
+      - title: Team code
+        url: https://www.teamcode.com
+        description: 云端协作开发平台
+        logo: favicon5.png
+      - title: Deno Deploy
+        url: https://deno.com
+        description: Deno Deploy 是一个分布式系统，允许你运行 JavaScript， TypeScript 和 WebAssembly，其边缘化与 V8 运行时集成
+        logo: favicon5.png
+      - title: zeabur
+        url: https://dash.zeabur.com
+        description: 无论用什么语音都可以支持你部署服务的平台
+        logo: favicon5.png
+      - title: Zion无代码
+        url: https://www.functorz.com/?channel=noise
+        description: Zion无代码开发工具，无需一行代码，实现小程序/Web开发，从设计到上线完全自动化，赋予你全流程开发能力！
+        logo: favicon5.png
+      - title: Static.app
+        url: https://static.app/
+        description: 静态网站托管 -All-in-one solution to host static websites online. Free,fast, and simple static website hosting. Publish your static webpage with just one click.
+        logo: favicon5.png
+      - title: Undb | 开源自托管无代码数据库
+        url: https://undb.io/
+        description: 开源Airtable替代品和后端即服务
+        logo: favicon5.png
+      - title: Create a Website for Free. Tilda Website Builder
+        url: https://tilda.cc/
+        description: 使用 Tilda 直观的网站构建器创建网站、在线商店、登录页面。从数百个预先设计的模板构建您的网站并立即发布。无需代码。
+        logo: favicon5.png
+      - title: Kamal
+        url: https://kamal-deploy.org/
+        description: Kamal — 在任何位置部署 Web 应用程序
+        logo: favicon5.png
+      - title: UptimeBeats
+        url: https://uptimebeats.com/
+        description: 实时监控以获得最佳性能，确保 24/7 全天候正常运行时间，提升用户体验，并最大限度地提高您的在线形象
+        logo: favicon5.png
+      - title: Hatchet
+        url: https://hatchet.run/
+        description: Hatchet 是一个分布式、容错任务队列，它取代了传统的消息代理和发布/订阅系统，旨在解决并发性、公平性和持久性等问题
+        logo: favicon5.png
+      - title: SST
+        url: https://sst.dev/
+        description: 一个框架，可让您轻松地在自己的基础设施上构建现代全栈应用程序。
+        logo: favicon5.png
+      - title: JS.ORG - JavaScript 组织
+        url: https://js.org
+        description: GitHub 页面获取您自己的免费 JS.ORG 子域
+        logo: favicon5.png
+      - title: Builder.io： 可视化开发平台
+        url: https://www.builder.io/
+        description: Builder 是唯一提供 AI 驱动的设计到代码工具、可视化编辑器和企业 CMS 的可视化开发平台。
+        logo: favicon5.png
+      - title: Dokploy
+        url: https://dokploy.com/zh-Hans
+        description: 使用 Dokplio 简化您的部署流程。使用 Docker 和 Traefik 轻松管理任何 VPS 上的应用程序和数据库，以提高性能和安全性。
+        logo: favicon5.png
+      - title: 帽子云
+        url: https://www.maoziyun.com/
+        description: 帽子云是一款集成化的静态网站部署平台，作为 Github Pages / Cloudflare Pages 的替代方案
+        logo: favicon5.png
+      - title: Tips.io
+        url: https://tips.io/
+        description: 一个适合Tailwind和AI爱好者的网站建设者。构建简单的 Tailwind 网站，超级简单的干净 HTML。
+        logo: favicon5.png
+      - title: OneClick
+        url: https://oneclick.sh/zh-cn
+        description: 在几秒钟内部署您的下一个全栈应用，全球访问无阻。基于 Cloudflare 领先的云托管技术，始终保持技术领先优势。
+        logo: favicon5.png
+      - title: Fleek
+        url: https://fleek.xyz/
+        description: 在 Fleek 的平台上创建、部署和管理您的 Web 应用程序
+        logo: favicon5.png
+      - title: Coolify
+        url: https://fleek.xyz/
+        description: 一个开源且可自我托管的Heroku / Netlify / Vercel替代品
+        logo: favicon5.png
+      - title: jsrepo
+        url: https://jsrepo.dev/
+        description: 编写代码，将其构建到注册表中，然后通过 CLI 分发
+        logo: favicon5.png
+      - title: Leapcell
+        url: https://leapcell.io/
+        description: 轻松构建、部署和扩展您的应用程序。体验无服务器 Web 托管、无服务器 Redis、异步任务和强大的可观察性 - 所有这些都在一个无缝平台中。
+        logo: favicon5.png
+      - title: Bati
+        url: https://batijs.dev/
+        description: 下一代脚手架。开始使用功能齐全的应用程序，并选择您想要的任何工具。
+        logo: favicon5.png
+      - title: EdgeOne Pages
+        url: https://edgeone.ai/zh/products/pages
+        description: EdgeOne Pages使您能够快速创建和启动精美的网站，利用边缘技术实现最佳性能。
+        logo: favicon5.png
+      - title: Supawald
+        url: https://supawald.com/
+        description: Supawald 是一个文件管理系统，它将 Supabase Storage 转换成一个功能齐全的内容管理系统。它专为需要以简单方式管理
+          Next.js 应用程序、博客或使用 Supabase Storage 的任何项目的开发者设计
+        logo: favicon5.png
+    - term: IDE与编辑器
+      links:
+        - title: VSCode
+          logo: vscode.png
+          favicon:
+          url: https://code.visualstudio.com/
+          description: 微软开发的免费、开源的代码编辑器
+        - title: JetBrains iDEA
+          logo: idea.png
+          favicon:
+          url: https://www.jetbrains.com/idea/
+          description: JetBrains 开发的免费、开源的代码编辑器
+        - title: Zed
+          logo: zed.png
+          favicon:
+          url: https://zed.dev/
+          description: 下一代高性能代码编辑器
+        - title: Neovim
+          logo: neovim.png
+          favicon:
+          url: https://neovim.io/
+          description: 一个高速、功能强大的文本编辑器
+        - title: Sublime Text
+          logo: sublimetext.png
+          favicon:
+          url: https://www.sublimetext.com/
+          description: 一个功能强大的代码编辑器
+    - term: 在线开发
+      links:
+        - title: Cloud Shell
+          logo: cloudshell.png
+          favicon: https://www.gstatic.com/cloudssh/images/favicon-192-5bf59255b7c44caaae3120868153fed9.png
+          url: https://shell.cloud.google.com/
+          description: Google Cloud Shell 云端开发环境
+        - title: GitHub Dev
+          logo: github.png
+          favicon:
+          url: https://github.dev/
+          description: GitHub 云端开发者平台
+    - term: 服务部署
+      links:
+        - title: Firebase
+          logo: firebase.png
+          favicon:
+          url: https://firebase.google.com/
+          description: 静态网站托管服务平台
+        - title: ImageKit
+          logo: imagekit.png
+          favicon:
+          url: https://imagekit.io/
+          description: 图片和媒体托管服务平台
+    - term: 在线编辑
+      links:
+        - title: CodeSandBox
+          logo: codesandbox.png
+          favicon:
+          url: https://codesandbox.io/
+          description: 快速Web开发的在线编辑器
+        - title: StackBlitz
+          logo: stackblitz.png
+          favicon:
+          url: https://stackblitz.com/
+          description: Web开发者的在线IDE
+        - title: CodePen
+          logo: codepen.png
+          favicon:
+          url: https://codepen.io/
+          description: 面向前端设计师和开发人员的在线开发环境
+        - title: JSFiddle
+          logo: jsfiddle.png
+          favicon:
+          url: https://jsfiddle.net/
+          description: 前端代码在线编辑器
+- taxonomy: 编程社区
+  icon: bi bi-keyboard-fill
+  list:
+  - term: 编程开发社区
+    links:
+    - title: 精易社区
+      url: https://bbs.125.la
+      description: 易语言资源论坛
+      logo: favicon5.png
+    - title: Ruby China
+      url: https://ruby-china.org
+      description: 专业开发者码农社区
+      logo: favicon5.png
+    - title: 真全栈程序员
+      url: https://www.fstcode.com
+      description: IT技术交流论坛
+      logo: favicon5.png
+    - title: 程序员源码论坛
+      url: http://www.cx1314.cn
+      description: IT技术交流论坛
+      logo: favicon5.png
+    - title: 不错吧源码论坛
+      url: http://bbs.bcb5.com
+      description: 源码论坛
+      logo: favicon5.png
+    - title: Emacs China
+      url: https://emacs-china.org
+      description: 开发者技术类论坛
+      logo: favicon5.png
+    - title: 恩山无线论坛
+      url: https://www.right.com.cn
+      description: 软路由
+      logo: favicon5.png
+    - title: AIQ
+      url: https://www.6aiq.com
+      description: 人工智能技术社区
+      logo: favicon5.png
+    - title: 一牛网论坛
+      url: https://bbs.16rd.com
+      description: 综合技术芯片类论坛
+      logo: favicon5.png
+    - title: 摸鱼派
+      url: https://fishpi.cn
+      description: 一个属于程序员的摸鱼社区
+      logo: favicon5.png
+    - title: 先知社区
+      url: https://xz.aliyun.com
+      description: 网络安全类论坛
+      logo: favicon5.png
+    - title: 工控论坛
+      url: http://bbs.gkong.com
+      description: 工控技术自动化
+      logo: favicon5.png
+    - title: 独立开发者社区
+      url: https://w2solo.com
+      description: 独立开发者社区
+      logo: favicon5.png
+    - title: 安全论坛
+      url: http://bbs.anquan.com.cn
+      description: 安全文化交流
+      logo: favicon5.png
+    - title: KubeSphere 开源社区
+      url: https://kubesphere.com.cn/forum
+      description: 专业开发者码农社区
+      logo: favicon5.png
+    - title: 微软极客社区
+      url: https://bbs.pcbeta.com
+      description: 综合类系统OS技术社区
+      logo: favicon5.png
+    - title: Reddit
+      url: https://www.reddit.com
+      description: 全球技术交流论坛
+      logo: favicon5.png
+    - title: 世界中文黑客论坛
+      url: https://www.cnhackteam.org
+      description: 黑客攻防
+      logo: favicon5.png
+    - title: DMZ社区
+      url: http://www.dmzshequ.com
+      description: it类资源论坛
+      logo: favicon5.png
+    - title: faga论坛
+      url: http://www.fpgaw.com
+      description: faga技术、人工智能
+      logo: favicon5.png
+    - title: chinaunix
+      url: http://bbs.chinaunix.net
+      description: 编程技术为主，有一定年份了
+      logo: favicon5.png
+    - title: geekhub
+      url: https://geekhub.com
+      description: 极客玩家社区
+      logo: favicon5.png
+    - title: 苹果团
+      url: https://appletuan.com/
+      description: 苹果团 | 购买苹果产品的完美之地
+      logo: favicon5.png
+    - title: 4414论坛
+      url: https://www.4414.cn
+      description: 站长交流社区
+      logo: favicon5.png
+    - title: CSDN
+      url: https://www.csdn.net
+      description: 专业开发者社区
+      logo: favicon5.png
+    - title: 吾爱程序猿
+      url: https://www.52programer.com
+      description: IT技术交流论坛
+      logo: favicon5.png
+    - title: 落伍者交流社区
+      url: https://www.im286.net
+      description: 站长交流社区
+      logo: favicon5.png
+    - title: DEV
+      url: https://dev.to
+      description: DEV社区是一个由861，701名优秀开发人员组成的社区
+      logo: favicon5.png
+    - title: 1024只猴子
+      url: https://1024.com
+      description: 专业开发者码农社区
+      logo: favicon5.png
+    - title: 站长门户圈
+      url: https://bbs.downzz.com
+      description: 站长交流社区
+      logo: favicon5.png
+    - title: 全球主机交流
+      url: https://hostloc.com
+      description: 服务器等综合类
+      logo: favicon5.png
+    - title: 野火论坛
+      url: https://firebbs.cn
+      description: STM32开发资料
+      logo: favicon5.png
+    - title: V2EX
+      url: https://www.v2ex.com
+      description: 专业开发者社区
+      logo: favicon5.png
+    - title: 开源中国
+      url: https://www.oschina.net
+      description: 专业开发者码农社区
+      logo: favicon5.png
+    - title: 电鸭社区
+      url: https://eleduck.com
+      description: 远程工作者的家园
+      logo: favicon5.png
+    - title: ITPUB论坛
+      url: http://www.itpub.net/forum-44-1.html
+      description: IT技术交流论坛
+      logo: favicon5.png
+    - title: ITgood论坛
+      url: http://www.itgood.vip
+      description: IT技术交流论坛
+      logo: favicon5.png
+    - title: 黑客派
+      url: https://ld246.com
+      description: 从小众走向大众的技术社区
+      logo: favicon5.png
+    - title: CocoaChina
+      url: https://emacs-china.org
+      description: 开发者技术类论坛
+      logo: favicon5.png
+    - title: 独立黑客社区
+      url: https://www.indiehackers.com/
+      description: 开发者技术类社区
+      logo: favicon5.png
+    - title: wvbCommunity
+      url: https://community.wvbtech.com/
+      description: 编程类技术社区
+      logo: favicon5.png
+    - title: 程序员论坛
+      url: https://learnku.com
+      description: 编程论坛
+      logo: favicon5.png
+    - title: 智源社区
+      url: https://hub.baai.ac.cn
+      description: ai智能社区
+      logo: favicon5.png
+    - title: Rebase
+      url: https://rebase.network
+      description: Rebase 是由中国的 Web3.0 开发者们在业余时间凭热爱建立的开发者社区。 Rebase 是一个极客组织，致力于帮助极客更好地利用科技创新，推动社会变革
+      logo: favicon5.png
+    - title: 创乐坊
+      url: https://creator.indieclub.net
+      description: flarum社区
+      logo: favicon5.png
+    - title: flarumtr
+      url: https://flarumtr.com
+      description: flarumtr
+      logo: favicon5.png
+    - title: segmentFault思否
+      url: https://segmentfault.com
+      description: 综合类交流论坛
+      logo: favicon5.png
+    - title: NOTEWEB
+      url: https://www.noteweb.top
+      description: xiuno IT交流论坛
+      logo: favicon5.png
+    - title: 搬砖技术社区
+      url: https://0xffff.one
+      description: 搬砖技术社区
+      logo: favicon5.png
+    - title: 大牛论坛
+      url: https://www.daniu520.com
+      description: 综合类技术论坛
+      logo: favicon5.png
+    - title: 小木虫
+      url: http://muchong.com/bbs
+      description: 综合类交流论坛
+      logo: favicon5.png
+    - title: xiuno开源程序交流论坛
+      url: https://xiunobbs.cn
+      description: xiuno开源程序交流论坛
+      logo: favicon5.png
+    - title: FLY社区
+      url: http://www.0xy.cn
+      description: ''
+      logo: favicon5.png
+    - title: 看雪论坛
+      url: https://www.kanxue.com
+      description: 技术交流论坛
+      logo: favicon5.png
+    - title: 瑞客论坛
+      url: https://www.ruike1.com
+      description: 综合类技术论坛
+      logo: favicon5.png
+    - title: 虫部落
+      url: https://www.chongbuluo.com
+      description: 综合类收录社区
+      logo: favicon5.png
+    - title: 吾爱破解论坛
+      url: https://www.52pojie.cn
+      description: 老牌的站点,很强
+      logo: favicon5.png
+    - title: 搜索客，搜索人自己的社区
+      url: https://elasticsearch.cn/
+      description: 搜索客，搜索人自己的社区，国内最大的围绕搜索相关技术的垂直社区。
+      logo: favicon5.png
+    - title: PKMer_PKMer
+      url: https://pkmer.cn/#home
+      description: pkmer.cn——Pkmer，打造东半球强大的知识管理社区！提供包括Obsidian，Zotero在内的知识管理工具、技巧和经验分享，文档完全开源免费，助您创造更高效、更智慧的知识管理体系。
+      logo: favicon5.png
+  - term: 手机软件社区
+    links:
+    - title: 猪猪猫论坛
+      url: http://www.jujumaow.com/
+      description: 系统软件下载论坛
+      logo: favicon5.png
+    - title: 单片机论坛
+      url: http://www.mcuzx.net
+      description: 单片机学习交流
+      logo: favicon5.png
+    - title: abbs论坛
+      url: http://www.abbs.com.cn/bbs
+      description: 建筑师社区
+      logo: favicon5.png
+    - title: 木蚂蚁论坛
+      url: http://bbs.mumayi.com
+      description: 手机玩家、安卓软件
+      logo: favicon5.png
+    - title: 爱好论坛
+      url: https://www.aihao.cc
+      description: WIN系统密匙不断更
+      logo: favicon5.png
+    - title: XDA论坛
+      url: https://forum.xda-developers.com
+      description: 国外手机系统软论坛
+      logo: favicon5.png
+    - title: 闪电联盟
+      url: http://bbs.sdbeta.com
+      description: 破解软件类论坛
+      logo: favicon5.png
+    - title: DEEPIN论坛
+      url: https://bbs.deepin.org
+      description: 深度官方社区
+      logo: favicon5.png
+    - title: 家电论坛
+      url: http://bbs.cheaa.com
+      description: 包括电视机等各种数码
+      logo: favicon5.png
+    - title: chiphell
+      url: https://www.chiphell.com/forum.php
+      description: 电脑类分享社区
+      logo: favicon5.png
+    - title: 八神智能天下
+      url: http://zntx.cc
+      description: 一个破解软件（游戏）的社区，注册不需要邀请码
+      logo: favicon5.png
+    - title: excelhome
+      url: https://club.excelhome.net
+      description: 专业的Excel学习论坛
+      logo: favicon5.png
+    - title: 流星社区
+      url: http://bbs.liuxingw.com
+      description: 安卓类综合门户
+      logo: favicon5.png
+    - title: 萝卜头论坛
+      url: https://bbs.luobotou.org
+      description: 软件IT论坛
+      logo: favicon5.png
+    - title: 51testing论坛
+      url: http://bbs.51testing.com/forum.php
+      description: 专业软件测试论坛
+      logo: favicon5.png
+    - title: 苹果站长论坛
+      url: https://www.bbspg.com
+      description: 苹果CMS站长论坛
+      logo: favicon5.png
+    - title: 21IC技术开发论坛
+      url: https://bbs.21ic.com
+      description: 推荐板块：技术资源专区
+      logo: favicon5.png
+    - title: 油猴中文网
+      url: https://bbs.tampermonkey.net.cn
+      description: 油猴脚本
+      logo: favicon5.png
+    - title: 电子发烧友论坛
+      url: https://bbs.elecfans.com
+      description: HarmonyOS技术社区
+      logo: favicon5.png
+    - title: 卡饭论坛
+      url: https://bbs.kafan.cn
+      description: 杀毒软件
+      logo: favicon5.png
+    - title: hassbian
+      url: https://bbs.hassbian.com
+      description: 智能家居技术论坛
+      logo: favicon5.png
+    - title: GPS之家
+      url: http://bbs.gpsuu.com
+      description: 导航GPS交流
+      logo: favicon5.png
+    - title: ubuntu论坛
+      url: https://forum.ubuntu.org.cn
+      description: ubuntu系统的一切
+      logo: favicon5.png
+    - title: 智能电视论坛
+      url: https://www.znds.com
+      description: 智能电视
+      logo: favicon5.png
+    - title: 万维论坛
+      url: https://www.rom100.com
+      description: 手机刷机固件大全
+      logo: favicon5.png
+    - title: ZOL论坛
+      url: https://bbs.zol.com.cn
+      description: 中关村在线论坛
+      logo: favicon5.png
+    - title: 外网论坛
+      url: https://www.tvsbook.com/forums/android-tv-app.3
+      description: Android电视应用程序
+      logo: favicon5.png
+    - title: 无线论坛
+      url: https://www.anywlan.com
+      description: 专业wlan无线网络论坛
+      logo: favicon5.png
+  - term: 网盘资源合集
+    links:
+    - title: BT种子论坛
+      url: https://pt.btschool.club/torrents.php
+      description: BT种子资源
+      logo: favicon5.png
+    - title: 姿势论坛
+      url: https://bbs.zsxwz.com
+      description: 姿势论坛
+      logo: favicon5.png
+    - title: 天翼小站
+      url: https://jinglei.eu.org
+      description: 天翼及阿里云盘资源
+      logo: favicon5.png
+    - title: 雷鲸小站
+      url: https://www.leijing.xyz
+      description: 云盘资源站
+      logo: favicon5.png
+    - title: 112网盘社区
+      url: http://www.112pan.com
+      description: 网盘综合类类资源论坛
+      logo: favicon5.png
+    - title: 云盘资源分享论坛
+      url: https://drivebbs.com
+      description: 云盘资源分享交流
+      logo: favicon5.png
+    - title: 百度网盘论坛
+      url: http://www.baoshu8.com
+      description: 百度类资源社区
+      logo: favicon5.png
+    - title: VIP分享网论坛
+      url: https://bbs.vipfenxiang.com
+      description: VIP分享账号论坛
+      logo: favicon5.png
+    - title: 我的小站
+      url: https://pan666.net
+      description: 以阿里云盘资源为主的论坛
+      logo: favicon5.png
+    - title: 网盘分享吧
+      url: https://www.wpfx8.com
+      description: 网盘资源论坛
+      logo: favicon5.png
+    - title: 好家当
+      url: https://www.hjdang.com
+      description: 好家当是一个网友分享阿里云盘，夸克网盘资源的社区。网友发帖十分活跃，资源很新
+      logo: favicon5.png
+  - term: 影视资源合集
+    links:
+    - title: 百度云电影论坛
+      url: http://www.chchzh.com
+      description: 百度盘影视类资源论坛
+      logo: favicon5.png
+    - title: 资源号
+      url: http://www.ziyuanhao.com/index.php
+      description: 影视资源为主
+      logo: favicon5.png
+    - title: hd高清乐园
+      url: https://www.hdsay.net
+      description: 影视资源论坛
+      logo: favicon5.png
+    - title: HIFI音乐论坛
+      url: https://sacdr.net/forum.php
+      description: HIFI音乐交流论坛
+      logo: favicon5.png
+    - title: 西西论坛
+      url: https://www.zhanxixi.com
+      description: 百度盘影视类资源论坛
+      logo: favicon5.png
+    - title: 飘雪动漫社
+      url: https://www.deainx.me
+      description: 动漫资源论坛
+      logo: favicon5.png
+    - title: hktvwind
+      url: http://www.hktvwind.com
+      description: 影视资源论坛
+      logo: favicon5.png
+    - title: 百度盘影视类资源论坛
+      url: https://8yunpan.com
+      description: 百度盘影视类资源论坛
+      logo: favicon5.png
+    - title: 牛皮兔
+      url: http://www.niupitu.com
+      description: 影视资源论坛
+      logo: favicon5.png
+    - title: HiFiNi
+      url: https://www.hifini.com
+      description: HiFiNi 是一个由音乐爱好者维护的分享平台, 旨在解决问题互帮互助
+      logo: favicon5.png
+    - title: BT电影天堂
+      url: https://www.ck180.net
+      description: 一个背时鬼的看电影首选小网站
+      logo: favicon5.png
+    - title: 优优MP4
+      url: https://www.uump4.net
+      description: 影视资源论坛
+      logo: favicon5.png
+    - title: 点拨论坛
+      url: https://www.dianbo.org
+      description: 视频、光盘、技术类老牌
+      logo: favicon5.png
+    - title: G2怀旧论坛
+      url: https://www.g2hj.com
+      description: 影视资源论坛
+      logo: favicon5.png
+    - title: 音响DIY
+      url: http://bbs.hifidiy.net
+      description: 功放音响玩家论坛
+      logo: favicon5.png
+    - title: CD包音乐网
+      url: https://www.cdbao.net
+      description: 无损音乐、刻录光盘
+      logo: favicon5.png
+    - title: 三国情论坛
+      url: https://www.975w.com
+      description: 综合影视、游戏资源论坛
+      logo: favicon5.png
+    - title: 音频应用
+      url: https://www.audiobar.cn/
+      description: 音频应用,音频应用论坛,midi,录音,音频,音乐制作,recording,audio,vst,乐器,吉他,话筒,耳机,声卡
+      logo: favicon5.png
+  - term: 摄影交流社区
+    links:
+    - title: 新摄影
+      url: http://forums.nphoto.net
+      description: 摄影技术综合论坛
+      logo: favicon5.png
+    - title: CG分享网
+      url: https://www.cgfxw.com
+      description: CG类资源
+      logo: favicon5.png
+    - title: 三维3D技术论坛
+      url: http://www.narkii.com/club
+      description: 三维3D技术论坛
+      logo: favicon5.png
+    - title: 色影无忌论坛
+      url: https://forum.xitek.com
+      description: 摄影类资源论坛
+      logo: favicon5.png
+    - title: 有氧周末
+      url: http://zhoumovip.cn
+      description: 摄影类资源论坛
+      logo: favicon5.png
+    - title: PS教程论坛
+      url: http://bbs.16xx8.com
+      description: 以PS教程为主
+      logo: favicon5.png
+    - title: 飞天资源论坛
+      url: https://feitianwu7.com/forum.php
+      description: PS论坛
+      logo: favicon5.png
+    - title: 摄设论坛
+      url: https://sszylt.com/forum.php
+      description: 摄影资源论坛
+      logo: favicon5.png
+  - term: 游戏攻略社区
+    links:
+    - title: 久爱论坛
+      url: https://www.jizy8.com
+      description: 游戏辅助类论坛
+      logo: favicon5.png
+    - title: 破走论坛
+      url: https://www.pozou.com
+      description: 游戏辅助类论坛
+      logo: favicon5.png
+    - title: 游民星空论坛
+      url: http://bbs.gamersky.com
+      description: 游民星空PC游戏论坛
+      logo: favicon5.png
+    - title: 玖大猫论坛
+      url: http://www.9damaogame.net
+      description: 原3DM论坛版主因为个别原因再建的游戏论坛网站
+      logo: favicon5.png
+    - title: A9VG
+      url: https://bbs.a9vg.com
+      description: 游戏论坛社区
+      logo: favicon5.png
+    - title: keter
+      url: https://bbs.keter.pub
+      description: 游戏社区
+      logo: favicon5.png
+    - title: 电玩DIY论坛
+      url: http://vgdiy.com/bbs/forum.php
+      description: 电玩DIY论坛
+      logo: favicon5.png
+    - title: Marioforever
+      url: https://www.marioforever.net/
+      description: 马里奥爱好者社区
+      logo: favicon5.png
+    - title: 哈设游戏小论坛
+      url: http://hasheji.cn/forum.php
+      description: 哈设游戏世界社区
+      logo: favicon5.png
+  - term: 知识考证社区
+    links:
+    - title: 幕布精选社区
+      url: https://mubu.com/explore
+      description: 知识分享交流
+      logo: favicon5.png
+    - title: 医学论坛网
+      url: http://www.cmt.com.cn
+      description: 医学类论坛
+      logo: favicon5.png
+    - title: 教育盘论坛
+      url: https://jiaoyupan.com
+      description: 综合类教育考试交流论坛
+      logo: favicon5.png
+    - title: 吾爱知道
+      url: http://www.qkoufu.com
+      description: 问答社区
+      logo: favicon5.png
+    - title: 答疑啦
+      url: https://www.dayila.net
+      description: 考试类资源社区
+      logo: favicon5.png
+    - title: 考研帮论坛区
+      url: http://bbs.kaoyan.com
+      description: 考研为主
+      logo: favicon5.png
+    - title: 医学资料吧
+      url: https://www.yxzlb.com
+      description: 医学类论坛
+      logo: favicon5.png
+    - title: 英语听力论坛
+      url: http://bbs.tingroom.com
+      description: 英语听力论坛
+      logo: favicon5.png
+    - title: FREE考研论坛
+      url: http://bbs.freekaoyan.com/forum.php
+      description: 考研论坛
+      logo: favicon5.png
+    - title: 学法网论坛
+      url: http://bbs.xuefa.com
+      description: 有一些法律相关资料
+      logo: favicon5.png
+    - title: 王道论坛
+      url: http://www.cskaoyan.com
+      description: 计算机、考研、大学
+      logo: favicon5.png
+    - title: 法硕联盟论坛
+      url: http://www.fashuounion.com
+      description: 法律硕士联盟
+      logo: favicon5.png
+    - title: 5imx
+      url: http://bbs.5imx.com
+      description: 遥控模型和无人机玩家
+      logo: favicon5.png
+    - title: 醉里挑原创
+      url: http://www.9000xp.com
+      description: 文学类综合论坛
+      logo: favicon5.png
+    - title: 钢笔论坛
+      url: http://www.penbbs.com
+      description: 书写DIY爱好者
+      logo: favicon5.png
+  - term: 综合交流社区
+    links:
+    - title: 失业者联盟
+      url: http://losergogogo.com
+      description: 职场人和职场故事
+      logo: favicon5.png
+    - title: 收音机论坛
+      url: http://bbs.tecsun.com.cn
+      description: FM交流
+      logo: favicon5.png
+    - title: 豆瓣小组
+      url: https://www.douban.com/group/explore
+      description: 豆瓣官方社区
+      logo: favicon5.png
+    - title: 非人类论坛
+      url: https://loc.cc
+      description: 域名爱好者的论坛
+      logo: favicon5.png
+    - title: 跨国采购网论坛
+      url: http://bbs.globalimporter.net
+      description: 外贸论坛
+      logo: favicon5.png
+    - title: 屌丝论坛
+      url: https://assbbs.com
+      description: 比较杂乱，域名服务器
+      logo: favicon5.png
+    - title: 牛客网讨论区
+      url: https://www.nowcoder.com/discuss
+      description: 求职者交流
+      logo: favicon5.png
+    - title: 南+ South Plus
+      url: https://www.spring-plus.net
+      description: 老司机交流
+      logo: favicon5.png
+    - title: 穷游论坛
+      url: https://bbs.qyer.com
+      description: 穷游者的论坛
+      logo: favicon5.png
+    - title: AMZ123
+      url: https://www.amz123.com/forum-8.htm
+      description: 亚马逊跨境交流
+      logo: favicon5.png
+    - title: 摩托吧
+      url: http://bbs.moto8.com
+      description: 摩托骑士交流
+      logo: favicon5.png
+    - title: 虾哥论坛
+      url: https://xiage.yy.com
+      description: YY语音旗下的
+      logo: favicon5.png
+    - title: 北大未名BBS
+      url: https://bbs.pku.edu.cn
+      description: 北京大学校园论坛
+      logo: favicon5.png
+    - title: 人民强国论坛
+      url: http://bbs1.people.com.cn/board/1.html
+      description: 强国论坛
+      logo: favicon5.png
+    - title: 虎扑社区
+      url: https://bbs.hupu.com
+      description: NBA体坛
+      logo: favicon5.png
+    - title: 统计之都论坛
+      url: https://d.cosx.org
+      description: 探讨统计学和数据科学的平台
+      logo: favicon5.png
+
+- taxonomy: 网站模板
+  icon: bi bi-wordpress
   list:
   - term: Wordpress
     links:
@@ -5402,6 +5380,7 @@
       url: https://github.com/leleo886/leleo-home-page
       description: 一个用Vue.js和Vuetify构建的个人主页，可轻松部署在Vercel上
       logo: favicon5.png
+- taxonomy: 网站图标
 - taxonomy: 求职招聘
   icon: bi bi-lightbulb
   list:
@@ -6990,7 +6969,7 @@
       url: https://netbird.io/
       description: NetBird 结合基于 WireGuard®的覆盖网络和零信任网络访问，提供统一的开源平台，实现可靠安全的连接
       logo: favicon5.png
-- taxonomy: 小众社区
+
   icon: bi bi-lightbulb
   list:
   - term: 资源探索
