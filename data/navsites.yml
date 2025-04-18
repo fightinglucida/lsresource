@@ -26,22 +26,6 @@
           favicon:
           url: "https://gitcode.com/jetsung"
           description: （国内）作品项目代码开源          
-        - title: GitHub
-          logo: github.png
-          favicon:
-          url: "https://github.com/jetsung"
-          description: （国外）作品项目代码开源
-        - title: 微信公众号
-          logo: default.webp
-          favicon: https://open.weixin.qq.com/zh_CN/htmledition/res/assets/res-design-download/icon64_appwx_logo.png
-          description: 爱开发微信公众号
-          qrcode: assets/images/default.webp
-        - title: 头条号
-          logo: toutiao.png
-          favicon: 
-          url: https://www.toutiao.com/c/user/token/MS4wLjABAAAATopQ1LkY3v_vbmTLcW504_Asubeqs24gH-IFJp66CDLoFB2ATjEwBZJhdIsgKEPZ/?
-          description: 平平无奇程序员（头条号）
-          qrcode: assets/images/toutiao.png
 
       
 - taxonomy: AI工具
