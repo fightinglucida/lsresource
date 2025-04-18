@@ -5381,8 +5381,299 @@
       description: 一个用Vue.js和Vuetify构建的个人主页，可轻松部署在Vercel上
       logo: favicon5.png
 - taxonomy: 网站图标
+  icon: bi bi-emoji-sunglasses
+  list:
+  - term: 网站图标
+    links:
+    - title: Emoji Favicon
+      url: https://favicon.magnobiet.com
+      description: 使用Emoji图标代替网站默认icon
+      logo: favicon5.png
+    - title: Favicons生成器
+      url: https://my.faviconkit.com
+      description: 可靠的API从任何网站获取并嵌入Favicons
+      logo: favicon5.png
+    - title: 六种方式获取网站图标
+      url: https://mp.weixin.qq.com/s/8fqpoLDfy4HCRlOaiEkLCA
+      description: 建站必备技能【六种获取网站图标或嵌入在自己网站上的方法】
+      logo: favicon5.png
+    - title: LOGO生成器
+      url: https://creecros.github.io/simple_logo_gen
+      description: 非常简单的logo图标制作工具，开源：https://github.com/creecros/simple_logo_gen
+      logo: favicon5.png
+    - title: 像素画分享站
+      url: https://hello.eboy.com
+      description: 像素画分享站
+      logo: favicon5.png
+    - title: 匿名墙
+      url: https://www.nm1.cn
+      description: 树洞小秘密，聆听你的心声！
+      logo: favicon5.png
+    - title: YouTube镜像
+      url: https://redirect.invidious.io
+      description: YouTube镜像
+      logo: favicon5.png
+    - title: nitter实例-监测
+      url: https://github.com/zedeus/nitter/wiki/Instances
+      description: nitter实例-Twitter镜像
+      logo: favicon5.png
+    - title: Zhelper-V3网址列表
+      url: https://www.ooopn.com/tool/zlibrary
+      description: 电子书库Zhelper可用网址列表
+      logo: favicon5.png
+    - title: uiset
+      url: https://uiset.com
+      description: 一个收录收集插图、图标、表情、图案等资源的网站
+      logo: favicon5.png
+    - title: Google谷歌搜索镜像
+      url: https://www.ooopn.com/tool/gglink/
+      description: Google谷歌搜索镜像
+      logo: favicon5.png
+    - title: pixilart
+      url: https://www.pixilart.com
+      description: 像素画创造和分享
+      logo: favicon5.png
+    - title: 全历史
+      url: https://www.allhistory.com
+      description: get历史知识
+      logo: favicon5.png
+    - title: 克苏鲁公社
+      url: https://www.cthulhuclub.com
+      description: 整理收录关于克苏鲁
+      logo: favicon5.png
+    - title: 100font
+      url: https://www.100font.com/
+      description: 100font.com创建于2019年，是一个主要靠爱发电的免费商用字体收集整理网站，致力于让所有人都有免费商用字体使用、让所有人都能正确使用免费商用字体、让所有优秀的公益字体都能得到更有价值地传播，坚持做企业、设计师都爱用的免费商用字体下载网站
+      logo: favicon5.png
+    - title: 36氪创投平台
+      url: https://pitchhub.36kr.com/
+      description: 36氪创投平台
+      logo: favicon5.png
+    - title: 有趣网站之家
+      url: https://youquhome.com
+      description: 一个背时鬼的有趣网站
+      logo: favicon5.png
+    - title: iKaomoji
+      url: https://ikaomoji.com
+      description: 这是一个专门的网站，提供具有多种变体的表情符号列表和易于使用的复制功能。 找到可爱、快乐、哭泣、惊喜等贴近您感受的表情符号
+      logo: favicon5.png
+    - title: 聊斋茶舍
+      url: https://www.liaozhaichatroom.com/
+      description: 网站汇集了丰富的志怪故事、修行的道法与法术，以及民间神祇的详细介绍，带您探索古代神秘与智慧。无论您是神话爱好者，还是文化研究者，这里都将为您提供宝贵的知识与灵感
+      logo: favicon5.png
+    - title: PalworldZucht
+      url: https://palworldzucht.de
+      description: 在Palworld Breeding List的帮助下培育最强的伙伴。在这里，您将找到最适合您育种的 Pal 组合。
+      logo: favicon5.png
+    - title: albacub
+      url: https://www.albacub.com
+      description: Discover a vast collection of Free framer templates at Albacub.
+        Find the perfect template for your next project
+      logo: favicon5.png
+    - title: 荔枝ip
+      url: https://www.lycheeip.com/?affId=StN3iILCpi
+      description: 荔枝IP（lycheeip）是一家拥有超3000万全球IP的代理服务商，所有的IP都经过AI+算法的滤洗，专为跨境电商和社媒运营服务。
+      logo: favicon5.png
+    - title: ClaudeFound
+      url: https://www.claudefinds.com
+      description: ClaudeFound 是 Claude AI 爱好者的首要社区。在这里，您可以探索、分享和创建令人惊叹的克劳德文物。从代码片段到交互式网页，从SVG图像到复杂的文档，我们为每一位Claude
+        Artifacts爱好者提供灵感和资源
+      logo: favicon5.png
+    - title: midjourneysref
+      url: https://midjourneysref.com
+      description: 一个专注于收集和分类 MidJourney 中 sref 代码的网站。用户可以通过该网站探索和使用不同的 sref 代码，从而生成风格各异的图像效果。网站旨在帮助用户轻松找到自己喜欢的独特效果
+      logo: favicon5.png
+    - title: 酒店协议代码
+      url: https://corporate-codes.online/zh
+      description: 酒店协议代码是一种关于IHG、希尔顿、万豪、凯悦等酒店品牌的特别折扣代码。这些代码提供给企业，以便以优惠价格预订酒店。公司可以利用这些代码为员工的出差节省旅行费用
+      logo: favicon5.png
+    - title: findsocialmedia
+      url: https://findsocialmediaprofile.com
+      description: 轻松地通过用户名在400多个社交网络中查找社交媒体资料/账户
+      logo: favicon5.png
+    - title: 幻獸帕魯配種大全
+      url: https://www.palworldbreed.com/zh-TW
+      description: 探索您最喜愛的帕魯的所有配種組合。使用我們的幻獸帕魯配種計算器找到完美的配種公式
+      logo: favicon5.png
+    - title: Best MEME Coin
+      url: https://bestmemecoin.org
+      description: 在 Best MEME Coin 上发掘下一个大热的模因币。我们使用 AI 分析趋势，提供专家评论，并帮助您在模因币爆发之前发现顶级模因币
+      logo: favicon5.png
+    - title: Best MEME Coin
+      url: https://memeisgame.com
+      description: 在 MEME is Game 上发现最新和最好的模因币，其中包含 AI 驱动的见解。随时了解顶级模因币的最新趋势、评论和 AI
+        分析，包括 Hot New Meme Coins 和 Best Meme Coins
+      logo: favicon5.png
+    - title: 宙世代 - 为您开启前所未有的元宇宙空间探索之旅
+      url: https://www.z-metaspace.com/
+      description: 宙世代是ZAKER旗下专注元宇宙空间设计的品牌，支持免费及定制化的搭建方式，涵盖文旅、党建、会展、峰会、电商等多个场景，提供品牌空间搭建、私域流量运营、线上展览承办等服务，可用移动设备浏览。
+      logo: favicon5.png
+    - title: IntroCard
+      url: https://introcard.iwhy.dev/
+      description: IntroCard is a tool that helps you create a personalized business
+        card with your own information.
+      logo: favicon5.png
+    - title: 富途证券
+      url: https://www.futuhk.com
+      description: 富途證券,一站式提供港股、美股、A股、期貨、期權和基金等交易服務
+      logo: favicon5.png
+    - title: Ikonik-您在互联网上免费图标的首选
+      url: https://ikonik.azwedo.com/
+      description: Iknoik 提供 50k+ 开源图标供大家使用，这些图标来自创意人士创建的超过 45 个项目。它提供了一个内置的 SVG 编辑器，允许用户将图标复制和粘贴到任何地方。
+      logo: favicon5.png
+    - title: 免费在线英语发音词典
+      url: https://pronounceonline.com/zh/
+      description: PronounceOnline 提供超过 17 万个英语单词和常用短语的真人发音，帮助您掌握英语发音。
+      logo: favicon5.png
+    - title: 海棠诗社
+      url: https://shi300.com
+      description: 海棠诗社，古诗词的数字桃源。海棠诗社按诗集、朝代、诗人、诗词等方式检索，内容丰富，信息齐全。海棠诗社按选集、主题、节日、节气、词牌、时令、地理等方式精选分类。海棠诗社全站响应式布局，兼容移动端，支持暗黑模式，响应速度快。
+      logo: favicon5.png
+    - title: 免费字体网
+      url: https://www.mianfeiziti.com/
+      description: 免费字体网-字体下载-字体预览-海量免费中英文字体下载网站
+      logo: favicon5.png
+    - title: 点点链接
+      url: https://ddlink.cc/
+      description: 点点链接是一款一站式个人主页、导航页和营销工具。可以制作你的主页|数字名片|导航页。聚合你的所有信息，到一个永久链接、二维码、个人网页
+      logo: favicon5.png
+    - title: 身体圆度指数 (BRI) 计算器 - 评估您的健康状况
+      url: https://bricalculator.org/zh
+      description: 使用我们的免费身体圆度指数 (BRI) 计算器来评估您的体型和健康风险。
+      logo: favicon5.png
+    - title: Web Ape 应用程序
+      url: https://www.ape-apps.com/
+      description: Ape Apps is an independent mobile, web, and desktop software development
+        company founded in 2010 by developer Brandon Stecklein.
+      logo: favicon5.png
+    - title: 厘米转英寸转换器
+      url: https://cm-to-inch.com
+      description: 使用我们的可视化工具将厘米转换为英寸。用日常物品比较长度。快速、免费且易用。立即尝试我们独特的厘米英寸转换器！
+      logo: favicon5.png
+    - title: Infiniate Craft.Online-Play Now with Infinite Craft Recipes
+      url: https://www.infinite-craft.online
+      description: 使用 Infinite Craft Recipes 在线玩 Infinite Craft，发现令人兴奋的制作配方，并学习如何掌握游戏！浏览我们的博客获取提示和指南，并观看专家玩家的视频以加深您的知识。您关于
+        Infinite Craft 一切的终极资源！
+      logo: favicon5.png
+    - title: WordPress建站教程
+      url: https://website-custom.com
+      description: WordPress建站教程，通过这篇文章你将学会如何搭建外贸网站，文章通俗易懂的讲解了域名和服务器、WordPress主题和插件使用、WordPress页面搭建等操作。
+      logo: favicon5.png
+    - title: netboot.xyz
+      url: https://netboot.xyz/
+      description: netboot.xyz 使您能够从由 iPXE 项目提供支持的简单易用的菜单中 PXE 启动许多操作系统安装程序和实用程序。
+      logo: favicon5.png
+    - title: PanSci 泛科學
+      url: https://pansci.asia/
+      description: PanSci 泛科學
+      logo: favicon5.png
+    - title: Block Blast Cheat | Free Online Block Blast Best Move Calculator
+      url: https://blockblastcheat.com/
+      description: Block Blast Cheat helps you find the best moves for Block Blast.
+        It's free and online! You only need to upload a screenshot and we'll do the
+        rest to get you high scores.
+      logo: favicon5.png
+    - title: ReadMusic
+      url: https://howtoreadsheetmusic.org/
+      description: 这是一个帮助音乐爱好者学习并联系五线谱识谱的网站，包含技巧教程、实战练习等功能
+      logo: favicon5.png
+    - title: 独角兽SCRM智能AI跨境客服私域营销管理系统
+      url: https://dujiaoshou.im/
+      description: 独角兽出海聊天翻译助手专注于为企业提供高质量的即时双向聊天翻译服务，支持whatsapp Line Tiktok Twitter
+        Instagram Telegram Zalo Facebook Messenger等软件的实时聊天翻译,无限网页多开,多平台聚合，语音转文字,快捷回复，客户备注，粉丝跟进记录，工单数据报表，粉丝数据智能分析等操作软件工具
+      logo: favicon5.png
+    - title: 免费图标
+      url: https://icon-icons.com/zh/
+      description: 免费图标SVG，PNG，ICO或ICNS
+      logo: favicon5.png
+    - title: MoeMail
+      url: https://github.com/beilunyang/moemail
+      description: 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务
+      logo: favicon5.png
+    - title: DiscordTimestamp.org
+      url: https://discordtimestamp.org/zh
+      description: Discord 时间戳生成器和时间转换器
+      logo: favicon5.png
+    - title: LoveLanguageTest
+      url: https://lovelanguagetest.net/zh
+      description: 通过免费测试发现你的爱情
+      logo: favicon5.png
+    - title: DyslexiaTest
+      url: https://dyslexiatest.online/zh
+      description: 免费阅读障碍测试
+      logo: favicon5.png
+    - title: BDSM测试
+      url: https://bdsmtest.online/es
+      description: 免费测试BDSM
+      logo: favicon5.png
+    - title: ReactionTimeTest
+      url: https://reactiontimetest.net/zh
+      description: 快速准确的反应计时器测试您的反应时间！发现您的速度，享受反射速度挑战，并将您的结果与人类的平均反应时间进行比较。
+      logo: favicon5.png
+    - title: gaytest
+      url: https://gaytest.me/zh
+      description: LGBTQ+ 同性恋测试，以发现您的性取向。看看你是同性恋、双性恋还是正在探索。快速、简单、有趣！
+      logo: favicon5.png
+    - title: arryPotterHouseQuiz
+      url: https://harrypotterhousequiz.me/zh
+      description: 通过哈利波特学院测验找出你的霍格沃茨学院！看看你是格兰芬多、赫奇帕夫、拉文克劳还是斯莱特林。受到分院帽的启发，这个免费有趣的测验揭示了你的魔法个性--现在就开始吧！
+      logo: favicon5.png
+    - title: MentalAgeTest
+      url: https://mentalagetest.me/zh
+      description: 心理年龄测试 - 免费在线测验，了解自己的心理年龄
+      logo: favicon5.png
+    - title: MultiplicationChart
+      url: https://multiplicationchart.cc/zh
+      description: 利用交互式图表免费学习乘法
+      logo: favicon5.png
+    - title: DigitalClock
+      url: https://digitalclock.cc/zh
+      description: 在 DigitalClock.cc 将你的电脑变成时尚的全屏数字时钟！非常适合锁屏、桌面或办公室显示屏，提供实时、准确的时间。
+      logo: favicon5.png
+    - title: AI Fortune Teller
+      url: https://aifortuneteller.net/
+      description: 将传统命理与人工智能相结合。我们致力于提供专业准确的命理解读服务。
+      logo: favicon5.png
+    - title: Messages for you - 安全地分享您的想法
+      url: https://www.messagesforyou.org/
+      description: 使用 Messages For You 发送和接收匿名消息。公开发布，并享受游戏、定时消息和加密等独特功能。
+      logo: favicon5.png
+    - title: 传统习俗·年夜饭·节日活动 | 中国年
+      url: https://www.chinesenewyear.news/
+      description: 致力于传播中国传统文化，让更多人了解和感受中国新年的魅力。
+      logo: favicon5.png
+    - title: 字体秀 FontShow - 本地字体预览对比工具
+      url: https://www.fontshow.com/zh
+      description: 字体秀是一款简单免费的本地字体预览对比工具。支持自定义任意文字内容，批量预览不同字体的展示效果，还可以调整文字大小、行高间距和对齐等字体样式，并提供搜索筛选和星标收藏功能，能够快速对比并挑选出心仪的字体。
+      logo: favicon5.png
+    - title: MoeMail - 萌萌哒临时邮箱服务
+      url: https://moemail.app/
+      description: 安全、快速、一次性的临时邮箱地址，保护您的隐私，远离垃圾邮件。支持即时收件，到期自动失效。
+      logo: favicon5.png
+    - title: Qwerty Learner
+      url: https://qwerty.kaiyi.cool/
+      description: 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory
+        training software designed for keyboard workers
+      logo: favicon5.png
+    - title: Old English Translator Free Online
+      url: https://oldenglishtranslator.xyz/
+      description: 免费在线将现代英语翻译成古英语，是翻译成古英语的最佳选择
+      logo: favicon5.png
+    - title: Xchemi
+      url: https://www.xchemi.com
+      description: Xchemi 是中国领先的化工跨境电商平台和化工社区。公司位于中国上海，服务超过 25 万家化工企业。作为化工行业顶尖的大数据平台，Xchemi
+        为全球化工贸易提供先进的数字化解决方案
+      logo: favicon5.png
+    - title: 临时电子邮件-免费一次性电子邮件服务|安全匿名
+      url: https://snapmail100.com/zh/
+      description: 立即创建一个免费的临时电子邮件地址。保护您的隐私，避免垃圾邮件，并使用我们的一次性电子邮件服务在网站上安全注册。
+      logo: favicon5.png
+    - title: 支票寫法
+      url: https://chequewriting.com/
+      description: 「支票寫法｜支票大寫｜金額大寫｜支票轉換｜金額轉換｜支票大小寫｜金額大小寫」的小工具- 把阿拉伯數字轉換至中文/英文大寫寫法。我們的目標是“讓「支票寫法｜支票大寫｜金額大寫｜支票轉換｜金額轉換｜支票大小寫｜金額大小寫」變得「簡單｜容易｜可靠｜快速」”。希望對你有很大幫助，歡迎你的反饋。
+      logo: favicon5.png
 - taxonomy: 求职招聘
-  icon: bi bi-lightbulb
+  icon: bi bi-person-workspace
   list:
   - term: 求职招聘
     links:
@@ -5496,7 +5787,7 @@
       url: https://www.resumeis.com
       description: 热速美斯是一款免费的简历制作工具，无需登录即可使用，本地存储保护隐私，拖拽组合，制作简单，还有丰富的简历模板任你选。
       logo: favicon5.png
-  - term: 企业信息查询
+  - term: 企业查询
     links:
     - title: 企查查
       url: https://www.qcc.com
@@ -5639,7 +5930,7 @@
       description: boss直聘自动打招呼软件 mac和windows均可使用 支持筛选岗位关键词，自定义打招呼语句
       logo: favicon5.png
 - taxonomy: 办公软件
-  icon: bi bi-lightbulb
+  icon: bi bi-file-earmark-word-fill
   list:
   - term: 笔记工具
     links:
@@ -6790,7 +7081,7 @@
       description: 该网站可帮助您随机探索互联网的不同部分。单击上面的按钮，您可以找到新的随机网站、有趣的维基百科文章、独特的图像和照片、引人入胜的电影、引人入胜的电视节目和迷人的书籍
       logo: favicon5.png
 - taxonomy: 科学上网
-  icon: bi bi-lightbulb
+  icon: bi bi-router-fill
   list:
   - term: 科学机场
     links:
@@ -6968,296 +7259,4 @@
     - title: NetBird - 可自托管的安全网络连接
       url: https://netbird.io/
       description: NetBird 结合基于 WireGuard®的覆盖网络和零信任网络访问，提供统一的开源平台，实现可靠安全的连接
-      logo: favicon5.png
-
-  icon: bi bi-lightbulb
-  list:
-  - term: 资源探索
-    links:
-    - title: Emoji Favicon
-      url: https://favicon.magnobiet.com
-      description: 使用Emoji图标代替网站默认icon
-      logo: favicon5.png
-    - title: Favicons生成器
-      url: https://my.faviconkit.com
-      description: 可靠的API从任何网站获取并嵌入Favicons
-      logo: favicon5.png
-    - title: 六种方式获取网站图标
-      url: https://mp.weixin.qq.com/s/8fqpoLDfy4HCRlOaiEkLCA
-      description: 建站必备技能【六种获取网站图标或嵌入在自己网站上的方法】
-      logo: favicon5.png
-    - title: LOGO生成器
-      url: https://creecros.github.io/simple_logo_gen
-      description: 非常简单的logo图标制作工具，开源：https://github.com/creecros/simple_logo_gen
-      logo: favicon5.png
-    - title: 像素画分享站
-      url: https://hello.eboy.com
-      description: 像素画分享站
-      logo: favicon5.png
-    - title: 匿名墙
-      url: https://www.nm1.cn
-      description: 树洞小秘密，聆听你的心声！
-      logo: favicon5.png
-    - title: YouTube镜像
-      url: https://redirect.invidious.io
-      description: YouTube镜像
-      logo: favicon5.png
-    - title: nitter实例-监测
-      url: https://github.com/zedeus/nitter/wiki/Instances
-      description: nitter实例-Twitter镜像
-      logo: favicon5.png
-    - title: Zhelper-V3网址列表
-      url: https://www.ooopn.com/tool/zlibrary
-      description: 电子书库Zhelper可用网址列表
-      logo: favicon5.png
-    - title: uiset
-      url: https://uiset.com
-      description: 一个收录收集插图、图标、表情、图案等资源的网站
-      logo: favicon5.png
-    - title: Google谷歌搜索镜像
-      url: https://www.ooopn.com/tool/gglink/
-      description: Google谷歌搜索镜像
-      logo: favicon5.png
-    - title: pixilart
-      url: https://www.pixilart.com
-      description: 像素画创造和分享
-      logo: favicon5.png
-    - title: 全历史
-      url: https://www.allhistory.com
-      description: get历史知识
-      logo: favicon5.png
-    - title: 克苏鲁公社
-      url: https://www.cthulhuclub.com
-      description: 整理收录关于克苏鲁
-      logo: favicon5.png
-    - title: 100font
-      url: https://www.100font.com/
-      description: 100font.com创建于2019年，是一个主要靠爱发电的免费商用字体收集整理网站，致力于让所有人都有免费商用字体使用、让所有人都能正确使用免费商用字体、让所有优秀的公益字体都能得到更有价值地传播，坚持做企业、设计师都爱用的免费商用字体下载网站
-      logo: favicon5.png
-    - title: 36氪创投平台
-      url: https://pitchhub.36kr.com/
-      description: 36氪创投平台
-      logo: favicon5.png
-    - title: 有趣网站之家
-      url: https://youquhome.com
-      description: 一个背时鬼的有趣网站
-      logo: favicon5.png
-    - title: iKaomoji
-      url: https://ikaomoji.com
-      description: 这是一个专门的网站，提供具有多种变体的表情符号列表和易于使用的复制功能。 找到可爱、快乐、哭泣、惊喜等贴近您感受的表情符号
-      logo: favicon5.png
-    - title: 聊斋茶舍
-      url: https://www.liaozhaichatroom.com/
-      description: 网站汇集了丰富的志怪故事、修行的道法与法术，以及民间神祇的详细介绍，带您探索古代神秘与智慧。无论您是神话爱好者，还是文化研究者，这里都将为您提供宝贵的知识与灵感
-      logo: favicon5.png
-    - title: PalworldZucht
-      url: https://palworldzucht.de
-      description: 在Palworld Breeding List的帮助下培育最强的伙伴。在这里，您将找到最适合您育种的 Pal 组合。
-      logo: favicon5.png
-    - title: albacub
-      url: https://www.albacub.com
-      description: Discover a vast collection of Free framer templates at Albacub.
-        Find the perfect template for your next project
-      logo: favicon5.png
-    - title: 荔枝ip
-      url: https://www.lycheeip.com/?affId=StN3iILCpi
-      description: 荔枝IP（lycheeip）是一家拥有超3000万全球IP的代理服务商，所有的IP都经过AI+算法的滤洗，专为跨境电商和社媒运营服务。
-      logo: favicon5.png
-    - title: ClaudeFound
-      url: https://www.claudefinds.com
-      description: ClaudeFound 是 Claude AI 爱好者的首要社区。在这里，您可以探索、分享和创建令人惊叹的克劳德文物。从代码片段到交互式网页，从SVG图像到复杂的文档，我们为每一位Claude
-        Artifacts爱好者提供灵感和资源
-      logo: favicon5.png
-    - title: midjourneysref
-      url: https://midjourneysref.com
-      description: 一个专注于收集和分类 MidJourney 中 sref 代码的网站。用户可以通过该网站探索和使用不同的 sref 代码，从而生成风格各异的图像效果。网站旨在帮助用户轻松找到自己喜欢的独特效果
-      logo: favicon5.png
-    - title: 酒店协议代码
-      url: https://corporate-codes.online/zh
-      description: 酒店协议代码是一种关于IHG、希尔顿、万豪、凯悦等酒店品牌的特别折扣代码。这些代码提供给企业，以便以优惠价格预订酒店。公司可以利用这些代码为员工的出差节省旅行费用
-      logo: favicon5.png
-    - title: findsocialmedia
-      url: https://findsocialmediaprofile.com
-      description: 轻松地通过用户名在400多个社交网络中查找社交媒体资料/账户
-      logo: favicon5.png
-    - title: 幻獸帕魯配種大全
-      url: https://www.palworldbreed.com/zh-TW
-      description: 探索您最喜愛的帕魯的所有配種組合。使用我們的幻獸帕魯配種計算器找到完美的配種公式
-      logo: favicon5.png
-    - title: Best MEME Coin
-      url: https://bestmemecoin.org
-      description: 在 Best MEME Coin 上发掘下一个大热的模因币。我们使用 AI 分析趋势，提供专家评论，并帮助您在模因币爆发之前发现顶级模因币
-      logo: favicon5.png
-    - title: Best MEME Coin
-      url: https://memeisgame.com
-      description: 在 MEME is Game 上发现最新和最好的模因币，其中包含 AI 驱动的见解。随时了解顶级模因币的最新趋势、评论和 AI
-        分析，包括 Hot New Meme Coins 和 Best Meme Coins
-      logo: favicon5.png
-    - title: 宙世代 - 为您开启前所未有的元宇宙空间探索之旅
-      url: https://www.z-metaspace.com/
-      description: 宙世代是ZAKER旗下专注元宇宙空间设计的品牌，支持免费及定制化的搭建方式，涵盖文旅、党建、会展、峰会、电商等多个场景，提供品牌空间搭建、私域流量运营、线上展览承办等服务，可用移动设备浏览。
-      logo: favicon5.png
-    - title: IntroCard
-      url: https://introcard.iwhy.dev/
-      description: IntroCard is a tool that helps you create a personalized business
-        card with your own information.
-      logo: favicon5.png
-    - title: 富途证券
-      url: https://www.futuhk.com
-      description: 富途證券,一站式提供港股、美股、A股、期貨、期權和基金等交易服務
-      logo: favicon5.png
-    - title: Ikonik-您在互联网上免费图标的首选
-      url: https://ikonik.azwedo.com/
-      description: Iknoik 提供 50k+ 开源图标供大家使用，这些图标来自创意人士创建的超过 45 个项目。它提供了一个内置的 SVG 编辑器，允许用户将图标复制和粘贴到任何地方。
-      logo: favicon5.png
-    - title: 免费在线英语发音词典
-      url: https://pronounceonline.com/zh/
-      description: PronounceOnline 提供超过 17 万个英语单词和常用短语的真人发音，帮助您掌握英语发音。
-      logo: favicon5.png
-    - title: 海棠诗社
-      url: https://shi300.com
-      description: 海棠诗社，古诗词的数字桃源。海棠诗社按诗集、朝代、诗人、诗词等方式检索，内容丰富，信息齐全。海棠诗社按选集、主题、节日、节气、词牌、时令、地理等方式精选分类。海棠诗社全站响应式布局，兼容移动端，支持暗黑模式，响应速度快。
-      logo: favicon5.png
-    - title: 免费字体网
-      url: https://www.mianfeiziti.com/
-      description: 免费字体网-字体下载-字体预览-海量免费中英文字体下载网站
-      logo: favicon5.png
-    - title: 点点链接
-      url: https://ddlink.cc/
-      description: 点点链接是一款一站式个人主页、导航页和营销工具。可以制作你的主页|数字名片|导航页。聚合你的所有信息，到一个永久链接、二维码、个人网页
-      logo: favicon5.png
-    - title: 身体圆度指数 (BRI) 计算器 - 评估您的健康状况
-      url: https://bricalculator.org/zh
-      description: 使用我们的免费身体圆度指数 (BRI) 计算器来评估您的体型和健康风险。
-      logo: favicon5.png
-    - title: Web Ape 应用程序
-      url: https://www.ape-apps.com/
-      description: Ape Apps is an independent mobile, web, and desktop software development
-        company founded in 2010 by developer Brandon Stecklein.
-      logo: favicon5.png
-    - title: 厘米转英寸转换器
-      url: https://cm-to-inch.com
-      description: 使用我们的可视化工具将厘米转换为英寸。用日常物品比较长度。快速、免费且易用。立即尝试我们独特的厘米英寸转换器！
-      logo: favicon5.png
-    - title: Infiniate Craft.Online-Play Now with Infinite Craft Recipes
-      url: https://www.infinite-craft.online
-      description: 使用 Infinite Craft Recipes 在线玩 Infinite Craft，发现令人兴奋的制作配方，并学习如何掌握游戏！浏览我们的博客获取提示和指南，并观看专家玩家的视频以加深您的知识。您关于
-        Infinite Craft 一切的终极资源！
-      logo: favicon5.png
-    - title: WordPress建站教程
-      url: https://website-custom.com
-      description: WordPress建站教程，通过这篇文章你将学会如何搭建外贸网站，文章通俗易懂的讲解了域名和服务器、WordPress主题和插件使用、WordPress页面搭建等操作。
-      logo: favicon5.png
-    - title: netboot.xyz
-      url: https://netboot.xyz/
-      description: netboot.xyz 使您能够从由 iPXE 项目提供支持的简单易用的菜单中 PXE 启动许多操作系统安装程序和实用程序。
-      logo: favicon5.png
-    - title: PanSci 泛科學
-      url: https://pansci.asia/
-      description: PanSci 泛科學
-      logo: favicon5.png
-    - title: Block Blast Cheat | Free Online Block Blast Best Move Calculator
-      url: https://blockblastcheat.com/
-      description: Block Blast Cheat helps you find the best moves for Block Blast.
-        It's free and online! You only need to upload a screenshot and we'll do the
-        rest to get you high scores.
-      logo: favicon5.png
-    - title: ReadMusic
-      url: https://howtoreadsheetmusic.org/
-      description: 这是一个帮助音乐爱好者学习并联系五线谱识谱的网站，包含技巧教程、实战练习等功能
-      logo: favicon5.png
-    - title: 独角兽SCRM智能AI跨境客服私域营销管理系统
-      url: https://dujiaoshou.im/
-      description: 独角兽出海聊天翻译助手专注于为企业提供高质量的即时双向聊天翻译服务，支持whatsapp Line Tiktok Twitter
-        Instagram Telegram Zalo Facebook Messenger等软件的实时聊天翻译,无限网页多开,多平台聚合，语音转文字,快捷回复，客户备注，粉丝跟进记录，工单数据报表，粉丝数据智能分析等操作软件工具
-      logo: favicon5.png
-    - title: 免费图标
-      url: https://icon-icons.com/zh/
-      description: 免费图标SVG，PNG，ICO或ICNS
-      logo: favicon5.png
-    - title: MoeMail
-      url: https://github.com/beilunyang/moemail
-      description: 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务
-      logo: favicon5.png
-    - title: DiscordTimestamp.org
-      url: https://discordtimestamp.org/zh
-      description: Discord 时间戳生成器和时间转换器
-      logo: favicon5.png
-    - title: LoveLanguageTest
-      url: https://lovelanguagetest.net/zh
-      description: 通过免费测试发现你的爱情
-      logo: favicon5.png
-    - title: DyslexiaTest
-      url: https://dyslexiatest.online/zh
-      description: 免费阅读障碍测试
-      logo: favicon5.png
-    - title: BDSM测试
-      url: https://bdsmtest.online/es
-      description: 免费测试BDSM
-      logo: favicon5.png
-    - title: ReactionTimeTest
-      url: https://reactiontimetest.net/zh
-      description: 快速准确的反应计时器测试您的反应时间！发现您的速度，享受反射速度挑战，并将您的结果与人类的平均反应时间进行比较。
-      logo: favicon5.png
-    - title: gaytest
-      url: https://gaytest.me/zh
-      description: LGBTQ+ 同性恋测试，以发现您的性取向。看看你是同性恋、双性恋还是正在探索。快速、简单、有趣！
-      logo: favicon5.png
-    - title: arryPotterHouseQuiz
-      url: https://harrypotterhousequiz.me/zh
-      description: 通过哈利波特学院测验找出你的霍格沃茨学院！看看你是格兰芬多、赫奇帕夫、拉文克劳还是斯莱特林。受到分院帽的启发，这个免费有趣的测验揭示了你的魔法个性--现在就开始吧！
-      logo: favicon5.png
-    - title: MentalAgeTest
-      url: https://mentalagetest.me/zh
-      description: 心理年龄测试 - 免费在线测验，了解自己的心理年龄
-      logo: favicon5.png
-    - title: MultiplicationChart
-      url: https://multiplicationchart.cc/zh
-      description: 利用交互式图表免费学习乘法
-      logo: favicon5.png
-    - title: DigitalClock
-      url: https://digitalclock.cc/zh
-      description: 在 DigitalClock.cc 将你的电脑变成时尚的全屏数字时钟！非常适合锁屏、桌面或办公室显示屏，提供实时、准确的时间。
-      logo: favicon5.png
-    - title: AI Fortune Teller
-      url: https://aifortuneteller.net/
-      description: 将传统命理与人工智能相结合。我们致力于提供专业准确的命理解读服务。
-      logo: favicon5.png
-    - title: Messages for you - 安全地分享您的想法
-      url: https://www.messagesforyou.org/
-      description: 使用 Messages For You 发送和接收匿名消息。公开发布，并享受游戏、定时消息和加密等独特功能。
-      logo: favicon5.png
-    - title: 传统习俗·年夜饭·节日活动 | 中国年
-      url: https://www.chinesenewyear.news/
-      description: 致力于传播中国传统文化，让更多人了解和感受中国新年的魅力。
-      logo: favicon5.png
-    - title: 字体秀 FontShow - 本地字体预览对比工具
-      url: https://www.fontshow.com/zh
-      description: 字体秀是一款简单免费的本地字体预览对比工具。支持自定义任意文字内容，批量预览不同字体的展示效果，还可以调整文字大小、行高间距和对齐等字体样式，并提供搜索筛选和星标收藏功能，能够快速对比并挑选出心仪的字体。
-      logo: favicon5.png
-    - title: MoeMail - 萌萌哒临时邮箱服务
-      url: https://moemail.app/
-      description: 安全、快速、一次性的临时邮箱地址，保护您的隐私，远离垃圾邮件。支持即时收件，到期自动失效。
-      logo: favicon5.png
-    - title: Qwerty Learner
-      url: https://qwerty.kaiyi.cool/
-      description: 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory
-        training software designed for keyboard workers
-      logo: favicon5.png
-    - title: Old English Translator Free Online
-      url: https://oldenglishtranslator.xyz/
-      description: 免费在线将现代英语翻译成古英语，是翻译成古英语的最佳选择
-      logo: favicon5.png
-    - title: Xchemi
-      url: https://www.xchemi.com
-      description: Xchemi 是中国领先的化工跨境电商平台和化工社区。公司位于中国上海，服务超过 25 万家化工企业。作为化工行业顶尖的大数据平台，Xchemi
-        为全球化工贸易提供先进的数字化解决方案
-      logo: favicon5.png
-    - title: 临时电子邮件-免费一次性电子邮件服务|安全匿名
-      url: https://snapmail100.com/zh/
-      description: 立即创建一个免费的临时电子邮件地址。保护您的隐私，避免垃圾邮件，并使用我们的一次性电子邮件服务在网站上安全注册。
-      logo: favicon5.png
-    - title: 支票寫法
-      url: https://chequewriting.com/
-      description: 「支票寫法｜支票大寫｜金額大寫｜支票轉換｜金額轉換｜支票大小寫｜金額大小寫」的小工具- 把阿拉伯數字轉換至中文/英文大寫寫法。我們的目標是“讓「支票寫法｜支票大寫｜金額大寫｜支票轉換｜金額轉換｜支票大小寫｜金額大小寫」變得「簡單｜容易｜可靠｜快速」”。希望對你有很大幫助，歡迎你的反饋。
       logo: favicon5.png
