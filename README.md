@@ -3,7 +3,7 @@
 你可以通过以下方式查找Font Awesome免费版图标：
 
 1. 官方免费图标库：
-- 访问 Font Awesome 免费图标页面
+- 访问 Font Awesome（https://fontawesome.com/） 免费图标页面
 - 使用搜索框查找需要的图标
 - 免费图标会显示"Free"标签
 2. 筛选免费图标方法：
@@ -30,7 +30,7 @@ bi = Bootstrap Icons 的缩写
 star = 星星图标
 fill = 实心填充样式
 官方资源：
-Bootstrap Icons 官网 https://icons.getbootstrap.com/
+Bootstrap Icons 官网 （https://icons.getbootstrap.com/）
 直接搜索 "star" 即可找到该图标
 免费开源，包含1800+图标
 使用场景：

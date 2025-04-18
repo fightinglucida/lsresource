@@ -1,9 +1,24 @@
-- item: 林书导航
+- item: AI工具导航
   icon: fas fa-home
-  link: "https://lsresource.pages.dev/"
+  link: "https://linnav.com/"
   target: _blank
 
-- item: AI公众号
+- item: 自媒体导航
+  icon: fas fa-medal
+  link: "https://linnav.com/"
+  target: _blank
+
+- item: 影音游戏导航
+  icon: fas fa-film
+  link: "https://linnav.com/"
+  target: _blank
+
+- item: 知识付费导航
+  icon: fas fa-graduation-cap
+  link: "https://linnav.com/"
+  target: _blank
+
+- item: 公众号助手
   icon: fab fa-weixin
   list:
     - name: 公众号导航
