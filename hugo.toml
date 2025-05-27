@@ -1,4 +1,4 @@
-baseURL = 'https://linnav.com/'
+baseURL = '/'
 languageCode = 'zh-CN'
 title = '林书AI工具集'
 theme = 'navside'
@@ -8,8 +8,6 @@ disableKinds = ["taxonomy", "term"] # 忽略告警和不生成 category 和 tag 
 disablePathToLower    = true
 hasCJKLanguage        = true
 enableGitInfo         = true
-
-
 
 [params]
     author        = "林书"
