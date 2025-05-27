@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://lsresource.pages.dev/'
 languageCode = 'zh-CN'
 title = '林书AI工具集'
 theme = 'navside'
