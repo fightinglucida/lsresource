@@ -30,10 +30,6 @@
       url: https://tweetlet.net
       description: 创造漂亮推文、文本、代码图像
       logo: https://tweetlet.net/favicon.ico
-    - title: picprose
-      url: https://www.picprose.net/
-      description: 封面制作美化
-      logo: https://favicon.yandex.net/favicon/www.picprose.net
     - title: ray.so
       url: https://ray.so
       description: 创造漂亮的代码图像
@@ -187,10 +183,6 @@
       url: https://guizimo.github.io/cover-craft/
       description: 简单易用的封面图片生成工具，为你的文章、视频、社交媒体创作提供专业的封面设计
       logo: https://favicon.yandex.net/favicon/guizimo.github.io
-    - title: 小红书图文卡片生成器
-      url: https://weierboge.github.io/Redbookcard/
-      description: 小红书图文卡片生成器
-      logo: https://weierboge.github.io/Redbookcard/favicon.ico
     - title: CodeSnap
       url: https://codesnap.byteperks.com/
       description: 轻松创建、分享和管理漂亮的代码图像、链接和可缩放的SVG。自动检测40多种语言，并提供丰富的主题和字体。提升您的代码，激发协作，以前所未有的方式分享！
