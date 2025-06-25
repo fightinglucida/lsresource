@@ -1,6 +1,6 @@
-- item: AI工具导航
-  icon: fas fa-home
-  link: "https://linnav.com/"
+- item: 投稿
+  icon: fas fa-pen-nib
+  link: /comments/
   target: _blank
 
 - item: 自媒体导航

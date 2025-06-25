@@ -1,0 +1,85 @@
+/* 评论页面样式 */
+.comments-section {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid #f0f0f0;
+}
+
+/* Valine评论样式调整 */
+#vcomments .vwrap {
+    border-radius: 8px;
+    border: 1px solid #f0f0f0;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.03);
+    margin-bottom: 2rem;
+}
+
+#vcomments .vwrap .vheader .vinput {
+    border-bottom: 1px dashed #f0f0f0;
+    border-radius: 0;
+}
+
+#vcomments .vwrap .vedit .veditor {
+    min-height: 120px;
+    border-radius: 0;
+    padding: 10px 15px;
+}
+
+#vcomments .vwrap .vcontrol {
+    padding: 0 15px 15px;
+}
+
+#vcomments .vwrap .vcontrol .vsubmit {
+    background-color: #4285f4;
+    color: #fff;
+    border-radius: 4px;
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+#vcomments .vwrap .vcontrol .vsubmit:hover {
+    background-color: #1a73e8;
+}
+
+#vcomments .vcards .vcard {
+    padding: 15px 0;
+    border-bottom: 1px solid #f5f5f5;
+}
+
+#vcomments .vcards .vcard .vh {
+    border-bottom: none;
+    padding-bottom: 10px;
+}
+
+#vcomments .vcards .vcard .vh .vhead .vnick {
+    color: #333;
+    font-weight: 600;
+}
+
+#vcomments .vcards .vcard .vh .vmeta .vtime {
+    color: #888;
+}
+
+#vcomments .vcards .vcard .vcontent {
+    color: #444;
+    line-height: 1.8;
+}
+
+#vcomments .vcards .vcard .vquote {
+    border-left: 2px solid #f0f0f0;
+    padding-left: 15px;
+    margin-top: 10px;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    #vcomments .vwrap .vheader {
+        flex-direction: column;
+    }
+    
+    #vcomments .vwrap .vheader .vinput {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+}

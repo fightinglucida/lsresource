@@ -6,8 +6,15 @@
     <description>Recent content in Articles on 林书AI工具集</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Jun 2025 13:05:48 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 14:31:16 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/article/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coverview - 封面制作好帮手</title>
+      <link>http://localhost:1313/article/coverview/</link>
+      <pubDate>Wed, 25 Jun 2025 13:05:48 +0800</pubDate>
+      <guid>http://localhost:1313/article/coverview/</guid>
+      <description>&lt;h2 id=&#34;网站介绍&#34;&gt;网站介绍&lt;/h2&gt;&#xA;&lt;p&gt;Coverview 是一款专注于封面设计的在线工具，为博客作者、内容创作者和社交媒体用户提供简单而强大的封面图片制作功能。通过直观的界面和丰富的模板，用户可以在几分钟内创建出专业级别的封面图片，无需复杂的设计软件和专业技能。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>爱开发 - 开发者技术资讯网站</title>
       <link>http://localhost:1313/article/idev/</link>
