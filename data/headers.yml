@@ -3,17 +3,17 @@
   link: /comments/
   target: _blank
 
-- item: 自媒体导航
+- item: AI自媒体
   icon: fas fa-medal
   link: "https://mp.linnav.com/"
   target: _blank
 
-- item: 影音游戏导航
+- item: 影音游戏
   icon: fas fa-film
   link: "https://mv.linnav.com/"
   target: _blank
 
-- item: 知识付费导航
+- item: 虚拟资源
   icon: fas fa-graduation-cap
   link: "https://kw.linnav.com/"
   target: _blank
