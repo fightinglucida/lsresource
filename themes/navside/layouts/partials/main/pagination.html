@@ -1,0 +1,69 @@
+{{ if gt .Paginator.TotalPages 1 }}
+<div class="pagination">
+  {{ if .Paginator.HasPrev }}
+    <a href="{{ .Paginator.Prev.URL }}" class="page-item prev">
+      <span>&laquo; 上一页</span>
+    </a>
+  {{ else }}
+    <span class="page-item prev disabled">&laquo; 上一页</span>
+  {{ end }}
+  
+  {{ $paginator := .Paginator }}
+  {{ $window := 2 }}
+  
+  {{ $showFirstPage := false }}
+  {{ $showLastPage := false }}
+  {{ $showLeftDots := false }}
+  {{ $showRightDots := false }}
+  
+  {{ if gt $paginator.TotalPages 5 }}
+    {{ $showFirstPage = true }}
+    {{ $showLastPage = true }}
+    
+    {{ if gt $paginator.PageNumber (add $window 1) }}
+      {{ $showLeftDots = true }}
+    {{ end }}
+    
+    {{ if lt $paginator.PageNumber (sub $paginator.TotalPages $window) }}
+      {{ $showRightDots = true }}
+    {{ end }}
+  {{ end }}
+  
+  {{ if $showFirstPage }}
+    <a href="{{ $paginator.First.URL }}" class="page-item{{ if eq $paginator.PageNumber 1 }} active{{ end }}">
+      <span>1</span>
+    </a>
+  {{ end }}
+  
+  {{ if $showLeftDots }}
+    <span class="page-item dots">...</span>
+  {{ end }}
+  
+  {{ range $paginator.Pagers }}
+    {{ $pageNumber := .PageNumber }}
+    {{ if and (ge $pageNumber (sub $paginator.PageNumber $window)) (le $pageNumber (add $paginator.PageNumber $window)) }}
+      <a href="{{ .URL }}" class="page-item{{ if eq . $paginator }} active{{ end }}">
+        <span>{{ .PageNumber }}</span>
+      </a>
+    {{ end }}
+  {{ end }}
+  
+  {{ if $showRightDots }}
+    <span class="page-item dots">...</span>
+  {{ end }}
+  
+  {{ if $showLastPage }}
+    <a href="{{ $paginator.Last.URL }}" class="page-item{{ if eq $paginator.PageNumber $paginator.TotalPages }} active{{ end }}">
+      <span>{{ $paginator.TotalPages }}</span>
+    </a>
+  {{ end }}
+  
+  {{ if .Paginator.HasNext }}
+    <a href="{{ .Paginator.Next.URL }}" class="page-item next">
+      <span>下一页 &raquo;</span>
+    </a>
+  {{ else }}
+    <span class="page-item next disabled">下一页 &raquo;</span>
+  {{ end }}
+</div>
+{{ end }}
