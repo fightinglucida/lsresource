@@ -1,13 +1,12 @@
 /* 博客列表页面样式 */
 .blog-container {
-    width: 100%;
-    padding: 1.5rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
     background-color: #fff;
-    border-radius: 0;
-    box-shadow: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
 }
-
-/* 全高度容器样式已移除，使用flex布局代替 */
 
 .blog-header {
     margin-bottom: 2rem;
@@ -56,7 +55,7 @@
 /* 博客文章网格布局 */
 .blog-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    grid-template-columns: repeat(5, 1fr);
     gap: 1.5rem;
     margin-bottom: 2rem;
 }

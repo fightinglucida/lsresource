@@ -644,10 +644,12 @@ a>i.sidebar-more {
 @media (min-width:768px) {
 	/* fix article */
 	.main-content.article {
-		margin-right: 170px;
+		margin-right: 0;
+		width: 100%;
 	}
 	.main-content.article .page-header {
-		right: 170px
+		right: 0;
+		width: 100%;
 	}
 	/* end fix article */
 
