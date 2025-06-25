@@ -2,44 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 林书AI工具集</title>
-    <link>http://localhost:1313/post/</link>
+    <link>http://localhost:52955/post/</link>
     <description>Recent content in Posts on 林书AI工具集</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:52955/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Placeholder Text</title>
-      <link>http://localhost:1313/post/placeholder-text/</link>
+      <link>http://localhost:52955/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/placeholder-text/</guid>
+      <guid>http://localhost:52955/post/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>文章标题</title>
+      <link>http://localhost:52955/post/welcome/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52955/post/welcome/</guid>
+      <description>&lt;h1 id=&#34;欢迎来到我们的博客&#34;&gt;欢迎来到我们的博客！&lt;/h1&gt;&#xA;&lt;p&gt;感谢您访问我们的博客页面。这里将是我们分享最新AI工具资讯、技术趋势和行业动态的地方。&lt;/p&gt;&#xA;&lt;h2 id=&#34;我们会分享什么&#34;&gt;我们会分享什么？&lt;/h2&gt;&#xA;&lt;p&gt;在这个博客中，您将看到：&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;AI工具评测&lt;/strong&gt; - 深入分析各种新兴AI工具的功能、优缺点和适用场景&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;技术教程&lt;/strong&gt; - 如何有效地使用各种AI工具提升工作效率&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;行业动态&lt;/strong&gt; - AI领域的最新发展和趋势分析&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;案例分享&lt;/strong&gt; - 实际应用案例和成功故事&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;如何参与讨论&#34;&gt;如何参与讨论？&lt;/h2&gt;&#xA;&lt;p&gt;我们非常欢迎您的参与和反馈：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>测试文章</title>
+      <link>http://localhost:52955/post/test/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52955/post/test/</guid>
+      <description>&lt;h1 id=&#34;这是一个测试文章&#34;&gt;这是一个测试文章&lt;/h1&gt;&#xA;&lt;p&gt;这是一个简单的测试文章，用于测试博客功能是否正常工作。&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Markdown Syntax Guide</title>
-      <link>http://localhost:1313/post/markdown-syntax/</link>
+      <link>http://localhost:52955/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/markdown-syntax/</guid>
+      <guid>http://localhost:52955/post/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rich Content</title>
-      <link>http://localhost:1313/post/rich-content/</link>
+      <link>http://localhost:52955/post/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/rich-content/</guid>
+      <guid>http://localhost:52955/post/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;&#xA;&lt;h2&gt;&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Math Typesetting</title>
-      <link>http://localhost:1313/post/math-typesetting/</link>
+      <link>http://localhost:52955/post/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/math-typesetting/</guid>
+      <guid>http://localhost:52955/post/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Emoji Support</title>
-      <link>http://localhost:1313/post/emoji-support/</link>
+      <link>http://localhost:52955/post/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/emoji-support/</guid>
+      <guid>http://localhost:52955/post/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
   </channel>

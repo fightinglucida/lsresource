@@ -6,6 +6,7 @@ description = "Guide to emoji usage in Hugo"
 tags = [
     "emoji",
 ]
+cover = "images/default-cover.png"
 +++
 
 Emoji can be enabled in a Hugo project in a number of ways.
