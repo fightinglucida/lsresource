@@ -1,7 +1,8 @@
 /* 文章页面样式 */
 .article-container {
     width: 100%;
-    margin: 0;
+    max-width: 800px;
+    margin: 0 auto;
     padding: 2rem;
     background-color: #fff;
     border-radius: 8px;
@@ -235,6 +236,7 @@
 @media (max-width: 768px) {
     .article-container {
         padding: 1.5rem;
+        max-width: 100%;
     }
     
     .single-title {
