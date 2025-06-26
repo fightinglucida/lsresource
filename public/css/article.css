@@ -247,3 +247,75 @@
         font-size: 1rem;
     }
 }
+
+/* 深色模式样式 */
+.io-black-mode .article-container {
+    background-color: #242526;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);
+}
+
+.io-black-mode .article-header {
+    border-bottom: 1px solid #3a3b3c;
+}
+
+.io-black-mode .single-title {
+    color: #e4e6eb;
+}
+
+.io-black-mode .single-subtitle {
+    color: #b0b3b8;
+}
+
+.io-black-mode .post-meta {
+    color: #b0b3b8;
+}
+
+.io-black-mode .article-content {
+    color: #e4e6eb;
+}
+
+.io-black-mode .article-content h2 {
+    color: #e4e6eb;
+    border-bottom: 1px solid #3a3b3c;
+}
+
+.io-black-mode .article-content h3 {
+    color: #e4e6eb;
+}
+
+.io-black-mode .article-content h4 {
+    color: #e4e6eb;
+}
+
+.io-black-mode .article-content a {
+    color: #58a6ff;
+    border-bottom: 1px solid rgba(88, 166, 255, 0.3);
+}
+
+.io-black-mode .article-content a:hover {
+    color: #79b8ff;
+    border-bottom-color: #79b8ff;
+}
+
+.io-black-mode .article-content blockquote {
+    border-left: 4px solid #3a3b3c;
+    color: #b0b3b8;
+}
+
+.io-black-mode .article-content code {
+    background-color: #2d2d2d;
+    color: #ff7b72;
+}
+
+.io-black-mode .article-content pre {
+    background-color: #2d2d2d;
+}
+
+.io-black-mode .article-content pre code {
+    color: #e4e6eb;
+}
+
+.io-black-mode .article-keywords {
+    border-top: 1px solid #3a3b3c;
+    color: #b0b3b8;
+}
